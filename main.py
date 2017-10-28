@@ -38,12 +38,10 @@ count = 0 # initialize number of colleges to zero
 #result_url = input("Enter the url of result page: ")
 # format should be https://www.example.com
 
-#result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=s1f1Yz9Ez3mTh8FehlN0IbecTuk%2FmUaexaZvdnucfuQ%3D&type=XCaROGlc62E6b4hab1%2BeaPK63kmhAF3qL%2FVAa1ccNuk%3D&publishId=VJLLijUz7ldOzCMNC5TsTFlIwYh%2BPpX%2FyAhNMPjLm%2FI%3D"""
 
 #reevaluation
 result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=PXWICZ57B6PcSF7NA%2FqyDlx%2FBbieI99UDGm0PtoFocg%3D&type=3IcV3MhL9p%2FDdB%2FcWAiPRLKlmX8r0%2B%2FsZFCVI%2Fx8bjI%3D&publishId=%2Bjvpw5b2g4cWkUV8essjUJZMB8vvszOylAB%2FPDL6%2BGs%3D"""
-#supply
-#result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=ilmUvhZYmVvMXSiX2buWscMIhg8OfZJikOsUhhZ2ULk%3D&type=cDk%2BT1gsF8ZclRnxnujvZr94kxf%2FEXg0wbSuoV0dN6k%3D&publishId=l9ePEsb6%2FlHkSLvJtsuKn%2FLl%2Bok7jVe6iR8n6XcyHhw%3D"""
+
 html_doc = get_html(result_url)
 
 # creates a ordered grouping from raw html string
