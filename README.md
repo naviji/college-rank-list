@@ -1,10 +1,14 @@
-# Instructions to run program
+Instructions to run program
 
-install -r requirements.txt
+Go to the downloaded folder in terminal
+
+sh installer.sh
 
 Type above line in terminal to install requirements.
 
-Edit main.py result_url in main.py to required result url from www.ktu.edu.in
+
+Edit main.py result_url in main.py to required result url from www.ktu.edu.in  (OPTIONAL)
+
 
 Make sure that the url is in the format "https://www.ktu.edu.in/***"
 
