@@ -85,7 +85,7 @@ def extractor(src,des):
 	# 			print("{} grade for {}".format(l,k))
 	#
 
-
+	print(dept_list);
 
 	text_file = open("{}/{}.txt".format(des,college_name),"w+")
 	text_file.write("{} for {}\n".format(exam_name,content[4]))
