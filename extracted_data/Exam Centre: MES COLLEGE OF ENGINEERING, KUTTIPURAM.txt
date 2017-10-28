@@ -1,0 +1,423 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MES COLLEGE OF ENGINEERING, KUTTIPURAM
+
+APPLIED ELECTRONICS & INSTRUMENTATION ENGINEERING
+
+MES15AE007
+B grade for BE110
+
+MES15AE009
+Nochange grade for BE110
+
+MES15AE012
+Nochange grade for BE110
+Nochange grade for EE100
+
+MES15AE019
+Nochange grade for BE110
+
+MES15AE021
+Nochange grade for BE110
+
+MES15AE023
+Nochange grade for PH100
+
+MES15AE028
+Nochange grade for EE100
+Nochange grade for BE10104
+
+MES15AE032
+Nochange grade for BE110
+Nochange grade for EE100
+
+MES16AE002
+Nochange grade for MA101
+Nochange grade for BE110
+
+MES16AE003
+Nochange grade for MA101
+
+MES16AE007
+Nochange grade for BE110
+
+MES16AE008
+Nochange grade for BE10104
+
+MES16AE009
+Nochange grade for MA101
+
+MES16AE012
+Nochange grade for BE110
+
+MES16AE013
+Nochange grade for EE100
+
+CIVIL ENGINEERING
+
+MES15CE006
+Nochange grade for BE100
+
+MES16CE001
+Nochange grade for ME100
+
+MES16CE008
+Nochange grade for BE10101
+
+MES16CE009
+Nochange grade for BE100
+
+MES16CE027
+Nochange grade for ME100
+
+MES16CE034
+Nochange grade for ME100
+
+MES16CE035
+C grade for CY100
+
+MES16CE042
+Nochange grade for BE10101
+
+MES16CE057
+Nochange grade for BE10101
+
+COMPUTER SCIENCE & ENGINEERING
+
+MES15CS036
+Nochange grade for CY100
+Nochange grade for EC100
+Nochange grade for BE100
+
+MES15CS041
+Nochange grade for BE100
+
+MES15CS075
+Nochange grade for BE110
+
+MES15CS094
+Nochange grade for CY100
+
+MES15CS104
+Nochange grade for EC100
+Nochange grade for CY100
+
+MES16CS002
+Nochange grade for EC100
+Nochange grade for BE100
+
+MES16CS005
+Nochange grade for BE100
+Nochange grade for EC100
+
+MES16CS007
+Nochange grade for BE100
+
+MES16CS008
+Nochange grade for BE10105
+
+MES16CS009
+Nochange grade for BE10105
+Nochange grade for BE100
+Nochange grade for EC100
+
+MES16CS011
+Nochange grade for CY100
+Nochange grade for EC100
+P grade for BE100
+
+MES16CS019
+Nochange grade for BE10105
+Nochange grade for EC100
+
+MES16CS021
+P grade for EC100
+
+MES16CS054
+Nochange grade for EC100
+
+MES16CS056
+Nochange grade for EC100
+
+MES16CS057
+Nochange grade for BE10105
+Nochange grade for EC100
+
+MES16CS060
+Nochange grade for BE10105
+Nochange grade for CY100
+
+MES16CS064
+Nochange grade for BE10105
+
+MES16CS068
+B grade for CY100
+
+MES16CS071
+Nochange grade for BE10105
+
+MES16CS076
+Nochange grade for EC100
+
+MES16CS081
+A grade for CY100
+
+MES16CS085
+Nochange grade for BE10105
+
+MES16CS100
+Nochange grade for EC100
+
+MES16CS106
+A+ grade for CY100
+
+MES16CS107
+Nochange grade for EC100
+
+MES16CS109
+Nochange grade for BE100
+
+MES16CS111
+A+ grade for CY100
+
+MES16CS117
+Nochange grade for BE10105
+Nochange grade for EC100
+
+MES16CS123
+Nochange grade for BE100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MES15EC010
+Nochange grade for BE110
+
+MES15EC017
+Nochange grade for BE110
+
+MES15EC018
+Nochange grade for ME100
+Nochange grade for BE10104
+
+MES15EC020
+Nochange grade for BE110
+
+MES15EC023
+Nochange grade for BE110
+
+MES15EC024
+Nochange grade for BE110
+
+MES15EC027
+B grade for BE110
+
+MES15EC045
+Nochange grade for MA101
+Nochange grade for EE100
+
+MES15EC052
+Nochange grade for BE10104
+
+MES15EC066
+Nochange grade for EE100
+
+MES15EC069
+Nochange grade for BE110
+
+MES16EC002
+Nochange grade for BE110
+
+MES16EC003
+Nochange grade for BE110
+Nochange grade for PH100
+
+MES16EC004
+Nochange grade for BE110
+
+MES16EC010
+Nochange grade for BE110
+
+MES16EC011
+Nochange grade for BE110
+
+MES16EC012
+Nochange grade for BE110
+
+MES16EC014
+Nochange grade for BE110
+
+MES16EC019
+Nochange grade for EE100
+Nochange grade for BE110
+
+MES16EC021
+Nochange grade for BE10104
+Nochange grade for BE110
+
+MES16EC024
+Nochange grade for BE110
+
+MES16EC026
+Nochange grade for BE110
+Nochange grade for EE100
+
+MES16EC028
+Nochange grade for EE100
+
+MES16EC041
+Nochange grade for EE100
+Nochange grade for BE10104
+
+MES16EC044
+Nochange grade for BE110
+
+MES16EC048
+Nochange grade for BE10104
+Nochange grade for BE110
+Nochange grade for EE100
+
+MES16EC049
+C grade for BE10104
+
+MES16EC062
+Nochange grade for EE100
+
+MES16EC063
+Nochange grade for BE110
+
+MES16EC067
+Nochange grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MES16EE001
+C grade for ME100
+
+MES16EE004
+Nochange grade for BE10103
+B+ grade for BE100
+
+MES16EE006
+C grade for BE100
+
+MES16EE012
+Nochange grade for ME100
+Nochange grade for PH100
+
+MES16EE023
+Nochange grade for BE100
+Nochange grade for ME100
+
+MES16EE027
+Nochange grade for ME100
+
+MES16EE034
+Nochange grade for BE10103
+Nochange grade for BE100
+
+MES16EE049
+Nochange grade for BE10103
+
+MES16EE050
+Nochange grade for ME100
+
+INFORMATION TECHNOLOGY
+
+MES16IT012
+Nochange grade for BE100
+
+MES16IT014
+Nochange grade for BE100
+
+MECHANICAL ENGINEERING
+
+MES15ME043
+Nochange grade for CY100
+
+MES16ME001
+Nochange grade for CE100
+
+MES16ME003
+C grade for CE100
+
+MES16ME005
+C grade for CE100
+
+MES16ME007
+Nochange grade for CE100
+Nochange grade for BE10102
+
+MES16ME008
+C grade for CE100
+Nochange grade for BE110
+
+MES16ME009
+Nochange grade for CE100
+
+MES16ME022
+Nochange grade for CE100
+
+MES16ME023
+Nochange grade for BE10102
+Nochange grade for BE110
+Nochange grade for CE100
+
+MES16ME024
+C grade for CE100
+
+MES16ME025
+C grade for CE100
+Nochange grade for MA101
+
+MES16ME027
+Nochange grade for CE100
+Nochange grade for MA101
+
+MES16ME028
+Nochange grade for CE100
+
+MES16ME029
+Nochange grade for CE100
+
+MES16ME032
+Nochange grade for CE100
+
+MES16ME033
+Nochange grade for CE100
+
+MES16ME036
+Nochange grade for BE103
+
+MES16ME037
+C grade for CE100
+
+MES16ME038
+Nochange grade for CY100
+P grade for CE100
+
+MES16ME039
+Nochange grade for BE110
+
+MES16ME041
+C grade for CE100
+
+MES16ME050
+Nochange grade for CE100
+Nochange grade for BE10102
+Nochange grade for CY100
+
+MES16ME051
+Nochange grade for CE100
+
+MES16ME055
+Nochange grade for CE100
+
+MES16ME056
+C grade for BE10102
+
+MES16ME057
+Nochange grade for CE100
+
+MES16ME059
+Nochange grade for CE100
+
+MES16ME061
+Nochange grade for CE100

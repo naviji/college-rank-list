@@ -1,0 +1,310 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MANGALAM COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+MLM16CE027
+Nochange grade for BE110
+
+MLM16CE032
+Nochange grade for CY100
+Nochange grade for BE10101
+
+MLM16CE049
+Nochange grade for BE10101
+Nochange grade for BE110
+C grade for CY100
+
+MLM16CE058
+Nochange grade for BE110
+
+MLM16CE059
+Nochange grade for BE110
+
+MLM16CE062
+Nochange grade for MA101
+
+MLM16CE065
+Nochange grade for BE110
+
+MLM16CE066
+C grade for BE110
+
+MLM16CE067
+Nochange grade for BE110
+
+MLM16CE071
+C grade for MA101
+
+MLM16CE088
+Nochange grade for MA101
+
+MLM16CE090
+C grade for MA101
+Nochange grade for BE10101
+C grade for CY100
+
+MLM16CE100
+Nochange grade for BE110
+
+MLM16CE107
+Nochange grade for BE110
+
+MLM16CE110
+A grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+MLM16CS001
+Nochange grade for BE10105
+
+MLM16CS058
+Nochange grade for BE10105
+
+MLM16CS062
+Nochange grade for BE100
+
+MLM16CS063
+Nochange grade for EE100
+
+MLM16CS064
+Nochange grade for EE100
+Nochange grade for PH100
+
+MLM16CS069
+C grade for EE100
+
+MLM16CS072
+Nochange grade for BE100
+
+MLM16CS076
+Nochange grade for EE100
+
+MLM16CS081
+C grade for BE100
+
+MLM16CS084
+Nochange grade for BE10105
+P grade for BE100
+Nochange grade for BE103
+
+MLM16CS090
+Nochange grade for EE100
+Nochange grade for BE100
+
+MLM16CS091
+Nochange grade for EE100
+
+MLM16CS095
+Nochange grade for PH100
+
+MLM16CS100
+Nochange grade for EE100
+
+MLM16CS116
+Nochange grade for BE100
+Nochange grade for BE103
+Nochange grade for BE10105
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MLM16EC007
+Nochange grade for BE100
+C grade for BE103
+
+MLM16EC019
+Nochange grade for BE10104
+
+MLM16EC047
+C grade for BE10104
+
+MLM16EC065
+Nochange grade for BE100
+Nochange grade for BE10104
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MLM16EE001
+Nochange grade for PH100
+Nochange grade for BE100
+
+MLM16EE004
+Nochange grade for BE100
+Nochange grade for BE10103
+
+MLM16EE005
+Nochange grade for BE10103
+
+MLM16EE006
+Nochange grade for BE10103
+
+MLM16EE010
+C grade for BE100
+
+MLM16EE019
+Nochange grade for BE100
+Nochange grade for PH100
+Nochange grade for ME100
+
+MLM16EE021
+Nochange grade for BE100
+Nochange grade for PH100
+
+MLM16EE022
+Nochange grade for PH100
+Nochange grade for BE100
+
+MLM16EE023
+Nochange grade for MA101
+
+MLM16EE024
+Nochange grade for PH100
+Nochange grade for ME100
+
+MLM16EE027
+Nochange grade for BE10103
+
+MLM16EE028
+Nochange grade for BE10103
+
+MLM16EE030
+Nochange grade for ME100
+
+MLM16EE037
+Nochange grade for ME100
+
+MLM16EE041
+Nochange grade for ME100
+
+MECHANICAL ENGINEERING
+
+MLM16ME001
+TBP* grade for BE10102
+
+MLM16ME003
+Nochange grade for EC100
+
+MLM16ME005
+B grade for EC100
+
+MLM16ME006
+C grade for BE110
+
+MLM16ME007
+TBP* grade for BE10102
+Nochange grade for EC100
+
+MLM16ME010
+TBP* grade for BE10102
+
+MLM16ME011
+Nochange grade for CY100
+TBP* grade for BE10102
+
+MLM16ME012
+TBP* grade for BE10102
+Nochange grade for BE110
+
+MLM16ME013
+TBP* grade for BE10102
+
+MLM16ME015
+TBP* grade for BE10102
+
+MLM16ME016
+TBP* grade for BE10102
+
+MLM16ME017
+TBP* grade for BE10102
+
+MLM16ME018
+TBP* grade for BE10102
+
+MLM16ME019
+TBP* grade for BE10102
+
+MLM16ME021
+TBP* grade for BE10102
+
+MLM16ME022
+Nochange grade for CY100
+TBP* grade for BE10102
+Nochange grade for BE110
+
+MLM16ME026
+Nochange grade for MA101
+
+MLM16ME029
+Nochange grade for MA101
+
+MLM16ME030
+P grade for BE110
+
+MLM16ME031
+P grade for CY100
+TBP* grade for BE10102
+
+MLM16ME032
+B grade for BE110
+
+MLM16ME039
+Nochange grade for EC100
+C grade for BE10102
+
+MLM16ME042
+Nochange grade for BE10102
+
+MLM16ME050
+Nochange grade for BE10102
+
+MLM16ME052
+Nochange grade for BE10102
+Nochange grade for EC100
+
+MLM16ME058
+C grade for EC100
+
+MLM16ME060
+Nochange grade for CY100
+
+MLM16ME064
+C grade for MA101
+
+MLM16ME069
+Nochange grade for CY100
+Nochange grade for EC100
+
+MLM16ME073
+Nochange grade for BE10102
+
+MLM16ME080
+Nochange grade for BE110
+
+MLM16ME086
+C grade for BE10102
+
+MLM16ME088
+Nochange grade for BE10102
+Nochange grade for BE110
+
+MLM16ME090
+Nochange grade for BE110
+
+MLM16ME091
+Nochange grade for BE110
+
+MLM16ME092
+C grade for BE10102
+Nochange grade for BE110
+
+MLM16ME093
+Nochange grade for EC100
+
+MLM16ME097
+C grade for BE110
+
+MLM16ME099
+Nochange grade for BE10102
+Nochange grade for CY100
+
+MLM16ME111
+C grade for BE10102

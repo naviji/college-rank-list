@@ -1,0 +1,543 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: ST JOSEPHS COLLEGE OF ENGINEERING  AND TECHNOLOGY PALAI
+
+APPLIED ELECTRONICS & INSTRUMENTATION ENGINEERING
+
+SJC15AE005
+Nochange grade for BE100
+
+SJC15AE020
+Nochange grade for BE10104
+
+SJC16AE001
+C grade for CE100
+Nochange grade for BE10104
+
+SJC16AE002
+Nochange grade for BE10104
+
+SJC16AE004
+Nochange grade for BE10104
+
+SJC16AE005
+Nochange grade for BE10104
+
+SJC16AE006
+Nochange grade for MA101
+Nochange grade for BE10104
+Nochange grade for BE100
+
+SJC16AE007
+Nochange grade for BE100
+Nochange grade for CE100
+Nochange grade for MA101
+Nochange grade for BE10104
+
+SJC16AE008
+Nochange grade for BE100
+Nochange grade for MA101
+Nochange grade for BE10104
+
+SJC16AE009
+Nochange grade for CE100
+
+SJC16AE010
+Nochange grade for BE100
+Nochange grade for CE100
+Nochange grade for BE10104
+
+SJC16AE011
+C grade for CE100
+C grade for BE103
+
+SJC16AE013
+Nochange grade for CE100
+Nochange grade for BE10104
+
+SJC16AE017
+Nochange grade for BE10104
+Nochange grade for CE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+SJC15CS004
+Nochange grade for PH100
+
+SJC15CS023
+C grade for EC100
+
+SJC15CS026
+B grade for EC100
+
+SJC15CS045
+C grade for EC100
+
+SJC15CS047
+C grade for EC100
+
+SJC16CS002
+Nochange grade for MA101
+Nochange grade for EE100
+
+SJC16CS004
+Nochange grade for EE100
+
+SJC16CS011
+C grade for BE110
+Nochange grade for EE100
+Nochange grade for PH100
+Nochange grade for BE10105
+Nochange grade for MA101
+
+SJC16CS016
+Nochange grade for MA101
+Nochange grade for EE100
+
+SJC16CS019
+Nochange grade for EE100
+
+SJC16CS022
+Nochange grade for MA101
+
+SJC16CS026
+Nochange grade for EE100
+
+SJC16CS027
+Nochange grade for BE103
+
+SJC16CS031
+P grade for BE103
+
+SJC16CS032
+Nochange grade for MA101
+
+SJC16CS034
+Nochange grade for EE100
+Nochange grade for MA101
+
+SJC16CS037
+Nochange grade for MA101
+
+SJC16CS038
+Nochange grade for MA101
+
+SJC16CS045
+Nochange grade for BE103
+Nochange grade for BE10105
+
+SJC16CS046
+Nochange grade for MA101
+
+SJC16CS048
+Nochange grade for BE110
+Nochange grade for EE100
+
+SJC16CS050
+Nochange grade for PH100
+Nochange grade for EE100
+
+SJC16CS051
+Nochange grade for MA101
+Nochange grade for PH100
+
+SJC16CS053
+P grade for EE100
+B grade for MA101
+
+SJC16CS055
+Nochange grade for EE100
+
+SJC16CS059
+Nochange grade for EE100
+
+SJC16CS061
+Nochange grade for EE100
+
+SJC16CS062
+C grade for MA101
+
+SJC16CS063
+Nochange grade for BE110
+
+SJC16CS064
+Nochange grade for BE10105
+
+SJC16CS066
+Nochange grade for EE100
+
+SJC16CS067
+Nochange grade for EE100
+
+SJC16CS071
+Nochange grade for MA101
+
+SJC16CS078
+B+ grade for EE100
+
+SJC16CS079
+Nochange grade for EE100
+C grade for MA101
+
+SJC16CS089
+Nochange grade for PH100
+Nochange grade for MA101
+Nochange grade for BE10105
+
+SJC16CS091
+Nochange grade for EE100
+C grade for BE110
+
+SJC16CS094
+Nochange grade for EE100
+
+SJC16CS095
+Nochange grade for MA101
+
+SJC16CS096
+B grade for MA101
+
+SJC16CS097
+Nochange grade for EE100
+
+SJC16CS098
+Nochange grade for PH100
+Nochange grade for EE100
+Nochange grade for MA101
+Nochange grade for BE10105
+
+SJC16CS103
+Nochange grade for EE100
+
+SJC16CS106
+Nochange grade for BE10105
+C grade for MA101
+
+SJC16CS107
+C grade for EE100
+
+SJC16CS109
+Nochange grade for EE100
+
+SJC16CS110
+Nochange grade for EE100
+Nochange grade for MA101
+
+SJC16CS112
+C grade for EE100
+
+SJC16CS115
+Nochange grade for BE10105
+
+SJC16CS116
+P grade for EE100
+Nochange grade for MA101
+
+SJC16CS117
+Nochange grade for EE100
+Nochange grade for MA101
+
+SJC16CS121
+Nochange grade for EE100
+Nochange grade for MA101
+
+SJC16CS123
+Nochange grade for EE100
+
+CIVIL ENGINEERING
+
+SJC15CE006
+C grade for EC100
+
+SJC15CE010
+Nochange grade for MA101
+
+SJC15CE025
+Nochange grade for EC100
+
+SJC15CE043
+Nochange grade for EE100
+Nochange grade for CY100
+
+SJC16CE009
+Nochange grade for BE103
+
+SJC16CE016
+Nochange grade for BE10101
+
+SJC16CE035
+A+ grade for BE103
+O grade for EE100
+
+SJC16CE048
+Nochange grade for CY100
+Nochange grade for BE10101
+
+SJC16CE052
+Nochange grade for MA101
+Nochange grade for BE10101
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+SJC15EE020
+Nochange grade for MA101
+
+SJC15EE024
+C grade for EC100
+
+SJC16EE007
+Nochange grade for BE10103
+
+SJC16EE009
+Nochange grade for MA101
+
+SJC16EE010
+Nochange grade for BE10103
+Nochange grade for BE110
+
+SJC16EE015
+Nochange grade for CY100
+Nochange grade for BE110
+
+SJC16EE019
+A+ grade for CY100
+
+SJC16EE021
+A grade for BE110
+
+SJC16EE024
+B+ grade for CY100
+Nochange grade for MA101
+
+SJC16EE026
+C grade for BE10103
+Nochange grade for MA101
+
+SJC16EE030
+C grade for BE10103
+Nochange grade for MA101
+Nochange grade for ME100
+
+SJC16EE032
+Nochange grade for BE110
+Nochange grade for ME100
+Nochange grade for MA101
+Nochange grade for BE10103
+
+SJC16EE036
+Nochange grade for BE10103
+P grade for BE103
+
+ELECTRONICS & COMMUNICATION ENGG
+
+SJC15EC039
+Nochange grade for BE100
+Nochange grade for BE10104
+
+SJC16EC005
+Nochange grade for BE10104
+
+SJC16EC010
+Nochange grade for BE10104
+
+SJC16EC030
+P grade for MA101
+
+SJC16EC031
+Nochange grade for CY100
+Nochange grade for CE100
+
+SJC16EC052
+Nochange grade for BE100
+
+SJC16EC063
+Nochange grade for CE100
+
+SJC16EC064
+Nochange grade for BE100
+
+SJC16EC070
+Nochange grade for BE10104
+Nochange grade for MA101
+
+SJC16EC071
+Nochange grade for BE100
+
+SJC16EC072
+Nochange grade for BE100
+
+SJC16EC077
+Nochange grade for BE10104
+
+SJC16EC078
+Nochange grade for CY100
+Nochange grade for CE100
+Nochange grade for MA101
+Nochange grade for BE100
+
+SJC16EC080
+Nochange grade for MA101
+Nochange grade for BE10104
+Nochange grade for BE100
+
+MECHANICAL ENGINEERING
+
+SJC15ME001
+C grade for EC100
+
+SJC15ME072
+B grade for EC100
+
+SJC16ME006
+Nochange grade for BE100
+
+SJC16ME009
+Nochange grade for BE100
+Nochange grade for MA101
+C grade for BE10102
+
+SJC16ME017
+Nochange grade for BE100
+C grade for BE103
+
+SJC16ME028
+Nochange grade for BE100
+
+SJC16ME031
+Nochange grade for MA101
+Nochange grade for EC100
+Nochange grade for BE100
+
+SJC16ME032
+Nochange grade for EC100
+
+SJC16ME033
+C grade for EC100
+
+SJC16ME034
+A+ grade for EC100
+
+SJC16ME035
+Nochange grade for EC100
+
+SJC16ME036
+B grade for EC100
+
+SJC16ME038
+Nochange grade for BE10102
+Nochange grade for MA101
+Nochange grade for EC100
+
+SJC16ME039
+B+ grade for EC100
+
+SJC16ME040
+O grade for EC100
+
+SJC16ME041
+B grade for EC100
+
+SJC16ME042
+C grade for EC100
+
+SJC16ME044
+B grade for EC100
+
+SJC16ME045
+C grade for EC100
+Nochange grade for BE10102
+
+SJC16ME047
+A+ grade for EC100
+
+SJC16ME048
+Nochange grade for EC100
+
+SJC16ME051
+Nochange grade for MA101
+
+SJC16ME054
+Nochange grade for MA101
+Nochange grade for BE100
+Nochange grade for PH100
+Nochange grade for BE10102
+
+SJC16ME056
+Nochange grade for EC100
+
+SJC16ME064
+Nochange grade for BE100
+
+SJC16ME066
+Nochange grade for PH100
+
+SJC16ME067
+Nochange grade for BE100
+
+SJC16ME069
+Nochange grade for MA101
+
+SJC16ME071
+Nochange grade for BE100
+Nochange grade for MA101
+
+SJC16ME075
+C grade for MA101
+
+SJC16ME078
+Nochange grade for BE100
+Nochange grade for MA101
+
+SJC16ME082
+Nochange grade for BE10102
+
+SJC16ME083
+Nochange grade for EC100
+C grade for BE10102
+
+SJC16ME085
+C grade for MA101
+B grade for EC100
+
+SJC16ME086
+B+ grade for EC100
+
+SJC16ME087
+B grade for EC100
+
+SJC16ME090
+Nochange grade for BE10102
+C grade for BE103
+
+SJC16ME091
+B grade for EC100
+
+SJC16ME092
+C grade for MA101
+
+SJC16ME094
+Nochange grade for PH100
+B+ grade for BE103
+Nochange grade for BE10102
+B grade for EC100
+
+SJC16ME095
+B grade for EC100
+
+SJC16ME096
+Nochange grade for MA101
+
+SJC16ME097
+B+ grade for EC100
+B+ grade for MA101
+
+SJC16ME099
+C grade for EC100
+
+SJC16ME105
+C grade for EC100
+
+SJC16ME112
+B+ grade for EC100
+
+SJC16ME113
+Nochange grade for EC100
+Nochange grade for BE100

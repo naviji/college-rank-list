@@ -1,0 +1,292 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING ADOOR
+
+ELECTRONICS & COMMUNICATION ENGG
+
+ADR15EC073
+TBP* grade for MA101
+
+ADR16EC002
+TBP* grade for BE110
+
+ADR16EC009
+TBP* grade for BE110
+
+ADR16EC010
+TBP* grade for BE110
+
+ADR16EC012
+TBP* grade for PH100
+TBP* grade for BE103
+
+ADR16EC014
+TBP* grade for BE103
+
+ADR16EC017
+TBP* grade for BE110
+
+ADR16EC019
+TBP* grade for BE110
+TBP* grade for BE103
+
+ADR16EC028
+TBP* grade for BE110
+
+ADR16EC030
+TBP* grade for BE110
+
+ADR16EC048
+TBP* grade for BE110
+
+ADR16EC049
+TBP* grade for BE110
+
+ADR16EC055
+TBP* grade for BE110
+
+ADR16EC056
+TBP* grade for BE110
+
+ADR16EC057
+TBP* grade for BE103
+TBP* grade for PH100
+
+ADR16EC058
+TBP* grade for BE110
+TBP* grade for EE100
+
+ADR16EC067
+TBP* grade for PH100
+
+ADR16EC069
+TBP* grade for BE103
+
+MECHANICAL ENGINEERING
+
+ADR16ME001
+TBP* grade for CE100
+
+ADR16ME003
+TBP* grade for CY100
+TBP* grade for CE100
+
+ADR16ME004
+TBP* grade for CE100
+
+ADR16ME011
+TBP* grade for CE100
+TBP* grade for CY100
+
+ADR16ME012
+TBP* grade for CE100
+TBP* grade for BE103
+
+ADR16ME014
+TBP* grade for MA101
+TBP* grade for BE100
+
+ADR16ME015
+TBP* grade for CE100
+
+ADR16ME022
+TBP* grade for CE100
+TBP* grade for BE100
+
+ADR16ME026
+TBP* grade for BE100
+TBP* grade for CE100
+
+ADR16ME027
+TBP* grade for BE100
+TBP* grade for CE100
+
+ADR16ME028
+TBP* grade for MA101
+
+ADR16ME030
+TBP* grade for MA101
+
+ADR16ME034
+TBP* grade for CE100
+
+ADR16ME035
+TBP* grade for CE100
+TBP* grade for BE103
+
+ADR16ME036
+TBP* grade for BE100
+TBP* grade for CY100
+
+ADR16ME039
+TBP* grade for CE100
+
+ADR16ME041
+TBP* grade for CE100
+
+ADR16ME042
+TBP* grade for CE100
+
+ADR16ME044
+TBP* grade for CE100
+
+ADR16ME049
+TBP* grade for CE100
+
+ADR16ME050
+TBP* grade for CY100
+TBP* grade for BE103
+
+ADR16ME051
+TBP* grade for CE100
+
+ADR16ME054
+TBP* grade for CE100
+TBP* grade for MA101
+
+ADR16ME058
+TBP* grade for CE100
+
+ADR16ME064
+TBP* grade for BE100
+
+ADR16ME069
+TBP* grade for CE100
+TBP* grade for BE100
+
+ADR16ME071
+TBP* grade for BE100
+
+ADR16ME075
+TBP* grade for BE100
+
+ADR16ME085
+TBP* grade for CE100
+
+ADR16ME087
+TBP* grade for CE100
+
+ADR16ME088
+TBP* grade for BE100
+TBP* grade for CE100
+
+ADR16ME093
+TBP* grade for BE100
+TBP* grade for CY100
+
+ADR16ME094
+TBP* grade for BE10102
+TBP* grade for CY100
+
+ADR16ME098
+TBP* grade for BE100
+
+ADR16ME112
+TBP* grade for BE100
+TBP* grade for CY100
+TBP* grade for BE10102
+
+ADR16ME116
+TBP* grade for CY100
+TBP* grade for BE100
+
+TCE16ME028
+Nochange grade for MA101
+Nochange grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+ADR16CS008
+TBP* grade for BE110
+
+ADR16CS009
+TBP* grade for PH100
+TBP* grade for EC100
+
+ADR16CS014
+TBP* grade for BE110
+
+ADR16CS017
+TBP* grade for BE110
+
+ADR16CS018
+TBP* grade for BE110
+
+ADR16CS020
+TBP* grade for BE110
+
+ADR16CS021
+TBP* grade for BE110
+
+ADR16CS024
+TBP* grade for BE110
+
+ADR16CS028
+TBP* grade for PH100
+
+ADR16CS029
+TBP* grade for BE110
+TBP* grade for BE103
+
+ADR16CS032
+TBP* grade for BE10105
+TBP* grade for EC100
+TBP* grade for BE110
+TBP* grade for BE103
+
+ADR16CS033
+TBP* grade for PH100
+TBP* grade for EC100
+TBP* grade for BE110
+
+ADR16CS037
+TBP* grade for BE110
+TBP* grade for EC100
+
+ADR16CS040
+TBP* grade for PH100
+TBP* grade for EC100
+
+ADR16CS043
+TBP* grade for MA101
+
+ADR16CS057
+TBP* grade for EC100
+
+ADR16CS059
+TBP* grade for BE103
+TBP* grade for BE110
+TBP* grade for EC100
+TBP* grade for PH100
+
+ADR16CS060
+TBP* grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+ADR15EE018
+TBP* grade for CY100
+
+ADR16EE011
+TBP* grade for BE100
+
+ADR16EE013
+TBP* grade for BE100
+
+ADR16EE014
+TBP* grade for BE10103
+
+ADR16EE030
+TBP* grade for CY100
+
+ADR16EE036
+TBP* grade for CY100
+TBP* grade for EC100
+TBP* grade for BE10103
+
+ADR16EE037
+TBP* grade for MA101
+TBP* grade for BE10103
+
+ADR16EE047
+TBP* grade for CY100
+TBP* grade for MA101
+TBP* grade for BE100

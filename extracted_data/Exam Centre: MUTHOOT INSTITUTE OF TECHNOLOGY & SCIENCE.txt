@@ -1,0 +1,169 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE
+
+MECHANICAL ENGINEERING
+
+MUT16ME003
+C grade for MA101
+P grade for EE100
+
+MUT16ME026
+P grade for MA101
+
+MUT16ME030
+B grade for PH100
+C grade for MA101
+
+MUT16ME034
+Nochange grade for MA101
+
+MUT16ME045
+Nochange grade for EE100
+
+MUT16ME054
+C grade for EE100
+
+CIVIL ENGINEERING
+
+MUT16CE003
+O grade for PH100
+
+MUT16CE019
+O grade for ME100
+Nochange grade for BE10101
+
+MUT16CE022
+A+ grade for ME100
+
+MUT16CE031
+Nochange grade for PH100
+B+ grade for BE100
+
+MUT16CE043
+B grade for ME100
+
+MUT16CE050
+A+ grade for ME100
+
+MUT16CE056
+Nochange grade for PH100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MUT15EE017
+Nochange grade for MA101
+
+MUT16EE001
+Nochange grade for MA101
+
+MUT16EE004
+A grade for BE110
+
+MUT16EE007
+Nochange grade for MA101
+
+MUT16EE010
+C grade for MA101
+
+MUT16EE028
+Nochange grade for BE10103
+
+MUT16EE033
+Nochange grade for BE10103
+
+MUT16EE051
+Nochange grade for BE10103
+
+MUT16EE052
+C grade for CY100
+
+MUT16EE053
+C grade for ME100
+
+MUT16EE054
+B+ grade for ME100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MUT16EC005
+C grade for CY100
+Nochange grade for CE100
+
+MUT16EC006
+A+ grade for CY100
+
+MUT16EC007
+Nochange grade for CE100
+A+ grade for CY100
+
+MUT16EC009
+B+ grade for CY100
+
+MUT16EC010
+A grade for CY100
+
+MUT16EC011
+A grade for CY100
+
+MUT16EC012
+A+ grade for CY100
+
+MUT16EC013
+Nochange grade for CE100
+Nochange grade for CY100
+A grade for MA101
+
+MUT16EC014
+B grade for BE100
+Nochange grade for CY100
+Nochange grade for CE100
+
+MUT16EC017
+A grade for CY100
+
+MUT16EC022
+Nochange grade for CY100
+Nochange grade for MA101
+
+MUT16EC023
+C grade for BE100
+Nochange grade for CY100
+
+MUT16EC025
+C grade for MA101
+
+MUT16EC030
+Nochange grade for CE100
+
+MUT16EC038
+Nochange grade for CE100
+C grade for BE10104
+
+MUT16EC040
+B grade for CE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+MUT16CS005
+Nochange grade for CY100
+
+MUT16CS006
+A grade for BE110
+Nochange grade for CY100
+
+MUT16CS009
+A grade for MA101
+
+MUT16CS010
+B grade for BE110
+
+MUT16CS021
+Nochange grade for CY100
+
+MUT16CS030
+Nochange grade for CY100
+
+MUT16CS053
+Nochange grade for EC100
+
+MUT16CS056
+Nochange grade for MA101

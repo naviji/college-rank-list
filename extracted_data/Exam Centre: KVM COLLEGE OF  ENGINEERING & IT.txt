@@ -1,0 +1,148 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: KVM COLLEGE OF  ENGINEERING & IT
+
+MECHANICAL ENGINEERING
+
+KVE15ME004
+Nochange grade for PH100
+
+KVE15ME007
+Nochange grade for PH100
+
+KVE15ME024
+Nochange grade for PH100
+
+KVE16ME001
+Nochange grade for CE100
+
+KVE16ME003
+Nochange grade for CE100
+Nochange grade for BE10102
+
+KVE16ME004
+Nochange grade for BE103
+Nochange grade for CE100
+
+KVE16ME005
+Nochange grade for CE100
+
+KVE16ME011
+Nochange grade for BE110
+
+KVE16ME013
+C grade for CE100
+
+KVE16ME016
+Nochange grade for PH100
+
+KVE16ME019
+C grade for CE100
+C grade for PH100
+
+KVE16ME022
+C grade for CE100
+
+KVE16ME023
+Nochange grade for BE103
+B grade for BE110
+
+KVE16ME025
+Nochange grade for BE10102
+Nochange grade for PH100
+Nochange grade for CE100
+
+KVE16ME026
+Nochange grade for PH100
+Nochange grade for CE100
+
+KVE16ME030
+Nochange grade for MA101
+C grade for CE100
+
+KVE16ME032
+C grade for CE100
+
+KVE16ME033
+Nochange grade for MA101
+
+KVE16ME034
+Nochange grade for BE10102
+
+KVE16ME037
+Nochange grade for PH100
+Nochange grade for CE100
+
+KVE16ME040
+Nochange grade for MA101
+Nochange grade for BE10102
+Nochange grade for PH100
+Nochange grade for CE100
+
+KVE16ME041
+Nochange grade for CE100
+
+CIVIL ENGINEERING
+
+KVE15CE006
+Nochange grade for BE100
+
+KVE15CE032
+TBP* grade for ME100
+Nochange grade for BE100
+
+KVE16CE002
+Nochange grade for MA101
+
+KVE16CE004
+Nochange grade for MA101
+
+KVE16CE005
+Nochange grade for BE100
+Nochange grade for MA101
+
+KVE16CE008
+Nochange grade for MA101
+
+KVE16CE011
+Nochange grade for BE10101
+
+KVE16CE012
+Nochange grade for BE100
+
+KVE16CE015
+C grade for BE100
+
+KVE16CE017
+B grade for BE100
+
+KVE16CE018
+Nochange grade for BE10101
+
+KVE16CE020
+Nochange grade for MA101
+
+KVE16CE023
+Nochange grade for BE10101
+
+KVE16CE025
+Nochange grade for BE10101
+
+KVE16CE030
+Nochange grade for MA101
+
+COMPUTER SCIENCE & ENGINEERING
+
+KVE15CS006
+Nochange grade for CY100
+
+KVE15CS015
+Nochange grade for EE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+KVE16EE007
+Nochange grade for BE103
+
+ELECTRONICS & COMMUNICATION ENGG
+
+KVE16EC013
+Nochange grade for BE103

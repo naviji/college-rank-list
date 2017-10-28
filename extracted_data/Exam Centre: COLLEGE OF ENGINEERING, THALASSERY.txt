@@ -1,0 +1,295 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING, THALASSERY
+
+INFORMATION TECHNOLOGY
+
+TLY16IT006
+Nochange grade for BE100
+Nochange grade for CY100
+
+TLY16IT008
+Nochange grade for CY100
+
+TLY16IT011
+Nochange grade for CY100
+
+TLY16IT015
+C grade for BE103
+B grade for CY100
+
+TLY16IT019
+Nochange grade for MA101
+
+TLY16IT025
+Nochange grade for BE100
+
+TLY16IT028
+Nochange grade for BE103
+
+TLY16IT031
+Nochange grade for BE103
+Nochange grade for CY100
+
+TLY16IT033
+Nochange grade for CY100
+Nochange grade for EE100
+Nochange grade for BE100
+
+TLY16IT038
+Nochange grade for BE103
+
+TLY16IT043
+Nochange grade for BE100
+Nochange grade for MA101
+Nochange grade for EE100
+
+TLY16IT051
+Nochange grade for CY100
+Nochange grade for MA101
+
+ELECTRONICS & COMMUNICATION ENGG
+
+TLY15EC089
+C grade for BE10104
+
+TLY16EC006
+Nochange grade for BE100
+
+TLY16EC019
+P grade for CY100
+
+TLY16EC020
+Nochange grade for BE10104
+Nochange grade for BE103
+
+TLY16EC022
+Nochange grade for BE100
+Nochange grade for MA101
+
+TLY16EC025
+Nochange grade for MA101
+
+TLY16EC033
+C grade for CY100
+
+TLY16EC036
+C grade for BE100
+
+TLY16EC052
+Nochange grade for MA101
+
+TLY16EC062
+Nochange grade for MA101
+
+TLY16EC070
+C grade for BE10104
+
+TLY16EC075
+Nochange grade for MA101
+
+TLY16EC076
+Nochange grade for BE10104
+
+TLY16EC082
+Nochange grade for MA101
+
+TLY16EC083
+Nochange grade for CY100
+C grade for CE100
+Nochange grade for BE10104
+
+TLY16EC092
+Nochange grade for BE10104
+Nochange grade for BE100
+
+TLY16EC093
+Nochange grade for BE103
+Nochange grade for CE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+TLY15EE007
+Nochange grade for MA101
+Nochange grade for BE10103
+
+TLY15EE008
+Nochange grade for MA101
+
+TLY16EE013
+C grade for CE100
+
+TLY16EE018
+Nochange grade for CE100
+
+TLY16EE019
+Nochange grade for BE110
+
+TLY16EE021
+Nochange grade for MA101
+Nochange grade for BE10103
+C grade for PH100
+Nochange grade for CE100
+
+TLY16EE027
+P grade for MA101
+
+TLY16EE028
+Nochange grade for MA101
+
+TLY16EE029
+Nochange grade for MA101
+
+TLY16EE030
+Nochange grade for MA101
+
+TLY16EE034
+Nochange grade for CE100
+
+TLY16EE036
+Nochange grade for MA101
+
+TLY16EE038
+B grade for BE110
+
+TLY16EE040
+B grade for BE110
+
+TLY16EE042
+Nochange grade for BE10103
+
+TLY16EE046
+B grade for BE110
+
+TLY16EE049
+Nochange grade for PH100
+C grade for CE100
+
+MECHANICAL ENGINEERING
+
+TLY16ME002
+Nochange grade for PH100
+
+TLY16ME012
+Nochange grade for MA101
+
+TLY16ME014
+Nochange grade for PH100
+
+TLY16ME031
+Nochange grade for EE100
+Nochange grade for BE10102
+
+TLY16ME036
+Nochange grade for BE10102
+
+TLY16ME043
+Nochange grade for BE110
+
+TLY16ME047
+B grade for BE110
+
+TLY16ME053
+Nochange grade for MA101
+
+TLY16ME056
+C grade for BE10102
+
+COMPUTER SCIENCE & ENGINEERING
+
+TLY16CS009
+Nochange grade for CY100
+
+TLY16CS042
+Nochange grade for CY100
+
+CIVIL ENGINEERING
+
+TLY15CE011
+Nochange grade for BE110
+
+TLY15CE017
+B grade for BE110
+
+TLY15CE020
+Nochange grade for BE110
+
+TLY15CE035
+B grade for BE110
+
+TLY15CE056
+Nochange grade for BE110
+
+TLY16CE001
+Nochange grade for BE110
+Nochange grade for MA101
+
+TLY16CE002
+Nochange grade for MA101
+
+TLY16CE005
+Nochange grade for BE110
+
+TLY16CE010
+B grade for BE110
+
+TLY16CE012
+Nochange grade for BE110
+
+TLY16CE014
+C grade for PH100
+
+TLY16CE015
+Nochange grade for BE110
+
+TLY16CE017
+Nochange grade for BE110
+
+TLY16CE020
+Nochange grade for BE110
+
+TLY16CE022
+Nochange grade for BE103
+Nochange grade for BE110
+
+TLY16CE024
+B grade for BE110
+
+TLY16CE027
+Nochange grade for BE110
+C grade for ME100
+
+TLY16CE029
+Nochange grade for BE110
+
+TLY16CE031
+Nochange grade for BE110
+
+TLY16CE032
+Nochange grade for MA101
+
+TLY16CE036
+Nochange grade for BE110
+
+TLY16CE038
+Nochange grade for MA101
+
+TLY16CE044
+C grade for ME100
+
+TLY16CE045
+C grade for ME100
+B grade for BE110
+
+TLY16CE046
+Nochange grade for BE110
+
+TLY16CE048
+Nochange grade for MA101
+
+TLY16CE050
+Nochange grade for BE110
+
+TLY16CE056
+Nochange grade for BE110
+
+TLY16CE060
+Nochange grade for MA101

@@ -1,0 +1,86 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: SARABHAI INSTITUTE OF SCIENCE AND TECHNOLOGY
+
+COMPUTER SCIENCE & ENGINEERING
+
+SIT16CS005
+Nochange grade for BE100
+
+SIT16CS006
+Nochange grade for MA101
+Nochange grade for BE103
+Nochange grade for PH100
+Nochange grade for EC100
+
+SIT16CS017
+Nochange grade for PH100
+
+SIT16CS018
+P grade for BE103
+
+CIVIL ENGINEERING
+
+SIT16CE001
+Nochange grade for BE10101
+
+SIT16CE007
+Nochange grade for BE10101
+Nochange grade for BE100
+Nochange grade for BE103
+
+SIT16CE012
+Nochange grade for ME100
+Nochange grade for BE10101
+
+SIT16CE022
+Nochange grade for MA101
+Nochange grade for PH100
+
+SIT16CE027
+Nochange grade for PH100
+Nochange grade for BE10101
+Nochange grade for BE100
+
+MECHANICAL ENGINEERING
+
+SIT16ME003
+Nochange grade for CY100
+Nochange grade for CE100
+
+SIT16ME007
+Nochange grade for CE100
+
+SIT16ME031
+Nochange grade for BE10102
+Nochange grade for CE100
+
+SIT16ME040
+Nochange grade for MA101
+
+ELECTRONICS & COMMUNICATION ENGG
+
+SIT15EC022
+Nochange grade for BE110
+
+SIT15EC023
+C grade for CY100
+
+SIT16EC009
+Nochange grade for MA101
+
+SIT15AE002
+Nochange grade for BE10104
+Nochange grade for ME100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+SIT16EE002
+Nochange grade for BE10103
+
+SIT16EE003
+B grade for BE10103
+Nochange grade for BE100
+
+SIT16EE004
+B+ grade for PH100
+A+ grade for EC100
+Nochange grade for BE100

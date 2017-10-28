@@ -1,0 +1,306 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING CHENGANNUR
+
+ELECTRONICS & COMMUNICATION ENGG
+
+CHN15EC081
+Nochange grade for BE110
+
+CHN16EC001
+Nochange grade for ME100
+C grade for MA101
+
+CHN16EC022
+B grade for BE103
+Nochange grade for BE10104
+
+CHN16EC026
+Nochange grade for BE110
+
+CHN16EC030
+Nochange grade for BE110
+
+CHN16EC032
+Nochange grade for CY100
+Nochange grade for ME100
+
+CHN16EC035
+Nochange grade for MA101
+Nochange grade for BE110
+C grade for BE103
+C grade for CY100
+Nochange grade for BE10104
+N grade for ME100
+
+CHN16EC038
+Nochange grade for ME100
+Nochange grade for BE10104
+
+CHN16EC039
+Nochange grade for MA101
+
+CHN16EC042
+Nochange grade for BE110
+
+CHN16EC048
+Nochange grade for ME100
+A+ grade for BE103
+
+CHN16EC056
+Nochange grade for BE110
+
+CHN16EC057
+B grade for BE10104
+
+CHN16EC058
+B+ grade for BE10104
+
+CHN16EC059
+Nochange grade for BE110
+B grade for BE10104
+
+CHN16EC060
+C grade for BE10104
+
+CHN16EC061
+B grade for BE10104
+
+CHN16EC062
+A grade for BE10104
+
+CHN16EC063
+Nochange grade for BE10104
+
+CHN16EC064
+B grade for BE10104
+
+CHN16EC065
+B grade for BE10104
+
+CHN16EC067
+B+ grade for BE10104
+
+CHN16EC069
+Nochange grade for BE10104
+Nochange grade for ME100
+
+CHN16EC070
+C grade for CY100
+Nochange grade for BE10104
+Nochange grade for BE110
+
+CHN16EC071
+B grade for BE10104
+
+CHN16EC072
+C grade for BE10104
+
+CHN16EC073
+Nochange grade for ME100
+Nochange grade for BE10104
+
+CHN16EC075
+C grade for BE10104
+
+CHN16EC077
+Nochange grade for BE110
+Nochange grade for BE10104
+
+CHN16EC082
+C grade for BE10104
+
+CHN16EC084
+Nochange grade for BE10104
+
+CHN16EC085
+A grade for BE10104
+Nochange grade for BE103
+
+CHN16EC086
+Nochange grade for BE10104
+
+CHN16EC089
+A grade for BE10104
+
+CHN16EC090
+C grade for BE10104
+
+CHN16EC091
+C grade for BE10104
+
+CHN16EC092
+B grade for BE10104
+
+CHN16EC093
+Nochange grade for BE10104
+Nochange grade for ME100
+
+CHN16EC094
+Nochange grade for BE110
+
+CHN16EC095
+C grade for BE10104
+
+CHN16EC097
+Nochange grade for BE10104
+Nochange grade for ME100
+
+CHN16EC100
+Nochange grade for BE110
+Nochange grade for BE103
+A grade for BE10104
+Nochange grade for ME100
+
+CHN16EC101
+B grade for BE110
+
+CHN16EC102
+Nochange grade for BE10104
+Nochange grade for ME100
+
+CHN16EC111
+Nochange grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+CHN15CS006
+C grade for PH100
+Nochange grade for BE10105
+
+CHN16CS011
+C grade for MA101
+
+CHN16CS027
+C grade for EE100
+
+CHN16CS034
+Nochange grade for EE100
+
+CHN16CS035
+TBP* grade for EE100
+
+CHN16CS044
+P grade for EE100
+
+CHN16CS066
+A+ grade for PH100
+
+CHN16CS072
+Nochange grade for EE100
+
+CHN16CS076
+Nochange grade for BE10105
+
+CHN16CS080
+Nochange grade for EE100
+Nochange grade for BE100
+
+CHN16CS087
+Nochange grade for BE100
+Nochange grade for MA101
+
+CHN16CS102
+B+ grade for EE100
+
+CHN16CS108
+Nochange grade for MA101
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+CHN15EE015
+Nochange grade for BE10103
+
+CHN15EE111
+Nochange grade for BE10103
+
+CHN16EE018
+B grade for CE100
+
+CHN16EE026
+Nochange grade for BE100
+Nochange grade for BE10103
+
+CHN16EE042
+B grade for CE100
+
+CHN16EE048
+Nochange grade for BE100
+
+CHN16EE054
+C grade for CE100
+
+CHN16EE063
+Nochange grade for MA101
+
+CHN16EE065
+C grade for PH100
+Nochange grade for CE100
+
+CHN16EE085
+Nochange grade for PH100
+Nochange grade for BE10103
+
+CHN16EE092
+Nochange grade for BE10103
+
+CHN16EE106
+Nochange grade for BE10103
+
+CHN16EE107
+Nochange grade for BE10103
+
+CHN16EE108
+Nochange grade for BE10103
+
+CHN16EE110
+Nochange grade for MA101
+
+CHN16EE111
+C grade for BE10103
+
+CHN16AE001
+Nochange grade for BE10104
+
+CHN16AE006
+Nochange grade for BE110
+P grade for BE103
+Nochange grade for BE10104
+
+CHN16AE007
+C grade for BE10104
+
+CHN16AE008
+C grade for BE10104
+
+CHN16AE012
+Nochange grade for BE110
+Nochange grade for BE10104
+
+CHN16AE015
+C grade for BE10104
+
+CHN16AE024
+Nochange grade for BE10104
+
+CHN16AE025
+Nochange grade for MA101
+C grade for BE10104
+
+CHN16AE027
+C grade for BE10104
+
+CHN16AE028
+Nochange grade for BE10104
+
+CHN16AE030
+Nochange grade for BE10104
+
+CHN16AE032
+C grade for BE10104
+
+CHN16AE039
+Nochange grade for MA101
+B+ grade for BE103
+B+ grade for BE10104
+
+CHN16AE040
+C grade for CY100

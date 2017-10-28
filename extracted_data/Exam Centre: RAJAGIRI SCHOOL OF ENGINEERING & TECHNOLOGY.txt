@@ -1,0 +1,751 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: RAJAGIRI SCHOOL OF ENGINEERING & TECHNOLOGY
+
+APPLIED ELECTRONICS & INSTRUMENTATION ENGINEERING
+
+RET15AE008
+TBP* grade for BE10104
+
+RET16AE006
+Nochange grade for BE10104
+Nochange grade for EE100
+
+RET16AE017
+B grade for BE10104
+
+RET16AE049
+C grade for CY100
+Nochange grade for EE100
+
+RET16AE051
+TBP* grade for BE100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+RET15EC044
+Nochange grade for PH100
+
+RET16EC002
+Nochange grade for BE10104
+
+RET16EC007
+Nochange grade for BE110
+
+RET16EC008
+Nochange grade for BE110
+
+RET16EC009
+Nochange grade for BE110
+TBP* grade for BE10104
+
+RET16EC012
+TBP* grade for BE10104
+
+RET16EC013
+TBP* grade for BE10104
+
+RET16EC014
+Nochange grade for BE10104
+
+RET16EC017
+B grade for BE110
+
+RET16EC019
+Nochange grade for BE110
+
+RET16EC022
+Nochange grade for BE110
+C grade for MA101
+
+RET16EC023
+B grade for MA101
+Nochange grade for BE110
+
+RET16EC024
+Nochange grade for BE110
+
+RET16EC025
+Nochange grade for PH100
+Nochange grade for MA101
+TBP* grade for BE110
+
+RET16EC026
+Nochange grade for MA101
+
+RET16EC030
+Nochange grade for BE110
+
+RET16EC036
+A+ grade for CE100
+TBP* grade for PH100
+
+RET16EC037
+Nochange grade for BE110
+
+RET16EC041
+Nochange grade for BE110
+
+RET16EC042
+TBP* grade for BE110
+Nochange grade for MA101
+
+RET16EC067
+O grade for PH100
+
+RET16EC069
+Nochange grade for BE10104
+
+RET16EC071
+C grade for BE10104
+
+RET16EC072
+C grade for BE10104
+
+RET16EC074
+TBP* grade for BE10104
+
+RET16EC078
+Nochange grade for BE10104
+
+RET16EC081
+C grade for BE10104
+Nochange grade for MA101
+
+RET16EC083
+C grade for BE10104
+
+RET16EC084
+Nochange grade for CE100
+
+RET16EC088
+TBP* grade for BE10104
+
+RET16EC093
+Nochange grade for BE110
+
+RET16EC096
+TBP* grade for PH100
+Nochange grade for CE100
+Nochange grade for MA101
+TBP* grade for BE10104
+
+RET16EC101
+Nochange grade for BE110
+
+RET16EC102
+Nochange grade for BE110
+Nochange grade for MA101
+
+RET16EC109
+Nochange grade for MA101
+
+RET16EC113
+TBP* grade for BE10104
+
+RET16EC116
+A grade for MA101
+
+RET16EC126
+Nochange grade for BE110
+
+RET16EC131
+Nochange grade for PH100
+
+RET16EC132
+TBP* grade for BE10104
+
+RET16EC135
+TBP* grade for BE10104
+
+RET16EC139
+Nochange grade for BE110
+
+RET16EC140
+C grade for BE10104
+
+RET16EC141
+C grade for PH100
+
+RET16EC142
+Nochange grade for BE110
+Nochange grade for MA101
+C grade for BE10104
+
+RET16EC145
+TBP* grade for BE10104
+
+RET16EC147
+Nochange grade for BE10104
+
+RET16EC152
+TBP* grade for BE10104
+
+RET16EC155
+TBP* grade for BE10104
+
+RET16EC156
+TBP* grade for BE10104
+
+RET16EC158
+Nochange grade for BE110
+TBP* grade for BE10104
+
+RET16EC159
+Nochange grade for BE110
+
+RET16EC161
+C grade for BE10104
+
+RET16EC165
+Nochange grade for BE10104
+
+RET16EC166
+Nochange grade for BE110
+Nochange grade for BE10104
+
+RET16EC167
+TBP* grade for BE103
+
+RET16EC168
+TBP* grade for BE10104
+Nochange grade for MA101
+
+RET16EC169
+Nochange grade for MA101
+TBP* grade for BE10104
+
+RET16EC171
+Nochange grade for CE100
+P grade for BE103
+
+RET16EC173
+TBP* grade for BE10104
+
+RET16EC174
+C grade for CE100
+TBP* grade for BE10104
+
+RET16EC176
+Nochange grade for BE103
+Nochange grade for MA101
+
+RET16EC187
+TBP* grade for BE10104
+
+RET16EC188
+TBP* grade for BE10104
+
+RET16EC189
+TBP* grade for BE10104
+
+RET16EC190
+TBP* grade for BE10104
+
+RET16EC191
+B+ grade for CE100
+TBP* grade for BE10104
+
+RET16EC192
+Nochange grade for MA101
+TBP* grade for BE10104
+C grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+RET15CS087
+Nochange grade for ME100
+
+RET16CS002
+Nochange grade for BE10105
+Nochange grade for BE100
+Nochange grade for PH100
+
+RET16CS003
+C grade for BE10105
+
+RET16CS012
+A grade for BE10105
+Nochange grade for PH100
+
+RET16CS030
+TBP* grade for BE103
+
+RET16CS034
+Nochange grade for BE10105
+
+RET16CS039
+C grade for BE10105
+P grade for BE100
+
+RET16CS048
+TBP* grade for BE103
+B+ grade for PH100
+
+RET16CS052
+O grade for BE10105
+Nochange grade for MA101
+
+RET16CS057
+Nochange grade for MA101
+
+RET16CS061
+C grade for CE100
+
+RET16CS065
+Nochange grade for CE100
+B+ grade for BE10105
+
+RET16CS067
+C grade for BE10105
+
+RET16CS072
+Nochange grade for BE100
+
+RET16CS075
+B grade for CE100
+
+RET16CS079
+TBP* grade for PH100
+Nochange grade for BE103
+C grade for BE100
+
+RET16CS080
+Nochange grade for PH100
+C grade for CE100
+Nochange grade for MA101
+Nochange grade for BE10105
+
+RET16CS081
+Nochange grade for BE10105
+P grade for BE100
+P grade for CE100
+
+RET16CS087
+Nochange grade for CE100
+B+ grade for BE10105
+
+RET16CS088
+C grade for BE10105
+
+RET16CS089
+Nochange grade for MA101
+Nochange grade for BE100
+
+RET16CS090
+C grade for BE10105
+
+RET16CS092
+O grade for BE10105
+
+RET16CS097
+Nochange grade for CE100
+
+RET16CS098
+Nochange grade for MA101
+B grade for CE100
+
+RET16CS103
+B grade for BE10105
+C grade for CE100
+
+RET16CS128
+O grade for BE10105
+
+RET16CS135
+Nochange grade for MA101
+
+RET16CS138
+C grade for BE100
+
+RET16CS140
+Nochange grade for MA101
+Nochange grade for CE100
+Nochange grade for BE10105
+
+RET16CS142
+Nochange grade for MA101
+
+RET16CS145
+Nochange grade for BE100
+Nochange grade for MA101
+
+RET16CS147
+C grade for MA101
+
+RET16CS158
+C grade for BE10105
+
+RET16CS159
+B+ grade for BE10105
+Nochange grade for MA101
+
+RET16CS166
+Nochange grade for MA101
+
+RET16CS167
+B grade for BE10105
+
+RET16CS171
+B+ grade for BE10105
+
+RET16CS173
+C grade for CE100
+
+RET16CS174
+Nochange grade for MA101
+Nochange grade for BE10105
+Nochange grade for CE100
+Nochange grade for PH100
+N grade for BE103
+
+RET16CS177
+TBP* grade for BE100
+Nochange grade for CE100
+Nochange grade for MA101
+Nochange grade for BE10105
+
+RET16CS180
+A+ grade for BE10105
+
+RET16CS187
+B grade for BE10105
+
+RET16CS193
+C grade for CE100
+
+RET16CS198
+A grade for BE10105
+Nochange grade for MA101
+
+RET16CS205
+B+ grade for BE10105
+
+RET16CS212
+Nochange grade for BE100
+Nochange grade for CE100
+Nochange grade for PH100
+C grade for BE10105
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+RET15EE023
+Nochange grade for BE10103
+
+RET16EE026
+Nochange grade for BE100
+TBP* grade for BE103
+Nochange grade for BE10103
+
+RET16EE027
+TBP* grade for EC100
+
+RET16EE046
+C grade for BE100
+TBP* grade for EC100
+C grade for CY100
+
+RET16EE049
+C grade for CY100
+
+RET16EE052
+TBP* grade for EC100
+
+RET16EE059
+C grade for EC100
+
+RET16EE060
+TBP* grade for EC100
+
+RET16EE064
+C grade for EC100
+
+INFORMATION TECHNOLOGY
+
+RET16IT003
+Nochange grade for CY100
+
+RET16IT004
+Nochange grade for MA101
+B grade for CY100
+
+RET16IT008
+C grade for CY100
+
+RET16IT009
+Nochange grade for EC100
+Nochange grade for CY100
+
+RET16IT013
+B+ grade for BE10105
+
+RET16IT016
+B grade for BE10105
+
+RET16IT017
+B+ grade for BE10105
+
+RET16IT018
+B grade for BE10105
+
+RET16IT021
+Nochange grade for MA101
+B grade for BE10105
+Nochange grade for CY100
+
+RET16IT032
+B grade for MA101
+
+RET16IT033
+Nochange grade for MA101
+
+RET16IT035
+P grade for EC100
+
+RET16IT041
+A grade for CY100
+
+RET16IT053
+C grade for BE10105
+P grade for CY100
+
+RET16IT057
+C grade for CY100
+C grade for BE10105
+Nochange grade for MA101
+C grade for BE100
+
+RET16IT058
+C grade for CY100
+Nochange grade for MA101
+TBP* grade for EC100
+
+RET16IT060
+Nochange grade for MA101
+C grade for CY100
+
+RET16IT066
+Nochange grade for EC100
+
+MECHANICAL ENGINEERING
+
+RET15ME034
+Nochange grade for MA101
+
+RET15ME064
+Nochange grade for EC100
+
+RET15ME122
+C grade for CY100
+
+RET15ME129
+TBP* grade for EC100
+Nochange grade for PH100
+
+RET16ME001
+Nochange grade for MA101
+
+RET16ME004
+Nochange grade for EE100
+
+RET16ME005
+P grade for CY100
+TBP* grade for BE10102
+Nochange grade for BE110
+
+RET16ME010
+Nochange grade for BE110
+TBP* grade for BE103
+Nochange grade for EE100
+Nochange grade for CY100
+TBP* grade for BE10102
+
+RET16ME012
+B grade for CY100
+
+RET16ME014
+TBP* grade for BE10102
+Nochange grade for BE110
+
+RET16ME016
+Nochange grade for BE10102
+Nochange grade for BE110
+
+RET16ME022
+C grade for CY100
+
+RET16ME024
+Nochange grade for BE10102
+
+RET16ME032
+Nochange grade for BE10102
+Nochange grade for CY100
+
+RET16ME037
+B+ grade for CY100
+A grade for BE103
+TBP* grade for BE10102
+
+RET16ME047
+Nochange grade for BE110
+
+RET16ME049
+Nochange grade for BE110
+Nochange grade for EE100
+
+RET16ME050
+Nochange grade for CY100
+TBP* grade for MA101
+Nochange grade for EE100
+
+RET16ME055
+Nochange grade for BE10102
+TBP* grade for BE110
+
+RET16ME059
+A grade for CY100
+
+RET16ME060
+Nochange grade for BE110
+
+RET16ME066
+C grade for CY100
+
+RET16ME072
+C grade for CY100
+
+RET16ME075
+Nochange grade for BE10102
+
+RET16ME077
+Nochange grade for BE110
+Nochange grade for CY100
+
+RET16ME078
+TBP* grade for MA101
+
+RET16ME083
+Nochange grade for CY100
+
+RET16ME091
+C grade for CY100
+
+RET16ME092
+Nochange grade for CY100
+Nochange grade for BE110
+
+RET16ME100
+Nochange grade for MA101
+Nochange grade for EE100
+Nochange grade for CY100
+
+RET16ME101
+TBP* grade for MA101
+Nochange grade for BE110
+
+RET16ME103
+Nochange grade for BE10102
+
+RET16ME105
+Nochange grade for EE100
+
+RET16ME107
+Nochange grade for EE100
+Nochange grade for CY100
+
+RET16ME109
+C grade for CY100
+P grade for BE10102
+Nochange grade for MA101
+Nochange grade for BE110
+C grade for EE100
+
+RET16ME119
+Nochange grade for BE110
+
+RET16ME126
+Nochange grade for MA101
+Nochange grade for EE100
+Nochange grade for BE110
+
+RET16ME129
+A grade for CY100
+
+RET16ME133
+TBP* grade for BE103
+
+CIVIL ENGINEERING
+
+RET15CE004
+Nochange grade for EC100
+
+RET15CE010
+Nochange grade for EC100
+
+RET15CE069
+Nochange grade for MA101
+Nochange grade for BE110
+
+RET16CE001
+A grade for BE103
+Nochange grade for BE10101
+
+RET16CE017
+C grade for BE10101
+Nochange grade for BE103
+
+RET16CE018
+TBP* grade for MA101
+
+RET16CE021
+Nochange grade for CY100
+Nochange grade for BE100
+
+RET16CE024
+TBP* grade for BE103
+O grade for CY100
+
+RET16CE026
+B+ grade for MA101
+
+RET16CE031
+C grade for CY100
+
+RET16CE032
+Nochange grade for EE100
+
+RET16CE033
+Nochange grade for CY100
+Nochange grade for EE100
+
+RET16CE039
+C grade for CY100
+C grade for EE100
+
+RET16CE041
+C grade for EE100
+Nochange grade for BE100
+
+RET16CE042
+Nochange grade for EE100
+B grade for BE10101
+
+RET16CE045
+B+ grade for BE100
+
+RET16CE046
+TBP* grade for BE100
+Nochange grade for CY100
+Nochange grade for EE100
+
+RET16CE048
+Nochange grade for CY100
+Nochange grade for EE100
+TBP* grade for BE100
+
+RET16CE058
+Nochange grade for CY100
+
+RET16CE063
+TBP* grade for MA101
+Nochange grade for BE10101
+P grade for CY100
+Nochange grade for EE100

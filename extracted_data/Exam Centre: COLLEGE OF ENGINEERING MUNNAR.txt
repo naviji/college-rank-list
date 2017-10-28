@@ -1,0 +1,221 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING MUNNAR
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MNR16EC001
+Nochange grade for PH100
+
+MNR16EC003
+C grade for BE10104
+B grade for ME100
+
+MNR16EC005
+Nochange grade for ME100
+Nochange grade for BE10104
+
+MNR16EC007
+Nochange grade for PH100
+Nochange grade for BE10104
+
+MNR16EC019
+Nochange grade for PH100
+
+COMPUTER SCIENCE & ENGINEERING
+
+MNR15CS011
+C grade for BE110
+
+MNR15CS030
+Nochange grade for BE10105
+Nochange grade for PH100
+
+MNR16CS003
+Nochange grade for BE100
+C grade for BE10105
+
+MNR16CS005
+C grade for BE100
+
+MNR16CS007
+P grade for MA101
+C grade for BE103
+C grade for BE10105
+Nochange grade for EC100
+
+MNR16CS012
+Nochange grade for BE10105
+
+MNR16CS013
+Nochange grade for EC100
+
+MNR16CS016
+C grade for BE10105
+
+MNR16CS022
+Nochange grade for BE100
+
+MNR16CS025
+Nochange grade for BE100
+Nochange grade for EC100
+
+MNR16CS034
+C grade for BE100
+
+MNR16CS039
+Nochange grade for BE10105
+
+TCE16CS020
+Nochange grade for CY100
+Nochange grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MNR15EE021
+Nochange grade for BE110
+
+MNR16EE001
+Nochange grade for BE110
+C grade for MA101
+
+MNR16EE002
+Nochange grade for BE103
+
+MNR16EE007
+F grade for BE10103
+Nochange grade for CY100
+
+MNR16EE009
+Nochange grade for CY100
+C grade for BE10103
+
+MNR16EE010
+C grade for CE100
+C grade for BE10103
+
+MNR16EE011
+C grade for BE10103
+Nochange grade for CE100
+
+MNR16EE012
+Nochange grade for BE110
+Nochange grade for BE10103
+
+MNR16EE014
+Nochange grade for BE110
+
+MNR16EE015
+C grade for BE10103
+
+MNR16EE020
+Nochange grade for CY100
+
+MNR16EE021
+C grade for BE10103
+
+MECHANICAL ENGINEERING
+
+MNR16ME002
+Nochange grade for CY100
+
+MNR16ME003
+B grade for BE110
+
+MNR16ME005
+Nochange grade for CY100
+Nochange grade for CE100
+
+MNR16ME006
+B grade for BE10102
+
+MNR16ME007
+Nochange grade for CE100
+Nochange grade for BE10102
+
+MNR16ME011
+B grade for BE110
+
+MNR16ME013
+Nochange grade for CY100
+
+MNR16ME018
+Nochange grade for BE110
+Nochange grade for CE100
+Nochange grade for BE103
+
+MNR16ME019
+Nochange grade for BE103
+Nochange grade for CY100
+
+MNR16ME022
+Nochange grade for CE100
+
+MNR16ME023
+Nochange grade for CY100
+Nochange grade for BE103
+Nochange grade for BE10102
+
+MNR16ME024
+Nochange grade for BE10102
+
+MNR16ME025
+Nochange grade for CY100
+
+MNR16ME026
+Nochange grade for CY100
+
+MNR16ME029
+Nochange grade for CE100
+
+MNR16ME030
+Nochange grade for CY100
+Nochange grade for MA101
+
+MNR16ME031
+Nochange grade for CY100
+
+MNR16ME034
+Nochange grade for CY100
+
+MNR16ME036
+Nochange grade for CY100
+
+MNR16ME038
+Nochange grade for CY100
+
+MNR16ME040
+Nochange grade for BE110
+
+MNR16ME042
+Nochange grade for BE110
+Nochange grade for CY100
+
+MNR16ME043
+Nochange grade for BE110
+Nochange grade for CY100
+
+MNR16ME046
+Nochange grade for MA101
+Nochange grade for CE100
+Nochange grade for CY100
+
+MNR16ME047
+Nochange grade for CY100
+
+MNR16ME048
+B+ grade for BE110
+
+MNR16ME049
+Nochange grade for CY100
+
+MNR16ME053
+Nochange grade for CY100
+
+TCE16ME004
+C grade for BE110
+
+TCE16ME009
+Nochange grade for MA101
+Nochange grade for BE110
+
+TCE16ME011
+Nochange grade for BE110

@@ -1,0 +1,585 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: JYOTHI ENGINEERING COLLEGE
+
+CIVIL ENGINEERING
+
+JEC16CE001
+A grade for BE100
+
+JEC16CE004
+B grade for BE100
+
+JEC16CE010
+Nochange grade for BE10101
+
+JEC16CE013
+A grade for BE100
+
+JEC16CE014
+Nochange grade for BE10101
+
+JEC16CE025
+A+ grade for BE103
+
+JEC16CE027
+Nochange grade for ME100
+A grade for BE103
+
+JEC16CE029
+Nochange grade for BE100
+
+JEC16CE030
+Nochange grade for BE100
+C grade for ME100
+
+JEC16CE031
+Nochange grade for BE103
+
+JEC16CE035
+Nochange grade for BE100
+
+JEC16CE036
+C grade for ME100
+
+JEC16CE052
+Nochange grade for BE103
+C grade for BE100
+
+JEC16CE059
+Nochange grade for BE100
+
+JEC16CE061
+Nochange grade for BE10101
+
+JEC16EC032
+Nochange grade for CY100
+
+COMPUTER SCIENCE & ENGINEERING
+
+JEC15CS043
+Nochange grade for BE110
+
+JEC16CS002
+Nochange grade for BE110
+Nochange grade for PH100
+
+JEC16CS006
+Nochange grade for EC100
+
+JEC16CS009
+Nochange grade for BE110
+
+JEC16CS010
+Nochange grade for BE110
+
+JEC16CS013
+Nochange grade for BE110
+Nochange grade for BE103
+
+JEC16CS021
+Nochange grade for EC100
+
+JEC16CS027
+Nochange grade for BE10105
+
+JEC16CS033
+Nochange grade for BE110
+
+JEC16CS037
+B+ grade for BE110
+
+JEC16CS040
+Nochange grade for BE110
+
+JEC16CS043
+Nochange grade for BE110
+
+JEC16CS045
+Nochange grade for EC100
+
+JEC16CS057
+Nochange grade for BE10105
+
+JEC16CS061
+Nochange grade for BE10105
+
+JEC16CS063
+Nochange grade for BE110
+
+JEC16CS064
+Nochange grade for MA101
+
+JEC16CS067
+A+ grade for MA101
+
+JEC16CS068
+Nochange grade for BE110
+B grade for BE103
+
+JEC16CS069
+A grade for BE10105
+
+JEC16CS070
+Nochange grade for BE110
+
+JEC16CS072
+Nochange grade for BE10105
+Nochange grade for BE110
+
+JEC16CS074
+Nochange grade for BE10105
+
+JEC16CS076
+Nochange grade for MA101
+
+JEC16CS077
+Nochange grade for BE10105
+
+JEC16CS078
+Nochange grade for BE10105
+
+JEC16CS081
+Nochange grade for MA101
+Nochange grade for BE103
+
+JEC16CS082
+C grade for BE10105
+
+JEC16CS086
+Nochange grade for EC100
+Nochange grade for BE110
+
+JEC16CS088
+Nochange grade for BE110
+C grade for MA101
+
+JEC16CS089
+Nochange grade for BE10105
+
+JEC16CS090
+Nochange grade for BE110
+Nochange grade for EC100
+
+JEC16CS094
+Nochange grade for BE110
+
+JEC16CS095
+Nochange grade for BE110
+
+JEC16CS098
+Nochange grade for BE110
+
+JEC16CS100
+Nochange grade for BE110
+
+JEC16CS105
+Nochange grade for MA101
+Nochange grade for BE10105
+Nochange grade for PH100
+
+JEC16CS106
+Nochange grade for BE110
+
+JEC16CS111
+Nochange grade for BE110
+
+JEC16CS112
+Nochange grade for BE103
+Nochange grade for BE110
+
+JEC16CS113
+Nochange grade for EC100
+
+JEC16CS115
+Nochange grade for BE10105
+Nochange grade for BE110
+
+JEC16CS119
+Nochange grade for BE110
+
+JEC16CS123
+A+ grade for BE10105
+
+JEC16CS124
+Nochange grade for BE110
+
+JEC16CS125
+Nochange grade for BE110
+
+JEC16CS126
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+JEC15EC038
+Nochange grade for BE110
+
+JEC16EC001
+Nochange grade for BE100
+Nochange grade for BE10104
+
+JEC16EC002
+B+ grade for CY100
+B grade for BE100
+
+JEC16EC003
+Nochange grade for MA101
+Nochange grade for BE100
+C grade for BE103
+B grade for CY100
+Nochange grade for BE10104
+N grade for EE100
+
+JEC16EC004
+P grade for EE100
+Nochange grade for BE10104
+Nochange grade for BE100
+
+JEC16EC007
+A+ grade for BE100
+
+JEC16EC008
+B grade for EE100
+
+JEC16EC009
+A+ grade for CY100
+A+ grade for BE100
+
+JEC16EC010
+Nochange grade for BE100
+Nochange grade for BE10104
+
+JEC16EC012
+A+ grade for CY100
+
+JEC16EC014
+A grade for CY100
+
+JEC16EC016
+Nochange grade for EE100
+
+JEC16EC017
+Nochange grade for BE100
+
+JEC16EC020
+Nochange grade for EE100
+
+JEC16EC022
+O grade for MA101
+
+JEC16EC026
+Nochange grade for BE10104
+Nochange grade for BE100
+Nochange grade for EE100
+
+JEC16EC030
+Nochange grade for BE100
+Nochange grade for EE100
+Nochange grade for BE10104
+
+JEC16EC033
+Nochange grade for BE100
+A+ grade for CY100
+Nochange grade for EE100
+
+JEC16EC037
+B grade for CY100
+
+JEC16EC040
+Nochange grade for EE100
+
+JEC16EC041
+O grade for CY100
+
+JEC16EC044
+Nochange grade for EE100
+
+JEC16EC050
+A grade for CY100
+B+ grade for BE100
+
+JEC16EC051
+Nochange grade for BE10104
+
+JEC16EC052
+Nochange grade for EE100
+
+JEC16EC054
+Nochange grade for BE10104
+
+JEC16EC060
+Nochange grade for CY100
+Nochange grade for BE103
+
+JEC16EC061
+Nochange grade for BE100
+Nochange grade for EE100
+
+JEC16EC064
+Nochange grade for BE100
+Nochange grade for EE100
+
+JEC16EC076
+Nochange grade for BE100
+Nochange grade for MA101
+Nochange grade for BE10104
+
+JEC16EC081
+B grade for CY100
+Nochange grade for BE10104
+
+JEC16EC100
+Nochange grade for BE103
+B grade for MA101
+Nochange grade for EE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+JEC15EE007
+C grade for BE10103
+
+JEC15EE024
+Nochange grade for PH100
+Nochange grade for ME100
+
+JEC16EE007
+Nochange grade for PH100
+C grade for ME100
+
+JEC16EE012
+Nochange grade for BE10103
+
+JEC16EE015
+A grade for BE103
+O grade for PH100
+
+JEC16EE016
+Nochange grade for ME100
+
+JEC16EE018
+C grade for ME100
+Nochange grade for BE100
+
+JEC16EE021
+C grade for BE103
+Nochange grade for BE10103
+C grade for ME100
+
+JEC16EE022
+Nochange grade for ME100
+Nochange grade for BE10103
+
+JEC16EE025
+Nochange grade for BE10103
+
+JEC16EE026
+B grade for PH100
+
+JEC16EE027
+Nochange grade for BE103
+Nochange grade for BE10103
+
+JEC16EE032
+Nochange grade for MA101
+
+JEC16EE040
+Nochange grade for ME100
+Nochange grade for BE100
+
+JEC16EE046
+B+ grade for PH100
+
+JEC16EE047
+Nochange grade for PH100
+Nochange grade for ME100
+Nochange grade for MA101
+Nochange grade for BE103
+
+JEC16EE051
+Nochange grade for ME100
+
+JEC16EE055
+Nochange grade for PH100
+
+JEC16EE056
+A+ grade for PH100
+
+JEC16EE059
+A grade for BE103
+
+JEC16EE061
+Nochange grade for BE100
+B grade for BE103
+
+JEC16EE062
+B+ grade for PH100
+
+MECHANICAL ENGINEERING
+
+JEC16ME003
+B+ grade for BE103
+
+JEC16ME004
+B grade for BE110
+
+JEC16ME005
+Nochange grade for CE100
+Nochange grade for BE10102
+
+JEC16ME007
+Nochange grade for BE103
+Nochange grade for BE110
+
+JEC16ME008
+Nochange grade for BE10102
+
+JEC16ME014
+Nochange grade for BE10102
+
+JEC16ME018
+Nochange grade for CE100
+
+JEC16ME020
+B+ grade for BE110
+
+JEC16ME021
+Nochange grade for CE100
+Nochange grade for BE110
+
+JEC16ME022
+C grade for BE10102
+
+JEC16ME024
+B grade for CY100
+
+JEC16ME028
+B grade for BE10102
+
+JEC16ME031
+C grade for BE103
+Nochange grade for BE10102
+
+JEC16ME033
+B grade for BE10102
+
+JEC16ME034
+C grade for BE10102
+
+JEC16ME037
+Nochange grade for BE103
+C grade for CY100
+
+JEC16ME043
+Nochange grade for BE10102
+
+JEC16ME044
+Nochange grade for BE110
+
+JEC16ME049
+A grade for CY100
+
+JEC16ME057
+C grade for BE10102
+
+JEC16ME058
+Nochange grade for CY100
+Nochange grade for MA101
+Nochange grade for BE10102
+
+JEC16ME060
+C grade for BE10102
+
+JEC16ME065
+C grade for CY100
+P grade for BE10102
+Nochange grade for BE110
+
+JEC16ME067
+Nochange grade for CE100
+Nochange grade for BE10102
+
+JEC16ME068
+Nochange grade for BE10102
+Nochange grade for CE100
+Nochange grade for BE110
+Nochange grade for BE103
+
+JEC16ME070
+A grade for BE10102
+A+ grade for CY100
+
+JEC16ME079
+Nochange grade for CE100
+A grade for MA101
+
+JEC16ME080
+Nochange grade for MA101
+Nochange grade for BE110
+
+JEC16ME084
+C grade for MA101
+
+JEC16ME093
+Nochange grade for BE10102
+Nochange grade for MA101
+Nochange grade for CE100
+
+JEC16ME094
+Nochange grade for CE100
+Nochange grade for BE110
+
+JEC16ME098
+Nochange grade for CY100
+Nochange grade for BE10102
+Nochange grade for MA101
+Nochange grade for BE110
+N grade for CE100
+
+JEC16ME099
+Nochange grade for BE10102
+Nochange grade for BE110
+Nochange grade for BE103
+
+JEC16ME103
+Nochange grade for MA101
+Nochange grade for CE100
+Nochange grade for BE103
+
+JEC16ME105
+Nochange grade for BE103
+
+JEC16ME108
+Nochange grade for BE110
+C grade for BE10102
+
+JEC16ME109
+Nochange grade for BE103
+A grade for BE10102
+B+ grade for CE100
+
+JEC16ME115
+B+ grade for CY100
+
+JEC16ME117
+C grade for BE10102
+B grade for BE110
+
+JEC16ME118
+Nochange grade for BE110
+Nochange grade for BE103
+Nochange grade for MA101
+Nochange grade for BE10102
+
+JEC16ME122
+B grade for BE110
+
+JEC16ME123
+C grade for BE103
+Nochange grade for BE10102
+Nochange grade for CE100
+
+JEC16ME124
+B+ grade for CY100
+B+ grade for BE103
+
+JEC16ME125
+P grade for BE10102

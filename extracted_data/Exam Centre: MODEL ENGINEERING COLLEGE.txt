@@ -1,0 +1,354 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MODEL ENGINEERING COLLEGE
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MDL15EC039
+TBP* grade for BE110
+
+MDL16EC001
+TBP* grade for ME100
+
+MDL16EC002
+TBP* grade for BE100
+TBP* grade for ME100
+
+MDL16EC009
+TBP* grade for ME100
+
+MDL16EC011
+TBP* grade for BE100
+TBP* grade for ME100
+
+MDL16EC020
+TBP* grade for BE100
+
+MDL16EC021
+TBP* grade for ME100
+
+MDL16EC024
+TBP* grade for BE100
+
+MDL16EC025
+TBP* grade for BE100
+TBP* grade for ME100
+
+MDL16EC027
+TBP* grade for BE100
+
+MDL16EC039
+TBP* grade for BE100
+
+MDL16EC043
+TBP* grade for ME100
+
+MDL16EC049
+TBP* grade for BE10104
+
+MDL16EC062
+TBP* grade for ME100
+
+MDL16EC065
+TBP* grade for BE103
+TBP* grade for BE100
+TBP* grade for ME100
+
+MDL16EC066
+TBP* grade for BE103
+TBP* grade for BE10104
+
+MDL16EC071
+TBP* grade for MA101
+TBP* grade for BE100
+
+MDL16EC077
+TBP* grade for ME100
+
+MDL16EC080
+TBP* grade for ME100
+
+MDL16EC086
+TBP* grade for BE100
+
+MDL16EC088
+TBP* grade for ME100
+TBP* grade for BE100
+TBP* grade for MA101
+
+MDL16EC090
+TBP* grade for ME100
+TBP* grade for BE10104
+
+MDL16EC091
+TBP* grade for BE103
+TBP* grade for CY100
+TBP* grade for MA101
+
+MDL16EC092
+TBP* grade for ME100
+
+MDL16EC096
+TBP* grade for MA101
+
+MDL16EC108
+TBP* grade for BE103
+TBP* grade for BE100
+
+MDL16EC109
+TBP* grade for BE100
+
+MDL16EC111
+TBP* grade for CY100
+
+MDL16EC119
+TBP* grade for BE103
+
+COMPUTER SCIENCE & ENGINEERING
+
+MDL16CS001
+TBP* grade for BE110
+TBP* grade for EE100
+TBP* grade for PH100
+TBP* grade for BE103
+
+MDL16CS003
+TBP* grade for EE100
+
+MDL16CS004
+TBP* grade for EE100
+TBP* grade for PH100
+
+MDL16CS005
+TBP* grade for EE100
+TBP* grade for PH100
+
+MDL16CS011
+TBP* grade for EE100
+
+MDL16CS013
+TBP* grade for BE110
+TBP* grade for BE10105
+
+MDL16CS014
+TBP* grade for MA101
+TBP* grade for BE110
+TBP* grade for EE100
+TBP* grade for PH100
+TBP* grade for BE10105
+
+MDL16CS015
+TBP* grade for EE100
+
+MDL16CS016
+TBP* grade for BE110
+
+MDL16CS017
+TBP* grade for PH100
+
+MDL16CS018
+TBP* grade for BE110
+
+MDL16CS020
+TBP* grade for EE100
+TBP* grade for MA101
+
+MDL16CS021
+TBP* grade for EE100
+TBP* grade for PH100
+
+MDL16CS024
+TBP* grade for EE100
+TBP* grade for BE110
+
+MDL16CS025
+TBP* grade for PH100
+TBP* grade for BE103
+TBP* grade for BE10105
+TBP* grade for EE100
+
+MDL16CS026
+TBP* grade for BE10105
+
+MDL16CS028
+TBP* grade for PH100
+TBP* grade for BE10105
+
+MDL16CS033
+TBP* grade for EE100
+TBP* grade for PH100
+TBP* grade for BE10105
+TBP* grade for BE110
+
+MDL16CS035
+TBP* grade for EE100
+
+MDL16CS038
+TBP* grade for PH100
+TBP* grade for MA101
+TBP* grade for BE110
+
+MDL16CS040
+TBP* grade for PH100
+
+MDL16CS044
+TBP* grade for BE103
+
+MDL16CS050
+TBP* grade for PH100
+
+MDL16CS052
+TBP* grade for PH100
+
+MDL16CS053
+TBP* grade for BE110
+
+MDL16CS057
+TBP* grade for EE100
+
+MDL16CS058
+TBP* grade for PH100
+
+MDL16CS064
+TBP* grade for MA101
+
+MDL16CS066
+TBP* grade for PH100
+
+MDL16CS068
+TBP* grade for BE110
+
+MDL16CS074
+TBP* grade for BE110
+
+MDL16CS075
+TBP* grade for BE110
+
+MDL16CS085
+TBP* grade for BE110
+
+MDL16CS086
+TBP* grade for BE103
+
+MDL16CS094
+TBP* grade for BE110
+
+MDL16CS097
+TBP* grade for BE110
+
+MDL16CS098
+TBP* grade for BE110
+
+MDL16CS099
+TBP* grade for BE10105
+
+MDL16CS101
+TBP* grade for BE10105
+
+MDL16CS103
+TBP* grade for BE10105
+TBP* grade for PH100
+
+MDL16CS104
+TBP* grade for BE110
+TBP* grade for EE100
+TBP* grade for BE10105
+
+MDL16CS105
+TBP* grade for BE10105
+
+MDL16CS107
+TBP* grade for BE10105
+
+MDL16CS111
+TBP* grade for BE10105
+
+MDL16CS112
+TBP* grade for BE10105
+
+MDL16CS114
+TBP* grade for BE10105
+TBP* grade for BE110
+
+MDL16CS118
+TBP* grade for PH100
+TBP* grade for EE100
+TBP* grade for BE110
+
+MDL16CS119
+TBP* grade for BE10105
+
+MDL16CS121
+TBP* grade for BE10105
+TBP* grade for BE103
+
+MDL16CS122
+TBP* grade for PH100
+
+MDL15BM004
+TBP* grade for ME100
+
+MDL15BM044
+TBP* grade for ME100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MDL16EE001
+TBP* grade for PH100
+
+MDL16EE002
+TBP* grade for BE110
+
+MDL16EE004
+TBP* grade for BE110
+
+MDL16EE011
+TBP* grade for BE110
+
+MDL16EE014
+TBP* grade for PH100
+TBP* grade for BE110
+
+MDL16EE017
+TBP* grade for CE100
+
+MDL16EE018
+TBP* grade for BE110
+
+MDL16EE020
+TBP* grade for BE10104
+
+MDL16EE021
+TBP* grade for BE100
+TBP* grade for MA101
+
+MDL16EE025
+TBP* grade for BE10103
+TBP* grade for BE100
+
+MDL16EE032
+TBP* grade for BE10103
+
+MDL16EE034
+TBP* grade for CE100
+TBP* grade for BE100
+
+MDL16EE038
+TBP* grade for CY100
+TBP* grade for BE100
+
+MDL16EE039
+TBP* grade for BE100
+TBP* grade for MA101
+TBP* grade for BE10103
+
+MDL16EE041
+TBP* grade for CY100
+TBP* grade for BE10103
+TBP* grade for BE100
+
+MDL16EE042
+TBP* grade for BE10103
+TBP* grade for BE100
+
+MDL16EE049
+TBP* grade for BE100
+TBP* grade for BE103

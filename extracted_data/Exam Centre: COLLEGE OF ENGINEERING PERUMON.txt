@@ -1,0 +1,283 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING PERUMON
+
+ELECTRONICS & COMMUNICATION ENGG
+
+PRN16EC002
+Nochange grade for BE110
+Nochange grade for ME100
+Nochange grade for BE10104
+
+PRN16EC006
+Nochange grade for BE110
+Nochange grade for ME100
+Nochange grade for PH100
+Nochange grade for BE10104
+
+PRN16EC007
+TBP* grade for BE110
+
+PRN16EC008
+Nochange grade for PH100
+Nochange grade for BE10104
+Nochange grade for MA101
+Nochange grade for BE110
+
+PRN16EC010
+Nochange grade for BE10104
+
+PRN16EC011
+Nochange grade for PH100
+Nochange grade for ME100
+Nochange grade for BE10104
+
+PRN16EC014
+Nochange grade for PH100
+Nochange grade for BE10104
+C grade for MA101
+Nochange grade for BE110
+Nochange grade for ME100
+
+PRN16EC017
+B grade for BE110
+Nochange grade for BE10104
+
+PRN16EC019
+Nochange grade for BE110
+
+PRN16EC022
+Nochange grade for BE10104
+Nochange grade for BE110
+
+PRN16EC026
+Nochange grade for PH100
+
+PRN16EC032
+Nochange grade for BE110
+C grade for MA101
+C grade for BE103
+
+PRN16EC036
+Nochange grade for BE110
+
+PRN16EC037
+Nochange grade for BE110
+
+PRN16EC043
+Nochange grade for BE110
+
+PRN16EC047
+Nochange grade for BE110
+
+PRN16EC055
+B grade for ME100
+
+PRN16EC060
+Nochange grade for BE10104
+
+PRN16EC074
+Nochange grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+PRN16EE002
+B grade for MA101
+
+PRN16EE009
+Nochange grade for EC100
+
+PRN16EE013
+Nochange grade for BE110
+
+PRN16EE015
+Nochange grade for BE103
+
+PRN16EE017
+Nochange grade for BE110
+A grade for BE103
+
+PRN16EE022
+Nochange grade for BE110
+
+PRN16EE027
+O grade for EC100
+Nochange grade for BE103
+
+PRN16EE028
+A grade for BE10103
+
+PRN16EE033
+C grade for EC100
+
+PRN16EE039
+Nochange grade for BE110
+
+PRN16EE042
+Nochange grade for BE110
+
+PRN16EE043
+Nochange grade for EC100
+Nochange grade for MA101
+
+PRN16EE045
+Nochange grade for BE110
+
+PRN16EE046
+Nochange grade for PH100
+
+PRN16EE047
+Nochange grade for BE110
+
+PRN16EE048
+Nochange grade for BE110
+
+PRN16EE051
+B+ grade for EC100
+
+PRN16EE055
+Nochange grade for BE110
+Nochange grade for PH100
+
+PRN16EE059
+C grade for BE103
+
+COMPUTER SCIENCE & ENGINEERING
+
+PRN16CS007
+Nochange grade for BE10105
+Nochange grade for EE100
+
+PRN16CS008
+Nochange grade for EE100
+Nochange grade for BE10105
+
+PRN16CS021
+Nochange grade for BE10105
+Nochange grade for BE100
+
+PRN16CS022
+Nochange grade for BE100
+Nochange grade for CY100
+Nochange grade for EE100
+
+PRN16CS023
+C grade for BE10105
+
+PRN16CS034
+Nochange grade for MA101
+
+PRN16CS055
+Nochange grade for EE100
+
+PRN16CS057
+Nochange grade for BE10105
+
+PRN16CS062
+Nochange grade for BE100
+Nochange grade for MA101
+
+INFORMATION TECHNOLOGY
+
+PRN16IT023
+C grade for MA101
+
+PRN16IT024
+Nochange grade for BE100
+C grade for CY100
+Nochange grade for BE10105
+
+PRN16IT029
+Nochange grade for BE10105
+
+PRN16IT033
+Nochange grade for MA101
+
+MECHANICAL ENGINEERING
+
+PRN15ME021
+Nochange grade for PH100
+
+PRN15ME031
+Nochange grade for BE110
+
+PRN15ME038
+Nochange grade for PH100
+Nochange grade for EE100
+
+PRN15ME041
+Nochange grade for BE110
+
+PRN16ME001
+Nochange grade for BE10102
+
+PRN16ME005
+C grade for BE10102
+
+PRN16ME007
+Nochange grade for BE100
+
+PRN16ME011
+Nochange grade for BE10102
+Nochange grade for BE103
+
+PRN16ME012
+C grade for BE10102
+C grade for MA101
+
+PRN16ME018
+Nochange grade for CE100
+Nochange grade for BE10102
+
+PRN16ME020
+Nochange grade for BE100
+
+PRN16ME021
+Nochange grade for CE100
+Nochange grade for BE10102
+
+PRN16ME024
+Nochange grade for CE100
+
+PRN16ME025
+C grade for CE100
+
+PRN16ME026
+Nochange grade for BE10102
+Nochange grade for CE100
+
+PRN16ME028
+Nochange grade for BE100
+
+PRN16ME030
+Nochange grade for BE10102
+Nochange grade for BE100
+
+PRN16ME031
+Nochange grade for MA101
+
+PRN16ME038
+Nochange grade for CE100
+
+PRN16ME045
+Nochange grade for BE10102
+C grade for CE100
+
+PRN16ME047
+B grade for MA101
+
+PRN16ME051
+B grade for MA101
+
+PRN16ME054
+Nochange grade for BE10102
+Nochange grade for CE100
+Nochange grade for BE103
+
+PRN16ME056
+B+ grade for CE100
+Nochange grade for CY100
+
+PRN16ME059
+Nochange grade for CY100
+
+PRN16ME063
+B+ grade for CY100

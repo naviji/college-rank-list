@@ -1,0 +1,74 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: ILAHIA SCHOOL OF SCIENCE AND TECHNOLOGY
+
+MECHANICAL ENGINEERING
+
+ICT15ME006
+Nochange grade for EC100
+Nochange grade for BE10102
+
+ICT15ME031
+Nochange grade for BE110
+
+ICT16ME005
+Nochange grade for CE100
+Nochange grade for BE100
+
+ICT16ME006
+Nochange grade for MA101
+Nochange grade for BE100
+
+ICT16ME008
+Nochange grade for CE100
+
+ICT16ME009
+C grade for CE100
+
+ICT16ME015
+Nochange grade for BE100
+
+ICT16ME016
+Nochange grade for BE100
+Nochange grade for CE100
+
+ICT16ME018
+Nochange grade for MA101
+
+CIVIL ENGINEERING
+
+ICT16CE001
+C grade for BE10101
+
+ICT16CE014
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+ICT16EC001
+Nochange grade for BE10104
+
+ICT16EC003
+B grade for BE10104
+
+ICT16EC005
+Nochange grade for BE10104
+
+ICT16EC006
+Nochange grade for BE10104
+
+COMPUTER SCIENCE & ENGINEERING
+
+ICT15CS012
+Nochange grade for BE10105
+
+ICT15CS015
+Nochange grade for MA101
+Nochange grade for CY100
+
+ICT16CS002
+C grade for BE100
+
+ICT16CS009
+Nochange grade for CE100
+
+ICT16CS013
+Nochange grade for BE10105

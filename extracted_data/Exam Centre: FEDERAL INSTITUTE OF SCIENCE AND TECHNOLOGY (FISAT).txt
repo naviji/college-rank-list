@@ -1,0 +1,744 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY (FISAT)
+
+CIVIL ENGINEERING
+
+FIT15CE024
+Nochange grade for BE110
+
+FIT16CE002
+Nochange grade for ME100
+
+FIT16CE003
+Nochange grade for BE110
+Nochange grade for ME100
+
+FIT16CE005
+Nochange grade for BE110
+
+FIT16CE008
+Nochange grade for BE110
+C grade for MA101
+
+FIT16CE013
+Nochange grade for BE110
+Nochange grade for MA101
+
+FIT16CE017
+C grade for BE110
+
+FIT16CE018
+Nochange grade for ME100
+
+FIT16CE031
+B grade for BE110
+
+FIT16CE033
+Nochange grade for CY100
+Nochange grade for ME100
+Nochange grade for BE103
+
+FIT16CE034
+Nochange grade for BE110
+
+FIT16CE035
+Nochange grade for BE110
+
+FIT16CE041
+Nochange grade for BE110
+
+FIT16CE045
+Nochange grade for MA101
+Nochange grade for BE110
+Nochange grade for CY100
+
+FIT16CE048
+C grade for ME100
+
+FIT16CE049
+B grade for BE110
+
+FIT16CE051
+Nochange grade for BE110
+Nochange grade for CY100
+Nochange grade for BE10101
+
+FIT16CE053
+Nochange grade for BE110
+Nochange grade for BE10101
+
+FIT16CE055
+B grade for BE110
+Nochange grade for CY100
+Nochange grade for ME100
+Nochange grade for MA101
+
+FIT16CE060
+Nochange grade for BE110
+Nochange grade for ME100
+
+FIT16CE061
+Nochange grade for ME100
+
+FIT16CE064
+Nochange grade for CY100
+Nochange grade for MA101
+Nochange grade for ME100
+
+FIT16CE065
+Nochange grade for CY100
+B+ grade for BE110
+
+FIT16CE066
+Nochange grade for ME100
+
+FIT16CE067
+Nochange grade for BE103
+
+FIT16CE074
+Nochange grade for ME100
+
+FIT16CE090
+B grade for BE110
+Nochange grade for ME100
+
+FIT16CE102
+Nochange grade for BE110
+
+FIT16CE103
+Nochange grade for BE110
+
+FIT16CE113
+Nochange grade for BE110
+
+FIT16CE118
+B grade for BE110
+
+FIT16CE122
+Nochange grade for BE10101
+
+FIT16CE123
+Nochange grade for MA101
+Nochange grade for CY100
+
+MECHANICAL ENGINEERING
+
+FIT15ME053
+Nochange grade for EC100
+Nochange grade for CY100
+
+FIT16ME001
+Nochange grade for MA101
+
+FIT16ME007
+C grade for CE100
+
+FIT16ME009
+C grade for BE103
+Nochange grade for BE110
+Nochange grade for CE100
+
+FIT16ME010
+O grade for BE110
+Nochange grade for CY100
+
+FIT16ME014
+Nochange grade for CY100
+B+ grade for BE10102
+
+FIT16ME022
+Nochange grade for BE10102
+Nochange grade for CY100
+
+FIT16ME023
+Nochange grade for CY100
+
+FIT16ME025
+Nochange grade for BE110
+
+FIT16ME027
+Nochange grade for BE10102
+Nochange grade for BE110
+
+FIT16ME038
+B grade for BE110
+
+FIT16ME045
+Nochange grade for BE110
+Nochange grade for MA101
+Nochange grade for CE100
+
+FIT16ME048
+Nochange grade for CY100
+Nochange grade for CE100
+Nochange grade for MA101
+Nochange grade for BE10102
+
+FIT16ME050
+Nochange grade for BE110
+
+FIT16ME051
+P grade for CY100
+
+FIT16ME052
+Nochange grade for CE100
+Nochange grade for BE110
+
+FIT16ME053
+Nochange grade for CE100
+
+FIT16ME055
+Nochange grade for CY100
+
+FIT16ME060
+B+ grade for CY100
+
+FIT16ME068
+Nochange grade for CE100
+Nochange grade for CY100
+
+FIT16ME069
+Nochange grade for BE110
+Nochange grade for CY100
+
+FIT16ME070
+Nochange grade for MA101
+Nochange grade for BE110
+Nochange grade for CY100
+
+FIT16ME072
+Nochange grade for CE100
+
+FIT16ME073
+Nochange grade for CY100
+Nochange grade for BE110
+
+FIT16ME078
+Nochange grade for CY100
+Nochange grade for BE110
+
+FIT16ME085
+Nochange grade for BE110
+
+FIT16ME086
+Nochange grade for BE110
+
+FIT16ME088
+Nochange grade for CE100
+
+FIT16ME092
+Nochange grade for BE110
+
+FIT16ME094
+Nochange grade for MA101
+C grade for BE110
+
+FIT16ME103
+Nochange grade for BE110
+
+FIT16ME105
+Nochange grade for MA101
+Nochange grade for BE110
+
+FIT16ME108
+Nochange grade for MA101
+Nochange grade for CY100
+
+FIT16ME111
+Nochange grade for CY100
+
+FIT16ME112
+Nochange grade for BE110
+Nochange grade for CY100
+
+FIT16ME113
+C grade for BE10102
+C grade for MA101
+
+FIT16ME120
+Nochange grade for BE110
+
+FIT16ME121
+Nochange grade for MA101
+Nochange grade for BE110
+
+FIT16ME122
+B grade for BE110
+
+FIT16ME124
+Nochange grade for CY100
+Nochange grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+FIT16CS005
+C grade for BE100
+
+FIT16CS008
+Nochange grade for BE100
+
+FIT16CS009
+Nochange grade for BE10105
+Nochange grade for BE103
+
+FIT16CS013
+Nochange grade for BE10105
+
+FIT16CS015
+Nochange grade for BE10105
+
+FIT16CS016
+Nochange grade for BE100
+
+FIT16CS020
+C grade for BE100
+
+FIT16CS021
+Nochange grade for BE100
+Nochange grade for PH100
+Nochange grade for BE10105
+
+FIT16CS022
+Nochange grade for PH100
+B+ grade for BE100
+
+FIT16CS023
+Nochange grade for PH100
+
+FIT16CS026
+Nochange grade for BE100
+Nochange grade for MA101
+
+FIT16CS029
+Nochange grade for MA101
+
+FIT16CS031
+Nochange grade for PH100
+
+FIT16CS033
+Nochange grade for BE100
+
+FIT16CS035
+Nochange grade for BE100
+
+FIT16CS039
+Nochange grade for BE100
+
+FIT16CS040
+Nochange grade for BE10105
+Nochange grade for BE100
+Nochange grade for PH100
+
+FIT16CS054
+Nochange grade for BE100
+Nochange grade for MA101
+
+FIT16CS055
+Nochange grade for MA101
+Nochange grade for BE10105
+Nochange grade for BE100
+
+FIT16CS058
+Nochange grade for BE100
+
+FIT16CS059
+A+ grade for PH100
+
+FIT16CS060
+Nochange grade for BE100
+
+FIT16CS067
+B grade for BE103
+
+FIT16CS069
+B grade for BE103
+
+FIT16CS070
+Nochange grade for MA101
+Nochange grade for BE100
+Nochange grade for BE103
+Nochange grade for PH100
+N grade for BE10105
+
+FIT16CS077
+Nochange grade for PH100
+
+FIT16CS078
+Nochange grade for MA101
+
+FIT16CS079
+Nochange grade for PH100
+Nochange grade for EC100
+Nochange grade for BE10105
+
+FIT16CS088
+B grade for BE103
+
+FIT16CS089
+C grade for BE103
+
+FIT16CS097
+P grade for MA101
+
+FIT16CS099
+Nochange grade for MA101
+
+FIT16CS102
+C grade for MA101
+
+FIT16CS106
+C grade for BE103
+Nochange grade for BE10105
+Nochange grade for MA101
+
+FIT16CS109
+Nochange grade for PH100
+Nochange grade for EC100
+
+FIT16CS111
+B grade for BE100
+
+FIT16CS115
+Nochange grade for BE100
+
+FIT16CS116
+A+ grade for BE100
+
+FIT16CS119
+C grade for BE100
+
+FIT16CS126
+Nochange grade for BE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+FIT16EE001
+Nochange grade for BE10103
+Nochange grade for BE110
+
+FIT16EE002
+A grade for CE100
+
+FIT16EE003
+Nochange grade for BE110
+
+FIT16EE004
+Nochange grade for BE110
+
+FIT16EE005
+Nochange grade for BE110
+
+FIT16EE006
+Nochange grade for CY100
+Nochange grade for BE10103
+Nochange grade for MA101
+Nochange grade for BE110
+
+FIT16EE007
+Nochange grade for BE110
+
+FIT16EE008
+Nochange grade for BE110
+
+FIT16EE009
+Nochange grade for BE110
+
+FIT16EE011
+Nochange grade for BE110
+
+FIT16EE021
+B grade for BE110
+
+FIT16EE022
+B grade for BE110
+Nochange grade for CY100
+
+FIT16EE025
+B grade for BE110
+B grade for CY100
+
+FIT16EE027
+Nochange grade for BE110
+
+FIT16EE028
+Nochange grade for BE110
+
+FIT16EE029
+Nochange grade for BE110
+
+FIT16EE033
+Nochange grade for BE110
+
+FIT16EE034
+B grade for BE110
+
+FIT16EE037
+Nochange grade for BE110
+
+FIT16EE038
+Nochange grade for BE110
+
+FIT16EE039
+Nochange grade for BE110
+
+FIT16EE041
+Nochange grade for CY100
+Nochange grade for BE10103
+Nochange grade for BE110
+Nochange grade for CE100
+
+FIT16EE042
+Nochange grade for BE110
+
+FIT16EE044
+Nochange grade for BE110
+C grade for BE10103
+
+FIT16EE045
+Nochange grade for BE110
+
+FIT16EE047
+Nochange grade for CE100
+
+FIT16EE048
+B+ grade for BE110
+B+ grade for CE100
+
+FIT16EE049
+Nochange grade for CY100
+C grade for BE110
+
+FIT16EE050
+Nochange grade for BE110
+
+FIT16EE051
+Nochange grade for BE110
+
+FIT16EE054
+C grade for BE10103
+
+FIT16EE055
+Nochange grade for CE100
+
+FIT16EE057
+Nochange grade for BE110
+
+FIT16EE059
+Nochange grade for BE110
+
+FIT16EE061
+Nochange grade for CY100
+Nochange grade for BE10103
+Nochange grade for BE110
+
+FIT16EE062
+Nochange grade for MA101
+Nochange grade for BE10103
+
+FIT16AE002
+Nochange grade for MA101
+Nochange grade for ME100
+
+FIT16AE004
+B grade for MA101
+
+FIT16AE005
+Nochange grade for BE10104
+Nochange grade for MA101
+
+FIT16AE007
+Nochange grade for MA101
+Nochange grade for BE100
+
+FIT16AE008
+Nochange grade for ME100
+
+FIT16AE010
+Nochange grade for BE100
+Nochange grade for MA101
+
+FIT16AE011
+C grade for ME100
+Nochange grade for PH100
+
+FIT16AE015
+Nochange grade for BE100
+
+FIT16AE018
+Nochange grade for BE103
+
+FIT16AE019
+Nochange grade for MA101
+
+FIT16AE020
+Nochange grade for BE100
+Nochange grade for BE10104
+
+FIT16AE024
+C grade for ME100
+
+FIT16AE025
+Nochange grade for PH100
+
+FIT16AE026
+Nochange grade for ME100
+
+FIT16AE027
+Nochange grade for BE10104
+
+FIT16AE028
+Nochange grade for BE10104
+Nochange grade for BE100
+Nochange grade for ME100
+
+FIT16AE029
+Nochange grade for ME100
+
+FIT16AE030
+Nochange grade for ME100
+Nochange grade for BE100
+
+FIT16AE033
+A grade for ME100
+
+FIT16AE034
+Nochange grade for ME100
+
+FIT16AE035
+Nochange grade for ME100
+
+FIT16AE037
+Nochange grade for PH100
+Nochange grade for ME100
+
+FIT16AE039
+Nochange grade for BE100
+Nochange grade for MA101
+Nochange grade for ME100
+
+FIT16AE040
+Nochange grade for BE100
+Nochange grade for BE103
+
+FIT16AE041
+Nochange grade for ME100
+
+FIT16AE047
+Nochange grade for BE100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+FIT15EC040
+Nochange grade for MA101
+Nochange grade for PH100
+
+FIT15EC095
+P grade for PH100
+
+FIT16EC002
+C grade for EE100
+
+FIT16EC003
+C grade for EE100
+Nochange grade for BE100
+
+FIT16EC010
+Nochange grade for BE100
+
+FIT16EC012
+Nochange grade for BE100
+C grade for EE100
+
+FIT16EC018
+Nochange grade for BE10104
+Nochange grade for BE100
+Nochange grade for EE100
+
+FIT16EC027
+C grade for BE100
+
+FIT16EC031
+Nochange grade for BE100
+
+FIT16EC039
+Nochange grade for BE100
+
+FIT16EC062
+Nochange grade for BE100
+B grade for MA101
+
+FIT16EC063
+C grade for MA101
+
+FIT16EC068
+Nochange grade for EE100
+
+FIT16EC069
+Nochange grade for BE10104
+C grade for MA101
+
+FIT16EC074
+Nochange grade for EE100
+Nochange grade for MA101
+
+FIT16EC077
+B grade for MA101
+
+FIT16EC080
+Nochange grade for BE100
+Nochange grade for MA101
+Nochange grade for BE10104
+
+FIT16EC088
+Nochange grade for EE100
+
+FIT16EC090
+Nochange grade for EE100
+
+FIT16EC092
+Nochange grade for EE100
+
+FIT16EC098
+Nochange grade for BE10104
+
+FIT16EC100
+C grade for BE10104
+
+FIT16EC101
+Nochange grade for BE10104
+
+FIT16EC102
+Nochange grade for EE100
+Nochange grade for BE10104
+
+FIT16EC103
+Nochange grade for MA101
+
+FIT16EC104
+C grade for MA101
+
+FIT16EC106
+Nochange grade for BE10104
+Nochange grade for BE100
+P grade for MA101
+
+FIT16EC115
+B+ grade for EE100
+
+FIT16EC116
+Nochange grade for BE100
+C grade for EE100
+
+FIT16EC118
+B grade for MA101
+
+FIT16EC123
+B+ grade for BE103
+
+FIT16EC125
+Nochange grade for PH100
+B+ grade for BE103
+Nochange grade for BE100
+B grade for EE100
+
+FIT16EC126
+B+ grade for BE100

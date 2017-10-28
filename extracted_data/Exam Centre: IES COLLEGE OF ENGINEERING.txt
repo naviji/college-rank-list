@@ -1,0 +1,110 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: IES COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+IES15CE003
+Nochange grade for BE110
+
+IES15CE030
+Nochange grade for BE103
+
+IES16CE018
+Nochange grade for MA101
+Nochange grade for BE110
+
+IES16CE021
+Nochange grade for EE100
+
+IES16CE022
+Nochange grade for MA101
+
+IES16CE027
+Nochange grade for BE110
+Nochange grade for EE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+IES15CS028
+Nochange grade for EC100
+
+IES15CS029
+Nochange grade for EC100
+
+IES16CS002
+Nochange grade for BE10105
+
+IES16CS005
+C grade for BE10105
+
+IES16CS008
+Nochange grade for EC100
+Nochange grade for BE10105
+
+IES16CS009
+Nochange grade for BE10105
+
+IES16CS010
+C grade for BE10105
+Nochange grade for PH100
+Nochange grade for BE103
+
+IES16CS011
+Nochange grade for BE10105
+
+IES16CS012
+Nochange grade for BE103
+
+IES16CS014
+Nochange grade for BE10105
+
+IES16CS015
+Nochange grade for BE10105
+
+IES16CS017
+Nochange grade for BE103
+
+IES16CS018
+C grade for BE10105
+
+ELECTRONICS & COMMUNICATION ENGG
+
+IES15EC013
+Nochange grade for ME100
+
+IES16EC005
+Nochange grade for BE100
+
+IES16EC011
+Nochange grade for BE100
+
+IES16EC014
+Nochange grade for BE100
+Nochange grade for CE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+IES15EE006
+P grade for CE100
+
+IES16EE003
+Nochange grade for CE100
+
+IES16EE013
+Nochange grade for BE10103
+
+IES16EE015
+Nochange grade for MA101
+
+IES16EE016
+Nochange grade for CY100
+
+IES16EE021
+Nochange grade for CE100
+
+MECHANICAL ENGINEERING
+
+IES15ME037
+C grade for BE10102
+
+IES15ME057
+Nochange grade for EE100

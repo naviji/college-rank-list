@@ -1,0 +1,323 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: LBS COLLEGE OF ENGINEERING
+
+MECHANICAL ENGINEERING
+
+KSD15ME077
+Nochange grade for BE100
+P grade for BE10102
+
+KSD15ME083
+Nochange grade for EE100
+
+KSD16ME003
+C grade for BE10102
+
+KSD16ME004
+Nochange grade for BE10102
+
+KSD16ME009
+Nochange grade for BE100
+B grade for MA101
+
+KSD16ME013
+Nochange grade for BE100
+C grade for BE10102
+
+KSD16ME021
+Nochange grade for MA101
+
+KSD16ME026
+Nochange grade for BE100
+
+KSD16ME027
+A grade for EE100
+
+KSD16ME036
+Nochange grade for PH100
+
+KSD16ME038
+Nochange grade for EE100
+
+KSD16ME039
+C grade for MA101
+Nochange grade for BE103
+
+KSD16ME057
+Nochange grade for BE10102
+Nochange grade for EE100
+
+KSD16ME059
+B grade for MA101
+
+KSD16ME062
+Nochange grade for MA101
+
+KSD16ME070
+Nochange grade for BE10102
+
+KSD16ME079
+P grade for BE10102
+
+KSD16ME089
+Nochange grade for BE100
+C grade for BE10102
+
+KSD16ME093
+Nochange grade for MA101
+
+KSD16ME101
+Nochange grade for BE10102
+
+KSD16ME102
+Nochange grade for BE10102
+
+KSD16ME112
+Nochange grade for PH100
+
+KSD16ME114
+B grade for PH100
+
+KSD16ME120
+Nochange grade for PH100
+Nochange grade for EE100
+Nochange grade for BE10102
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+KSD15EE042
+Nochange grade for BE110
+
+KSD16EE016
+Nochange grade for BE100
+
+KSD16EE018
+Nochange grade for BE100
+
+KSD16EE023
+Nochange grade for BE100
+Nochange grade for PH100
+
+KSD16EE024
+Nochange grade for BE103
+
+ELECTRONICS & COMMUNICATION ENGG
+
+KSD15EC013
+C grade for ME100
+
+KSD15EC058
+B grade for BE10104
+
+KSD15EC077
+Nochange grade for BE110
+
+KSD16EC002
+B grade for BE110
+
+KSD16EC003
+B grade for MA101
+P grade for BE10104
+B grade for BE110
+
+KSD16EC006
+C grade for BE10104
+
+KSD16EC015
+Nochange grade for CY100
+
+KSD16EC017
+C grade for BE10104
+
+KSD16EC025
+Nochange grade for BE10104
+
+KSD16EC026
+Nochange grade for BE103
+
+KSD16EC030
+Nochange grade for CY100
+
+KSD16EC032
+C grade for BE10104
+
+KSD16EC035
+Nochange grade for CY100
+
+KSD16EC039
+C grade for BE10104
+Nochange grade for CY100
+
+KSD16EC041
+Nochange grade for BE10104
+
+KSD16EC042
+B grade for BE10104
+
+KSD16EC053
+Nochange grade for CY100
+Nochange grade for ME100
+Nochange grade for BE103
+
+KSD16EC056
+Nochange grade for CY100
+
+KSD16EC061
+B grade for MA101
+
+KSD16EC063
+C grade for ME100
+Nochange grade for MA101
+
+KSD16EC067
+B+ grade for ME100
+
+KSD16EC068
+Nochange grade for ME100
+
+KSD16EC069
+C grade for ME100
+
+KSD16EC073
+C grade for ME100
+B+ grade for BE110
+
+KSD16EC075
+B grade for ME100
+
+KSD16EC078
+C grade for ME100
+Nochange grade for CY100
+
+KSD16EC084
+B grade for MA101
+
+COMPUTER SCIENCE & ENGINEERING
+
+KSD15CS100
+Nochange grade for BE10105
+
+KSD16CS005
+Nochange grade for CY100
+
+KSD16CS006
+Nochange grade for BE110
+Nochange grade for CY100
+
+KSD16CS008
+Nochange grade for BE10105
+Nochange grade for BE110
+
+KSD16CS023
+Nochange grade for BE110
+
+KSD16CS035
+B grade for BE110
+
+KSD16CS037
+Nochange grade for BE103
+
+KSD16CS039
+Nochange grade for CY100
+
+KSD16CS067
+TBP* grade for BE110
+
+KSD16CS078
+Nochange grade for BE110
+Nochange grade for CY100
+
+KSD16CS079
+Nochange grade for BE110
+
+KSD16CS081
+Nochange grade for BE103
+
+KSD16CS089
+Nochange grade for CY100
+C grade for MA101
+
+KSD16CS097
+TBP* grade for BE110
+
+KSD16CS100
+C grade for MA101
+
+CIVIL ENGINEERING
+
+KSD15CE045
+P grade for EC100
+Nochange grade for MA101
+
+KSD16CE001
+C grade for MA101
+
+KSD16CE003
+C grade for BE10101
+
+KSD16CE004
+Nochange grade for EE100
+
+KSD16CE009
+Nochange grade for BE100
+
+KSD16CE014
+Nochange grade for BE100
+
+KSD16CE015
+Nochange grade for BE10101
+
+KSD16CE017
+C grade for MA101
+
+KSD16CE018
+B+ grade for MA101
+
+KSD16CE026
+Nochange grade for BE100
+
+KSD16CE036
+Nochange grade for PH100
+
+KSD16CE040
+Nochange grade for BE100
+
+KSD16CE041
+Nochange grade for BE100
+
+KSD16CE043
+Nochange grade for EE100
+Nochange grade for PH100
+
+KSD16CE045
+Nochange grade for BE10101
+
+KSD16CE051
+Nochange grade for BE10101
+
+KSD16CE057
+Nochange grade for BE100
+TBP* grade for PH100
+Nochange grade for BE10101
+
+INFORMATION TECHNOLOGY
+
+KSD16IT004
+Nochange grade for BE110
+
+KSD16IT015
+Nochange grade for CY100
+Nochange grade for EC100
+
+KSD16IT016
+C grade for MA101
+Nochange grade for BE10105
+Nochange grade for BE110
+
+KSD16IT020
+B grade for BE10105
+
+KSD16IT025
+Nochange grade for BE110
+
+KSD16IT028
+Nochange grade for EC100

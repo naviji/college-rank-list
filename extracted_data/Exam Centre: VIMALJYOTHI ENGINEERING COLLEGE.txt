@@ -1,0 +1,457 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: VIMALJYOTHI ENGINEERING COLLEGE
+
+ELECTRONICS & COMMUNICATION ENGG
+
+VML15EC018
+Nochange grade for BE10104
+Nochange grade for MA101
+
+VML15EC019
+C grade for MA101
+
+VML15EC032
+C grade for CY100
+
+VML15EC034
+Nochange grade for BE110
+Nochange grade for BE10104
+
+VML16EC002
+Nochange grade for MA101
+
+VML16EC015
+Nochange grade for BE10104
+
+VML16EC034
+Nochange grade for BE10104
+
+VML16EC035
+Nochange grade for BE10104
+
+VML16EC043
+Nochange grade for MA101
+
+VML16EC055
+Nochange grade for BE100
+
+VML16EC056
+C grade for BE100
+
+VML16EC059
+Nochange grade for MA101
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+VML16EE001
+Nochange grade for BE100
+
+VML16EE002
+Nochange grade for CY100
+Nochange grade for CE100
+
+VML16EE006
+C grade for BE10103
+
+VML16EE014
+Nochange grade for BE103
+Nochange grade for CE100
+
+VML16EE015
+C grade for CE100
+
+VML16EE017
+P grade for BE100
+C grade for CE100
+Nochange grade for BE10103
+
+VML16EE021
+C grade for MA101
+
+VML16EE022
+C grade for MA101
+Nochange grade for BE10103
+Nochange grade for BE100
+C grade for CE100
+
+VML16EE029
+C grade for BE10103
+
+VML16EE032
+Nochange grade for BE10103
+
+VML16EE034
+Nochange grade for BE10103
+
+VML16EE047
+Nochange grade for CY100
+
+COMPUTER SCIENCE & ENGINEERING
+
+VML15CS024
+Nochange grade for BE110
+
+VML16CS013
+Nochange grade for ME100
+Nochange grade for CY100
+
+VML16CS015
+Nochange grade for CY100
+
+VML16CS020
+Nochange grade for BE10105
+
+VML16CS021
+Nochange grade for BE10105
+
+VML16CS028
+Nochange grade for CY100
+
+VML16CS029
+Nochange grade for CY100
+Nochange grade for MA101
+C grade for ME100
+
+VML16CS031
+Nochange grade for BE10105
+
+VML16CS035
+Nochange grade for BE10105
+Nochange grade for MA101
+
+VML16CS036
+Nochange grade for BE10105
+
+VML16CS041
+Nochange grade for BE10105
+
+VML16CS056
+Nochange grade for CY100
+
+CIVIL ENGINEERING
+
+VML15CE074
+Nochange grade for CY100
+
+VML16CE001
+Nochange grade for BE110
+
+VML16CE002
+Nochange grade for MA101
+
+VML16CE003
+Nochange grade for MA101
+
+VML16CE006
+B+ grade for ME100
+
+VML16CE008
+Nochange grade for BE110
+Nochange grade for MA101
+
+VML16CE010
+Nochange grade for PH100
+Nochange grade for BE110
+
+VML16CE011
+Nochange grade for MA101
+Nochange grade for BE110
+
+VML16CE014
+B grade for BE110
+
+VML16CE019
+Nochange grade for BE10101
+B grade for BE110
+
+VML16CE020
+Nochange grade for PH100
+
+VML16CE021
+Nochange grade for BE110
+Nochange grade for BE103
+
+VML16CE022
+B grade for BE110
+Nochange grade for MA101
+Nochange grade for ME100
+
+VML16CE024
+Nochange grade for PH100
+Nochange grade for MA101
+Nochange grade for BE10101
+
+VML16CE026
+Nochange grade for BE10101
+
+VML16CE028
+Nochange grade for BE10101
+B+ grade for BE110
+Nochange grade for BE103
+Nochange grade for PH100
+
+VML16CE036
+C grade for ME100
+
+VML16CE038
+Nochange grade for ME100
+
+VML16CE043
+Nochange grade for BE10101
+Nochange grade for MA101
+
+VML16CE048
+Nochange grade for BE103
+Nochange grade for BE10101
+
+VML16CE049
+A+ grade for BE110
+B+ grade for ME100
+Nochange grade for BE10101
+
+VML16CE050
+C grade for MA101
+
+VML16CE057
+B grade for ME100
+
+VML16CE059
+Nochange grade for BE10101
+Nochange grade for MA101
+
+VML16CE060
+Nochange grade for BE10101
+
+VML16CE062
+Nochange grade for MA101
+
+VML16CE066
+Nochange grade for BE110
+Nochange grade for PH100
+Nochange grade for ME100
+
+VML16CE070
+C grade for MA101
+
+VML16CE073
+C grade for ME100
+Nochange grade for BE10101
+
+VML16CE074
+B grade for BE110
+
+VML16CE075
+Nochange grade for BE110
+
+VML16CE076
+Nochange grade for ME100
+Nochange grade for BE10101
+
+VML16CE078
+Nochange grade for BE110
+
+VML16CE080
+Nochange grade for ME100
+
+VML16CE082
+Nochange grade for PH100
+Nochange grade for BE110
+
+VML16CE086
+B grade for PH100
+Nochange grade for BE103
+Nochange grade for BE110
+
+VML16CE091
+Nochange grade for BE110
+
+VML16CE092
+Nochange grade for MA101
+
+VML16CE095
+Nochange grade for PH100
+Nochange grade for BE10101
+Nochange grade for BE110
+
+VML16CE101
+Nochange grade for BE110
+Nochange grade for BE10101
+
+VML16CE102
+Nochange grade for ME100
+
+VML16CE105
+Nochange grade for ME100
+Nochange grade for BE110
+
+VML16CE108
+Nochange grade for PH100
+
+VML16CE111
+Nochange grade for BE110
+
+APPLIED ELECTRONICS & INSTRUMENTATION ENGINEERING
+
+VML15AE018
+Nochange grade for BE10104
+
+VML16AE004
+Nochange grade for BE10104
+C grade for CY100
+
+VML16AE005
+Nochange grade for BE100
+
+VML16AE006
+Nochange grade for BE10104
+
+VML16AE007
+Nochange grade for CY100
+
+VML16AE010
+Nochange grade for CY100
+Nochange grade for BE10104
+Nochange grade for BE100
+
+VML16AE015
+Nochange grade for CY100
+Nochange grade for BE10104
+
+VML16AE016
+Nochange grade for BE10104
+
+VML16AE025
+Nochange grade for BE103
+Nochange grade for BE10104
+
+VML16AE026
+Nochange grade for BE10104
+
+VML16AE029
+Nochange grade for BE100
+Nochange grade for CY100
+Nochange grade for BE10104
+
+VML16AE030
+Nochange grade for CY100
+Nochange grade for CE100
+
+MECHANICAL ENGINEERING
+
+VML15ME039
+Nochange grade for BE100
+Nochange grade for PH100
+
+VML15ME049
+Nochange grade for CY100
+
+VML15ME052
+Nochange grade for CY100
+C grade for BE10102
+
+VML15ME075
+Nochange grade for CE100
+
+VML16ME003
+C grade for MA101
+
+VML16ME010
+Nochange grade for BE110
+
+VML16ME012
+Nochange grade for BE110
+
+VML16ME015
+Nochange grade for PH100
+Nochange grade for BE110
+
+VML16ME016
+Nochange grade for BE10102
+Nochange grade for PH100
+
+VML16ME017
+B grade for BE110
+
+VML16ME019
+Nochange grade for BE110
+
+VML16ME020
+O grade for BE110
+Nochange grade for PH100
+
+VML16ME021
+P grade for BE10102
+
+VML16ME024
+Nochange grade for PH100
+C grade for BE10102
+B grade for BE110
+C grade for BE103
+
+VML16ME028
+C grade for BE103
+
+VML16ME032
+Nochange grade for BE103
+Nochange grade for MA101
+
+VML16ME036
+Nochange grade for BE103
+Nochange grade for PH100
+Nochange grade for MA101
+
+VML16ME038
+C grade for BE110
+
+VML16ME043
+Nochange grade for PH100
+Nochange grade for BE103
+Nochange grade for BE110
+
+VML16ME044
+Nochange grade for BE10102
+Nochange grade for BE103
+
+VML16ME046
+Nochange grade for PH100
+
+VML16ME049
+Nochange grade for EE100
+Nochange grade for BE103
+
+VML16ME053
+Nochange grade for MA101
+
+VML16ME054
+Nochange grade for EE100
+
+VML16ME060
+Nochange grade for BE110
+
+VML16ME063
+A+ grade for BE110
+
+VML16ME069
+Nochange grade for PH100
+
+VML16ME073
+Nochange grade for BE110
+
+VML16ME075
+Nochange grade for PH100
+
+VML16ME087
+Nochange grade for MA101
+B grade for BE110
+
+VML16ME091
+A+ grade for PH100
+
+VML16ME093
+Nochange grade for BE110
+
+VML16ME108
+Nochange grade for MA101
+P grade for EE100
+
+VML16ME112
+Nochange grade for BE110

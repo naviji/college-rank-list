@@ -1,0 +1,264 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MOHANDAS COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+COMPUTER SCIENCE & ENGINEERING
+
+MCT16CS003
+Nochange grade for BE110
+P grade for CY100
+
+MCT16CS011
+Nochange grade for EC100
+
+MCT16CS012
+A grade for BE103
+
+MCT16CS020
+Nochange grade for BE110
+P grade for CY100
+
+MCT16CS026
+Nochange grade for BE10105
+
+MCT16CS036
+Nochange grade for EC100
+
+MCT16CS039
+Nochange grade for BE110
+Nochange grade for CY100
+Nochange grade for EC100
+
+MCT16CS041
+Nochange grade for CY100
+
+MCT16CS045
+C grade for BE103
+Nochange grade for CY100
+
+MCT16CS047
+Nochange grade for BE110
+
+MCT16CS049
+Nochange grade for BE110
+
+MCT16CS053
+C grade for BE10105
+
+MCT16CS054
+C grade for BE103
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MCT16EE003
+Nochange grade for BE10103
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MCT16EC006
+C grade for CY100
+Nochange grade for ME100
+Nochange grade for BE10104
+
+MCT16EC007
+Nochange grade for MA101
+C grade for CY100
+
+MCT16EC009
+Nochange grade for MA101
+
+MCT16EC011
+Nochange grade for MA101
+
+MCT16EC012
+Nochange grade for MA101
+
+MCT16EC019
+Nochange grade for BE10104
+
+MCT16EC020
+Nochange grade for BE110
+
+MCT16EC022
+C grade for BE10104
+
+MCT16EC024
+C grade for BE10104
+
+MCT16EC029
+C grade for BE10104
+
+MCT16EC035
+Nochange grade for MA101
+
+MECHANICAL ENGINEERING
+
+MCT15ME006
+Nochange grade for EE100
+Nochange grade for BE10102
+
+MCT15ME079
+Nochange grade for PH100
+
+MCT16ME001
+Nochange grade for PH100
+
+MCT16ME003
+C grade for EE100
+Nochange grade for BE110
+
+MCT16ME010
+Nochange grade for EE100
+Nochange grade for BE10102
+
+MCT16ME011
+C grade for BE103
+C grade for PH100
+
+MCT16ME014
+Nochange grade for BE10102
+Nochange grade for PH100
+Nochange grade for MA101
+
+MCT16ME016
+Nochange grade for BE10102
+
+MCT16ME017
+C grade for BE110
+
+MCT16ME020
+Nochange grade for BE10102
+
+MCT16ME023
+Nochange grade for MA101
+
+MCT16ME026
+Nochange grade for MA101
+Nochange grade for PH100
+
+MCT16ME030
+Nochange grade for MA101
+Nochange grade for EE100
+
+MCT16ME034
+Nochange grade for MA101
+
+MCT16ME035
+Nochange grade for MA101
+
+MCT16ME036
+Nochange grade for EE100
+Nochange grade for PH100
+Nochange grade for BE10102
+Nochange grade for BE110
+
+MCT16ME044
+B+ grade for BE110
+
+MCT16ME046
+B grade for BE103
+
+MCT16ME050
+Nochange grade for EE100
+Nochange grade for BE10102
+
+MCT16ME052
+P grade for EE100
+
+MCT16ME057
+Nochange grade for BE10102
+P grade for EE100
+C grade for BE103
+
+MCT16ME061
+Nochange grade for BE10102
+Nochange grade for MA101
+Nochange grade for EE100
+
+MCT16ME068
+Nochange grade for BE10102
+
+MCT16ME069
+Nochange grade for MA101
+Nochange grade for BE110
+
+MCT16ME073
+Nochange grade for BE110
+
+MCT16ME076
+Nochange grade for EE100
+Nochange grade for BE110
+
+MCT16ME079
+Nochange grade for BE110
+
+MCT16ME081
+Nochange grade for PH100
+Nochange grade for BE10102
+
+MCT16ME085
+Nochange grade for BE110
+
+MCT16ME086
+Nochange grade for BE103
+
+MCT16ME087
+Nochange grade for BE110
+
+MCT16ME093
+Nochange grade for BE103
+Nochange grade for BE10102
+
+MCT16ME108
+Nochange grade for MA101
+
+MCT16ME111
+Nochange grade for PH100
+Nochange grade for MA101
+
+CIVIL ENGINEERING
+
+MCT16CE004
+B grade for EC100
+
+MCT16CE006
+Nochange grade for EC100
+Nochange grade for BE110
+
+MCT16CE007
+Nochange grade for EC100
+
+MCT16CE008
+Nochange grade for EC100
+
+MCT16CE009
+A+ grade for BE103
+
+MCT16CE011
+Nochange grade for BE110
+Nochange grade for EC100
+
+MCT16CE018
+Nochange grade for BE110
+B grade for EC100
+
+MCT16CE021
+Nochange grade for EC100
+
+MCT16CE026
+Nochange grade for BE110
+
+MCT16CE028
+Nochange grade for MA101
+
+MCT16CE033
+C grade for CY100
+
+MCT16CE044
+A grade for BE103
+A+ grade for EC100
+
+MCT16CE045
+Nochange grade for EC100
+
+MCT16CE058
+C grade for BE110
+C grade for EC100

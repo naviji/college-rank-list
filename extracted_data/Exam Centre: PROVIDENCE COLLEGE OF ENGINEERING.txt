@@ -1,0 +1,276 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: PROVIDENCE COLLEGE OF ENGINEERING
+
+MECHANICAL ENGINEERING
+
+PRC16ME001
+C grade for EC100
+
+PRC16ME003
+Nochange grade for BE100
+Nochange grade for MA101
+B grade for BE10102
+
+PRC16ME005
+Nochange grade for MA101
+
+PRC16ME007
+Nochange grade for BE10102
+Nochange grade for PH100
+Nochange grade for EC100
+
+PRC16ME008
+Nochange grade for BE10102
+
+PRC16ME011
+Nochange grade for MA101
+Nochange grade for BE100
+Nochange grade for PH100
+
+PRC16ME013
+Nochange grade for BE10102
+
+PRC16ME014
+Nochange grade for BE100
+Nochange grade for EC100
+Nochange grade for PH100
+C grade for BE10102
+
+PRC16ME017
+Nochange grade for EC100
+A grade for BE10102
+
+PRC16ME018
+Nochange grade for BE10102
+Nochange grade for BE100
+
+PRC16ME019
+Nochange grade for BE100
+
+PRC16ME021
+Nochange grade for BE10102
+Nochange grade for PH100
+
+PRC16ME024
+Nochange grade for EC100
+Nochange grade for PH100
+
+PRC16ME025
+Nochange grade for BE100
+Nochange grade for MA101
+
+PRC16ME027
+Nochange grade for MA101
+Nochange grade for EC100
+
+PRC16ME029
+Nochange grade for EC100
+Nochange grade for MA101
+
+PRC16ME035
+Nochange grade for BE10102
+
+PRC16ME036
+Nochange grade for BE10102
+Nochange grade for BE100
+A+ grade for EC100
+
+PRC16ME038
+C grade for EC100
+B+ grade for BE103
+
+PRC16ME040
+Nochange grade for MA101
+Nochange grade for EC100
+Nochange grade for BE10102
+
+PRC16ME044
+Nochange grade for EC100
+
+CIVIL ENGINEERING
+
+PRC15CE025
+Nochange grade for CY100
+
+PRC16CE006
+Nochange grade for CY100
+O grade for MA101
+Nochange grade for EE100
+
+PRC16CE008
+Nochange grade for BE103
+A+ grade for EE100
+
+PRC16CE009
+Nochange grade for MA101
+Nochange grade for BE110
+
+PRC16CE011
+Nochange grade for EE100
+
+PRC16CE015
+Nochange grade for EE100
+
+PRC16CE017
+Nochange grade for EE100
+Nochange grade for MA101
+
+PRC16CE018
+P grade for BE110
+
+PRC16CE020
+Nochange grade for MA101
+
+PRC16CE022
+Nochange grade for MA101
+Nochange grade for BE103
+B+ grade for BE10101
+Nochange grade for EE100
+
+PRC16CE023
+Nochange grade for MA101
+Nochange grade for BE103
+
+PRC16CE024
+Nochange grade for MA101
+Nochange grade for BE103
+Nochange grade for BE10101
+Nochange grade for EE100
+
+PRC16CE026
+Nochange grade for BE10101
+Nochange grade for BE103
+
+PRC16CE029
+Nochange grade for EE100
+Nochange grade for MA101
+
+PRC16CE030
+Nochange grade for BE10101
+Nochange grade for MA101
+Nochange grade for BE103
+
+PRC16CE031
+Nochange grade for CY100
+Nochange grade for BE103
+Nochange grade for MA101
+Nochange grade for BE110
+N grade for EE100
+
+PRC16CE032
+C grade for CY100
+Nochange grade for EE100
+Nochange grade for MA101
+Nochange grade for BE10101
+
+PRC16CE034
+Nochange grade for MA101
+
+PRC16CE035
+Nochange grade for BE110
+Nochange grade for MA101
+Nochange grade for EE100
+
+PRC16CE039
+Nochange grade for BE10101
+Nochange grade for MA101
+
+PRC16CE040
+P grade for EE100
+
+PRC16CE041
+Nochange grade for MA101
+
+PRC16CE042
+Nochange grade for BE103
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+PRC16EE001
+Nochange grade for MA101
+
+PRC16EE002
+Nochange grade for MA101
+Nochange grade for BE110
+Nochange grade for ME100
+Nochange grade for CY100
+N grade for BE10103
+
+PRC16EE003
+Nochange grade for ME100
+
+PRC16EE005
+Nochange grade for MA101
+
+PRC16EE008
+Nochange grade for BE110
+Nochange grade for ME100
+
+PRC16EE009
+Nochange grade for MA101
+
+ELECTRONICS & COMMUNICATION ENGG
+
+PRC16EC001
+P grade for BE110
+Nochange grade for MA101
+
+PRC16EC002
+Nochange grade for MA101
+Nochange grade for ME100
+
+PRC16EC003
+Nochange grade for MA101
+Nochange grade for ME100
+Nochange grade for BE10104
+
+PRC16EC005
+A+ grade for CY100
+Nochange grade for MA101
+Nochange grade for BE10104
+
+PRC16EC006
+Nochange grade for MA101
+
+PRC16EC007
+Nochange grade for BE110
+Nochange grade for ME100
+
+PRC16EC008
+Nochange grade for MA101
+
+PRC16EC010
+Nochange grade for ME100
+
+COMPUTER SCIENCE & ENGINEERING
+
+PRC16CS008
+Nochange grade for EE100
+
+PRC16CS009
+Nochange grade for CY100
+Nochange grade for EE100
+Nochange grade for MA101
+Nochange grade for BE110
+
+PRC16CS017
+Nochange grade for MA101
+
+PRC16CS021
+Nochange grade for MA101
+
+PRC16CS022
+Nochange grade for BE10105
+Nochange grade for MA101
+Nochange grade for EE100
+
+PRC16CS024
+Nochange grade for EE100
+
+PRC16CS026
+Nochange grade for BE110
+
+PRC16CS027
+Nochange grade for BE110
+C grade for EE100
+Nochange grade for CY100
+B grade for BE10105

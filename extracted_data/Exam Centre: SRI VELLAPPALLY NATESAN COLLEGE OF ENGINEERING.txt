@@ -1,0 +1,376 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: SRI VELLAPPALLY NATESAN COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+VPE16CE002
+Nochange grade for EE100
+
+VPE16CE003
+Nochange grade for CY100
+
+VPE16CE026
+Nochange grade for EE100
+
+VPE16CE027
+Nochange grade for EE100
+Nochange grade for CY100
+
+VPE16CE028
+Nochange grade for BE103
+
+VPE16CE029
+Nochange grade for EE100
+Nochange grade for BE100
+
+VPE16CE030
+Nochange grade for BE100
+
+VPE16CE037
+B+ grade for BE100
+Nochange grade for CY100
+
+VPE16CE047
+B+ grade for EE100
+
+VPE16CE049
+C grade for BE10101
+
+VPE16CE050
+Nochange grade for EE100
+
+VPE16CE065
+Nochange grade for EE100
+
+VPE16CE066
+Nochange grade for EE100
+
+VPE16CE068
+B+ grade for EE100
+
+VPE16CE069
+Nochange grade for EE100
+Nochange grade for MA101
+
+VPE16CE074
+C grade for EE100
+Nochange grade for CY100
+
+VPE16CE078
+Nochange grade for EE100
+
+VPE16CE079
+Nochange grade for BE10101
+Nochange grade for EE100
+
+VPE16CE088
+Nochange grade for EE100
+
+VPE16CE092
+Nochange grade for EE100
+
+VPE16CE094
+Nochange grade for CY100
+Nochange grade for EE100
+
+VPE16CE095
+Nochange grade for EE100
+
+VPE16CE103
+Nochange grade for EE100
+
+VPE16CE106
+Nochange grade for EE100
+
+VPE16CE107
+B+ grade for EE100
+
+VPE16CE108
+Nochange grade for EE100
+
+VPE16CE109
+Nochange grade for EE100
+O grade for BE103
+
+VPE16EC001
+Nochange grade for BE110
+
+MECHANICAL ENGINEERING
+
+VPE15ME073
+Nochange grade for MA101
+
+VPE15ME100
+Nochange grade for CY100
+
+VPE16ME002
+TBP* grade for BE10102
+
+VPE16ME008
+Nochange grade for EC100
+
+VPE16ME009
+Nochange grade for EC100
+
+VPE16ME010
+Nochange grade for EC100
+
+VPE16ME014
+Nochange grade for BE10102
+
+VPE16ME018
+Nochange grade for BE110
+
+VPE16ME023
+C grade for BE10102
+
+VPE16ME024
+C grade for BE10102
+Nochange grade for BE110
+
+VPE16ME025
+C grade for BE10102
+
+VPE16ME026
+C grade for BE10102
+
+VPE16ME030
+Nochange grade for BE110
+
+VPE16ME033
+Nochange grade for EC100
+
+VPE16ME034
+TBP* grade for BE10102
+B+ grade for BE110
+
+VPE16ME036
+Nochange grade for EC100
+
+VPE16ME038
+Nochange grade for BE103
+C grade for BE110
+
+VPE16ME047
+P grade for MA101
+TBP* grade for BE10102
+
+VPE16ME056
+Nochange grade for MA101
+TBP* grade for BE10102
+
+VPE16ME063
+Nochange grade for BE110
+
+VPE16ME064
+Nochange grade for EC100
+TBP* grade for BE10102
+
+VPE16ME067
+Nochange grade for MA101
+
+VPE16ME068
+Nochange grade for MA101
+Nochange grade for EC100
+Nochange grade for PH100
+
+VPE16ME071
+Nochange grade for BE110
+Nochange grade for MA101
+
+VPE16ME072
+A+ grade for BE103
+
+VPE16ME075
+Nochange grade for BE110
+A+ grade for BE103
+Nochange grade for BE10102
+
+VPE16ME077
+Nochange grade for BE10102
+
+VPE16ME079
+C grade for BE10102
+
+VPE16ME080
+Nochange grade for EC100
+Nochange grade for BE10102
+
+VPE16ME082
+Nochange grade for BE10102
+
+VPE16ME087
+TBP* grade for BE10102
+
+VPE16ME089
+B+ grade for BE103
+
+VPE16ME092
+Nochange grade for BE110
+
+VPE16ME094
+Nochange grade for BE10102
+
+VPE16ME098
+Nochange grade for BE10102
+
+VPE16ME099
+Nochange grade for PH100
+
+VPE16ME101
+Nochange grade for BE110
+
+VPE16ME103
+Nochange grade for EC100
+
+VPE16ME105
+B grade for BE110
+C grade for BE10102
+
+VPE16ME106
+Nochange grade for MA101
+Nochange grade for BE110
+
+VPE16ME107
+B grade for BE110
+
+VPE16ME109
+B+ grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+VPE16CS001
+Nochange grade for BE10105
+
+VPE16CS002
+Nochange grade for BE10105
+
+VPE16CS004
+Nochange grade for BE10105
+
+VPE16CS007
+Nochange grade for BE10105
+
+VPE16CS008
+Nochange grade for ME100
+Nochange grade for BE10105
+
+VPE16CS011
+Nochange grade for BE10105
+
+VPE16CS015
+Nochange grade for CY100
+
+VPE16CS016
+Nochange grade for ME100
+Nochange grade for BE10105
+
+VPE16CS020
+Nochange grade for ME100
+Nochange grade for BE10105
+
+VPE16CS023
+Nochange grade for BE10105
+C grade for CY100
+
+VPE16CS025
+Nochange grade for BE10105
+
+VPE16CS033
+Nochange grade for CY100
+
+VPE16CS037
+C grade for CY100
+C grade for BE10105
+
+VPE16CS043
+Nochange grade for BE100
+
+VPE16CS046
+Nochange grade for ME100
+Nochange grade for BE10105
+
+ELECTRONICS & COMMUNICATION ENGG
+
+VPE16EC002
+B+ grade for BE110
+
+VPE16EC004
+Nochange grade for BE110
+
+VPE16EC005
+Nochange grade for BE110
+Nochange grade for BE10104
+
+VPE16EC006
+Nochange grade for BE110
+
+VPE16EC007
+Nochange grade for BE110
+
+VPE16EC008
+Nochange grade for BE110
+
+VPE16EC009
+Nochange grade for BE10104
+Nochange grade for BE110
+
+VPE16EC010
+Nochange grade for PH100
+A+ grade for BE110
+
+VPE16EC011
+Nochange grade for BE10104
+Nochange grade for BE110
+
+VPE16EC012
+Nochange grade for PH100
+Nochange grade for BE10104
+A grade for BE110
+
+VPE16EC014
+Nochange grade for BE110
+
+VPE16EC016
+Nochange grade for BE110
+
+VPE16EC017
+Nochange grade for BE10104
+Nochange grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+VPE16EE001
+Nochange grade for BE10103
+P grade for BE103
+
+VPE16EE004
+Nochange grade for BE10103
+
+VPE16EE005
+Nochange grade for BE10103
+
+VPE16EE016
+Nochange grade for PH100
+
+VPE16EE022
+Nochange grade for PH100
+
+VPE16MP003
+Nochange grade for EE100
+
+VPE16MP006
+Nochange grade for BE103
+
+VPE16MP008
+Nochange grade for BE100
+Nochange grade for CY100
+Nochange grade for EE100
+
+VPE16MP010
+Nochange grade for EE100
+
+VPE16MP016
+Nochange grade for EE100
+
+VPE16MP020
+Nochange grade for EE100

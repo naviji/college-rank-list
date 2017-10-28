@@ -1,0 +1,251 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: COLLEGE OF ENGINEERING MUTTATHARA
+
+MECHANICAL ENGINEERING
+
+CEM16ME001
+Nochange grade for BE100
+C grade for PH100
+
+CEM16ME005
+Nochange grade for BE100
+
+CEM16ME007
+C grade for BE100
+
+CEM16ME009
+Nochange grade for BE100
+
+CEM16ME010
+Nochange grade for BE100
+Nochange grade for PH100
+
+CEM16ME011
+P grade for BE100
+
+CEM16ME012
+Nochange grade for BE100
+
+CEM16ME013
+Nochange grade for MA101
+Nochange grade for BE100
+
+CEM16ME018
+Nochange grade for BE100
+
+CEM16ME020
+Nochange grade for BE100
+C grade for MA101
+
+CEM16ME022
+Nochange grade for PH100
+Nochange grade for CE100
+Nochange grade for BE10102
+
+CEM16ME023
+Nochange grade for BE100
+
+CEM16ME026
+Nochange grade for BE100
+
+CEM16ME027
+C grade for BE10102
+
+CEM16ME028
+Nochange grade for BE100
+
+CEM16ME036
+Nochange grade for PH100
+
+CEM16ME041
+Nochange grade for BE100
+
+CEM16ME042
+C grade for MA101
+
+CEM16ME051
+C grade for PH100
+
+CEM16ME052
+B grade for MA101
+
+CIVIL ENGINEERING
+
+CEM16CE002
+Nochange grade for MA101
+
+CEM16CE005
+Nochange grade for MA101
+Nochange grade for BE100
+Nochange grade for PH100
+
+CEM16CE014
+A+ grade for BE100
+Nochange grade for PH100
+Nochange grade for BE10101
+
+CEM16CE020
+Nochange grade for BE100
+C grade for MA101
+
+CEM16CE026
+Nochange grade for MA101
+Nochange grade for ME100
+Nochange grade for BE100
+
+CEM16CE027
+Nochange grade for BE100
+Nochange grade for ME100
+
+CEM16CE029
+Nochange grade for BE10101
+
+CEM16CE030
+Nochange grade for BE10101
+Nochange grade for ME100
+
+CEM16CE032
+C grade for MA101
+Nochange grade for BE100
+
+CEM16CE034
+Nochange grade for BE100
+
+CEM16CE037
+Nochange grade for ME100
+
+CEM16CE040
+A grade for PH100
+Nochange grade for ME100
+
+CEM16CE047
+Nochange grade for BE100
+C grade for MA101
+Nochange grade for ME100
+
+CEM16CE049
+C grade for ME100
+
+CEM16CE051
+Nochange grade for ME100
+Nochange grade for BE100
+
+CEM16CE052
+Nochange grade for BE100
+Nochange grade for ME100
+
+CEM16CE053
+Nochange grade for BE100
+Nochange grade for ME100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+CEM16EE001
+Nochange grade for MA101
+C grade for CY100
+
+CEM16EE004
+C grade for CY100
+
+CEM16EE007
+Nochange grade for MA101
+
+CEM16EE008
+Nochange grade for CY100
+
+CEM16EE012
+B grade for CY100
+
+CEM16EE014
+O grade for BE110
+Nochange grade for EC100
+
+CEM16EE015
+Nochange grade for BE110
+
+CEM16EE017
+Nochange grade for CY100
+
+CEM16EE018
+Nochange grade for MA101
+Nochange grade for CY100
+
+CEM16EE020
+Nochange grade for CY100
+
+CEM16EE021
+Nochange grade for BE10103
+Nochange grade for EC100
+
+CEM16EE023
+Nochange grade for CY100
+
+CEM16EE024
+Nochange grade for CY100
+Nochange grade for MA101
+
+CEM16EE025
+Nochange grade for CY100
+
+CEM16EE027
+Nochange grade for CY100
+
+CEM16EE028
+Nochange grade for BE110
+Nochange grade for CY100
+
+CEM16EE029
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+CEM16EC001
+Nochange grade for MA101
+
+CEM16EC008
+C grade for EE100
+
+CEM16EC020
+Nochange grade for BE110
+Nochange grade for EE100
+Nochange grade for CY100
+Nochange grade for BE10104
+
+CEM16EC022
+B grade for EE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+CEM16CS007
+B grade for BE10105
+
+CEM16CS011
+B grade for CY100
+
+CEM16CS014
+C grade for BE10105
+Nochange grade for BE100
+
+CEM16CS015
+Nochange grade for CY100
+C grade for EE100
+
+CEM16CS020
+Nochange grade for MA101
+Nochange grade for BE10105
+Nochange grade for CY100
+Nochange grade for EE100
+
+CEM16CS021
+Nochange grade for CY100
+
+CEM16CS028
+Nochange grade for BE100
+
+CEM16CS032
+B grade for BE10105
+Nochange grade for CY100
+
+CEM16CS034
+C grade for BE100
+C grade for CY100
+C grade for EE100

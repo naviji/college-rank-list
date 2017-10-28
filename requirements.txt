@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+chardet==3.0.4
+html5lib==0.999999999
+pdfminer.six==20160614
+six==1.11.0

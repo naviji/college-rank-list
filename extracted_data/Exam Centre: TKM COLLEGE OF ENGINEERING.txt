@@ -1,0 +1,823 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: TKM COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+TKM15CE009
+C grade for EC100
+
+TKM15CE066
+Nochange grade for EC100
+
+TKM16CE004
+C grade for MA101
+Nochange grade for BE110
+Nochange grade for PH100
+Nochange grade for BE10101
+
+TKM16CE005
+Nochange grade for PH100
+C grade for BE103
+
+TKM16CE011
+Nochange grade for MA101
+Nochange grade for BE110
+
+TKM16CE012
+Nochange grade for BE10101
+
+TKM16CE013
+O grade for PH100
+B+ grade for BE110
+
+TKM16CE018
+C grade for BE103
+C grade for MA101
+C grade for BE10101
+Nochange grade for EC100
+Nochange grade for BE110
+
+TKM16CE020
+A grade for BE110
+Nochange grade for BE10101
+
+TKM16CE024
+Nochange grade for PH100
+Nochange grade for BE10101
+A grade for BE110
+
+TKM16CE025
+Nochange grade for BE10101
+A grade for BE110
+
+TKM16CE026
+Nochange grade for BE10101
+A grade for BE110
+B+ grade for EC100
+
+TKM16CE027
+Nochange grade for BE110
+
+TKM16CE028
+Nochange grade for EC100
+
+TKM16CE039
+B+ grade for EC100
+Nochange grade for BE10101
+
+TKM16CE040
+O grade for EC100
+O grade for BE10101
+
+TKM16CE041
+Nochange grade for EC100
+O grade for BE110
+
+TKM16CE043
+B grade for EC100
+
+TKM16CE046
+C grade for MA101
+
+TKM16CE053
+B grade for BE103
+Nochange grade for PH100
+
+TKM16CE056
+B grade for BE103
+C grade for MA101
+
+TKM16CE058
+C grade for MA101
+
+TKM16CE061
+Nochange grade for BE110
+P grade for BE10101
+
+TKM16CE065
+Nochange grade for BE110
+Nochange grade for PH100
+
+TKM16CE068
+Nochange grade for BE103
+
+TKM16CE069
+B+ grade for BE103
+
+TKM16CE070
+A+ grade for BE103
+
+TKM16CE073
+Nochange grade for BE110
+Nochange grade for EC100
+C grade for BE103
+
+TKM16CE075
+A+ grade for BE103
+
+TKM16CE076
+Nochange grade for BE103
+
+TKM16CE078
+Nochange grade for EC100
+Nochange grade for BE103
+
+TKM16CE085
+Nochange grade for BE110
+
+TKM16CE088
+O grade for BE110
+
+TKM16CE090
+O grade for PH100
+
+TKM16CE100
+Nochange grade for BE10101
+
+TKM16CE102
+Nochange grade for PH100
+Nochange grade for BE10101
+Nochange grade for EC100
+Nochange grade for MA101
+N grade for BE110
+
+TKM16CE104
+Nochange grade for PH100
+B grade for MA101
+Nochange grade for BE110
+
+TKM16CE105
+O grade for PH100
+
+TKM16CE119
+A grade for BE103
+A grade for EC100
+
+TKM16CE122
+A grade for BE10101
+
+TKM16CE123
+Nochange grade for PH100
+B grade for MA101
+
+TKM16CE133
+B grade for MA101
+
+MECHANICAL ENGINEERING
+
+TKM15ME014
+Nochange grade for PH100
+
+TKM15ME047
+Nochange grade for BE110
+
+TKM15ME063
+Nochange grade for PH100
+
+TKM16ME001
+Nochange grade for BE110
+B grade for BE103
+Nochange grade for PH100
+Nochange grade for BE10102
+Nochange grade for EE100
+
+TKM16ME003
+Nochange grade for PH100
+Nochange grade for EE100
+
+TKM16ME006
+Nochange grade for EE100
+
+TKM16ME008
+Nochange grade for EE100
+
+TKM16ME011
+Nochange grade for BE110
+A+ grade for EE100
+A grade for BE103
+
+TKM16ME012
+Nochange grade for EE100
+
+TKM16ME016
+B grade for BE103
+
+TKM16ME018
+Nochange grade for BE110
+
+TKM16ME020
+A+ grade for MA101
+B+ grade for EE100
+Nochange grade for PH100
+
+TKM16ME024
+Nochange grade for BE110
+
+TKM16ME027
+Nochange grade for MA101
+
+TKM16ME028
+A grade for BE110
+
+TKM16ME030
+Nochange grade for BE110
+Nochange grade for BE10102
+
+TKM16ME032
+B+ grade for EE100
+B+ grade for BE10102
+
+TKM16ME035
+Nochange grade for BE103
+B+ grade for BE10102
+
+TKM16ME036
+Nochange grade for BE110
+B grade for MA101
+
+TKM16ME038
+Nochange grade for BE10102
+Nochange grade for BE110
+
+TKM16ME041
+Nochange grade for EE100
+Nochange grade for BE103
+
+TKM16ME043
+Nochange grade for BE110
+
+TKM16ME046
+Nochange grade for EE100
+C grade for BE103
+
+TKM16ME051
+Nochange grade for MA101
+Nochange grade for EE100
+
+TKM16ME052
+A+ grade for BE110
+
+TKM16ME053
+B+ grade for BE110
+TBP* grade for EE100
+
+TKM16ME065
+Nochange grade for BE10102
+
+TKM16ME070
+C grade for EE100
+Nochange grade for PH100
+
+TKM16ME077
+Nochange grade for BE103
+
+TKM16ME078
+C grade for BE103
+
+TKM16ME085
+Nochange grade for BE110
+
+TKM16ME097
+B+ grade for BE10102
+
+TKM16ME102
+Nochange grade for BE110
+B grade for BE10102
+
+TKM16ME103
+Nochange grade for BE10102
+
+TKM16ME105
+C grade for BE10102
+
+TKM16ME108
+Nochange grade for BE10102
+
+TKM16ME109
+Nochange grade for BE10102
+Nochange grade for EE100
+
+TKM16ME110
+C grade for BE10102
+
+TKM16ME112
+Nochange grade for BE10102
+
+TKM16ME113
+A grade for PH100
+
+TKM16ME114
+Nochange grade for BE10102
+
+TKM16ME115
+Nochange grade for BE10102
+
+TKM16ME116
+Nochange grade for BE10102
+Nochange grade for BE110
+
+TKM16ME117
+O grade for EE100
+Nochange grade for BE10102
+
+TKM16ME120
+Nochange grade for EE100
+Nochange grade for PH100
+
+TKM16ME128
+Nochange grade for BE103
+
+TKM16ME129
+Nochange grade for BE103
+
+TKM16ME134
+Nochange grade for BE10102
+O grade for MA101
+
+TKM16MP009
+Nochange grade for BE110
+Nochange grade for PH100
+
+TKM16MP017
+A grade for BE110
+A+ grade for EE100
+
+TKM16MP066
+A+ grade for BE110
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+TKM15EE031
+C grade for CY100
+
+TKM15EE033
+Nochange grade for MA101
+
+TKM15EE043
+Nochange grade for MA101
+
+TKM16EE002
+C grade for BE103
+
+TKM16EE003
+Nochange grade for ME100
+
+TKM16EE004
+C grade for BE10103
+Nochange grade for ME100
+C grade for BE103
+
+TKM16EE008
+Nochange grade for BE100
+Nochange grade for MA101
+
+TKM16EE015
+A+ grade for CY100
+B+ grade for BE103
+
+TKM16EE017
+B grade for BE100
+
+TKM16EE018
+Nochange grade for CY100
+
+TKM16EE020
+Nochange grade for CY100
+A grade for BE100
+
+TKM16EE022
+Nochange grade for BE100
+
+TKM16EE024
+A grade for CY100
+B+ grade for MA101
+B+ grade for BE100
+
+TKM16EE025
+A grade for CY100
+A+ grade for BE100
+
+TKM16EE027
+Nochange grade for ME100
+
+TKM16EE028
+O grade for CY100
+
+TKM16EE030
+B+ grade for CY100
+
+TKM16EE037
+Nochange grade for BE103
+Nochange grade for ME100
+
+TKM16EE042
+A+ grade for MA101
+Nochange grade for CY100
+
+TKM16EE045
+O grade for CY100
+
+TKM16EE046
+Nochange grade for BE100
+
+TKM16EE057
+Nochange grade for BE10103
+Nochange grade for BE103
+
+TKM16EE060
+C grade for ME100
+
+TKM16EE063
+Nochange grade for BE100
+A+ grade for CY100
+
+TKM16EE067
+O grade for BE10103
+Nochange grade for MA101
+
+TKM16EE070
+Nochange grade for CY100
+B+ grade for BE10103
+Nochange grade for BE100
+
+TKM16EE076
+Nochange grade for BE103
+TBP* grade for CY100
+Nochange grade for ME100
+
+TKM16EE077
+Nochange grade for BE100
+O grade for CY100
+
+TKM16EE080
+Nochange grade for ME100
+
+TKM16EE082
+Nochange grade for BE100
+
+TKM16EE084
+TBP* grade for BE100
+
+TKM16EE085
+Nochange grade for MA101
+Nochange grade for BE100
+
+TKM16EE086
+B grade for BE100
+
+TKM16EE089
+Nochange grade for BE100
+Nochange grade for CY100
+Nochange grade for BE10103
+
+TKM16EE093
+Nochange grade for BE103
+Nochange grade for CY100
+Nochange grade for ME100
+
+TKM16EE097
+Nochange grade for BE100
+
+TKM16EE098
+Nochange grade for ME100
+
+TKM16EE099
+C grade for BE10103
+Nochange grade for ME100
+
+TKM16EE100
+O grade for CY100
+O grade for BE103
+
+TKM16EE101
+A grade for CY100
+TBP* grade for BE103
+
+TKM16EE103
+C grade for ME100
+
+TKM16EE105
+Nochange grade for ME100
+
+TKM16EE106
+P grade for BE10103
+Nochange grade for ME100
+
+TKM16EE107
+B grade for ME100
+
+TKM16EE112
+Nochange grade for BE10103
+Nochange grade for BE100
+
+TKM16EE117
+Nochange grade for CY100
+Nochange grade for BE10103
+Nochange grade for BE100
+
+TKM16EE119
+Nochange grade for ME100
+
+TKM16EE121
+Nochange grade for BE103
+
+TKM16EE126
+B+ grade for BE100
+
+TKM16EE127
+C grade for BE10103
+
+TKM16EE129
+B grade for CY100
+
+TRV15EE019
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+TKM16EC001
+Nochange grade for BE10104
+Nochange grade for CE100
+Nochange grade for BE103
+
+TKM16EC002
+O grade for CY100
+
+TKM16EC005
+C grade for MA101
+
+TKM16EC009
+A grade for CE100
+Nochange grade for BE10104
+
+TKM16EC012
+Nochange grade for CE100
+A grade for CY100
+
+TKM16EC020
+Nochange grade for BE100
+
+TKM16EC021
+Nochange grade for BE10104
+Nochange grade for MA101
+C grade for CE100
+
+TKM16EC022
+Nochange grade for CY100
+Nochange grade for CE100
+
+TKM16EC025
+C grade for MA101
+
+TKM16EC034
+Nochange grade for BE100
+A grade for CY100
+Nochange grade for BE10104
+
+TKM16EC039
+A+ grade for CY100
+
+TKM16EC040
+A grade for CY100
+
+TKM16EC046
+Nochange grade for BE100
+
+TKM16EC051
+Nochange grade for CY100
+B+ grade for CE100
+A grade for BE103
+
+TKM16EC053
+TBP* grade for BE100
+
+TKM16EC055
+Nochange grade for BE100
+
+TKM16EC057
+O grade for BE100
+B grade for CE100
+Nochange grade for BE103
+
+TKM16EC059
+Nochange grade for CY100
+B+ grade for BE100
+
+TKM16EC065
+Nochange grade for BE100
+
+TKM16EC066
+O grade for MA101
+A+ grade for BE100
+
+TKM16EC067
+Nochange grade for BE100
+
+TKM16EC085
+Nochange grade for BE103
+A grade for CY100
+B+ grade for CE100
+
+TKM16EC087
+Nochange grade for BE100
+
+TKM16EC090
+A grade for CY100
+
+TKM16EC097
+B grade for CE100
+
+TKM16EC098
+A grade for CY100
+
+TKM16EC103
+A grade for CE100
+
+TKM16EC105
+B+ grade for BE103
+
+TKM16EC108
+B+ grade for BE103
+
+TKM16EC116
+C grade for CE100
+
+CHEMICAL ENGINEERING
+
+TKM15CH006
+C grade for CY100
+
+TKM15CH009
+Nochange grade for CY100
+C grade for MA101
+
+TKM16CH001
+C grade for CE100
+
+TKM16CH004
+Nochange grade for BE100
+P grade for CE100
+Nochange grade for BE10106
+
+TKM16CH006
+Nochange grade for BE10106
+
+TKM16CH008
+C grade for CE100
+
+TKM16CH018
+Nochange grade for BE10106
+
+TKM16CH020
+A grade for CY100
+
+TKM16CH042
+Nochange grade for BE10106
+
+TKM16CH064
+Nochange grade for CE100
+
+TKM16CH065
+B grade for MA101
+
+COMPUTER SCIENCE & ENGINEERING
+
+TKM16CS001
+Nochange grade for CY100
+O grade for BE10105
+
+TKM16CS002
+Nochange grade for BE100
+Nochange grade for BE10105
+
+TKM16CS004
+A+ grade for MA101
+Nochange grade for BE100
+A grade for BE103
+Nochange grade for CY100
+O grade for BE10105
+A grade for EC100
+
+TKM16CS008
+A+ grade for EC100
+B grade for BE103
+
+TKM16CS009
+A+ grade for BE10105
+A grade for MA101
+
+TKM16CS015
+C grade for BE103
+Nochange grade for BE100
+
+TKM16CS018
+B+ grade for BE103
+A grade for BE10105
+
+TKM16CS020
+Nochange grade for BE100
+
+TKM16CS022
+Nochange grade for BE100
+
+TKM16CS030
+Nochange grade for CY100
+
+TKM16CS042
+B grade for MA101
+B grade for BE10105
+Nochange grade for CY100
+
+TKM16CS048
+Nochange grade for BE10105
+Nochange grade for BE100
+C grade for EC100
+Nochange grade for CY100
+
+TKM16CS056
+C grade for BE103
+
+TKM16CS057
+B+ grade for BE103
+
+TKM16CS059
+C grade for MA101
+
+TKM15MP036
+B grade for MA101
+
+TKM15MP062
+Nochange grade for PH100
+
+TKM16MP004
+O grade for MA101
+A+ grade for BE110
+
+TKM16MP008
+B+ grade for BE110
+
+TKM16MP011
+Nochange grade for BE10102
+O grade for BE110
+Nochange grade for BE103
+
+TKM16MP012
+B+ grade for BE110
+Nochange grade for BE103
+
+TKM16MP014
+Nochange grade for BE110
+Nochange grade for BE103
+Nochange grade for PH100
+Nochange grade for BE10102
+
+TKM16MP019
+Nochange grade for PH100
+Nochange grade for EE100
+Nochange grade for MA101
+Nochange grade for BE110
+
+TKM16MP020
+Nochange grade for BE103
+A+ grade for BE110
+
+TKM16MP023
+C grade for BE103
+Nochange grade for BE110
+
+TKM16MP031
+Nochange grade for BE110
+B grade for MA101
+Nochange grade for EE100
+
+TKM16MP034
+Nochange grade for BE10102
+
+TKM16MP038
+Nochange grade for PH100
+Nochange grade for EE100
+Nochange grade for BE110
+
+TKM16MP039
+Nochange grade for BE103
+Nochange grade for BE10102
+
+TKM16MP040
+Nochange grade for BE10102
+Nochange grade for BE110
+Nochange grade for EE100
+
+TKM16MP042
+Nochange grade for EE100
+
+TKM16MP046
+Nochange grade for BE103
+Nochange grade for BE110
+
+TKM16MP050
+Nochange grade for BE103
+
+TKM16MP057
+Nochange grade for BE110
+
+TKM16MP064
+B+ grade for BE103

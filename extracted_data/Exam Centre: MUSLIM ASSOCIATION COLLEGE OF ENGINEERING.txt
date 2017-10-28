@@ -1,0 +1,89 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MUSLIM ASSOCIATION COLLEGE OF ENGINEERING
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MUS16EC001
+Nochange grade for EE100
+C grade for CY100
+
+MUS16EC004
+C grade for BE100
+
+MUS16EC007
+Nochange grade for CY100
+
+MUS16EC010
+Nochange grade for EE100
+Nochange grade for BE10104
+
+MUS16EC011
+Nochange grade for CY100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MUS16EE009
+Nochange grade for CY100
+O grade for BE103
+
+MUS16EE011
+C grade for BE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+MUS16CS002
+C grade for CY100
+
+MUS16CS008
+Nochange grade for MA101
+
+MUS16CS009
+Nochange grade for MA101
+
+MUS16CS010
+Nochange grade for MA101
+
+MUS16CS017
+Nochange grade for BE10105
+Nochange grade for CY100
+
+MUS16CS024
+Nochange grade for CY100
+Nochange grade for BE10105
+
+CIVIL ENGINEERING
+
+MUS16CE010
+C grade for ME100
+
+MUS16CE021
+B grade for MA101
+
+MUS16CE027
+Nochange grade for ME100
+
+MECHANICAL ENGINEERING
+
+MUS16ME005
+Nochange grade for MA101
+
+MUS16ME008
+Nochange grade for BE10102
+Nochange grade for MA101
+
+MUS16ME011
+Nochange grade for BE10102
+Nochange grade for PH100
+
+MUS16ME014
+Nochange grade for BE103
+Nochange grade for PH100
+
+MUS16ME015
+Nochange grade for BE110
+O grade for PH100
+
+MUS16ME025
+Nochange grade for MA101
+
+MUS16ME026
+C grade for MA101

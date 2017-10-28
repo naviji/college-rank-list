@@ -1,0 +1,110 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: TRINITY COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+TCT16CE011
+Nochange grade for BE110
+
+TCT16CE013
+Nochange grade for BE110
+Nochange grade for PH100
+Nochange grade for EE100
+
+TCT16CE017
+Nochange grade for BE110
+Nochange grade for EE100
+
+TCT16CE023
+Nochange grade for BE110
+
+TCT16CE025
+Nochange grade for EE100
+
+TCT16CE027
+Nochange grade for EE100
+Nochange grade for BE110
+
+TCT16CE028
+Nochange grade for EE100
+
+TCT16CE029
+Nochange grade for EE100
+A grade for BE110
+
+TCT16CE031
+Nochange grade for BE110
+
+TCT16CE043
+Nochange grade for BE110
+
+TCT16CE044
+Nochange grade for EE100
+
+TCT16CE046
+Nochange grade for BE110
+
+MECHANICAL ENGINEERING
+
+TCT16ME002
+Nochange grade for MA101
+Nochange grade for BE10102
+Nochange grade for BE100
+
+TCT16ME003
+Nochange grade for BE100
+Nochange grade for EC100
+
+TCT16ME004
+Nochange grade for BE100
+
+TCT16ME008
+Nochange grade for BE100
+
+TCT16ME010
+Nochange grade for MA101
+C grade for BE100
+
+TCT16ME020
+Nochange grade for BE100
+
+TCT16ME027
+Nochange grade for BE100
+
+TCT16ME032
+Nochange grade for BE100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+TCT16EE001
+Nochange grade for BE110
+
+TCT16EE002
+Nochange grade for BE10103
+
+TCT16EE004
+Nochange grade for MA101
+Nochange grade for PH100
+
+TCT16EE009
+Nochange grade for ME100
+
+TCT16EE011
+Nochange grade for ME100
+Nochange grade for BE10103
+
+TCT16EE012
+Nochange grade for ME100
+
+TCT16EE017
+Nochange grade for BE110
+
+TCT16EE026
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+TCT16EC022
+Nochange grade for BE100
+
+TCT16EC028
+Nochange grade for BE100

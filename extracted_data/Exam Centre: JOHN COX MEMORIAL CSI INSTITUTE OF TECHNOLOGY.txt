@@ -1,0 +1,178 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: JOHN COX MEMORIAL CSI INSTITUTE OF TECHNOLOGY
+
+COMPUTER SCIENCE & ENGINEERING
+
+JIT16CS003
+Nochange grade for MA101
+
+JIT16CS004
+Nochange grade for EE100
+
+JIT16CS005
+Nochange grade for CY100
+
+JIT16CS007
+Nochange grade for EE100
+
+JIT16CS018
+Nochange grade for CY100
+Nochange grade for EE100
+
+JIT16CS020
+Nochange grade for MA101
+
+JIT16CS025
+Nochange grade for EE100
+
+MECHANICAL ENGINEERING
+
+JIT16ME001
+Nochange grade for BE110
+
+JIT16ME002
+Nochange grade for CE100
+
+JIT16ME008
+P grade for PH100
+
+JIT16ME009
+Nochange grade for BE110
+Nochange grade for CE100
+
+JIT16ME011
+Nochange grade for BE110
+
+JIT16ME012
+Nochange grade for BE110
+
+JIT16ME014
+Nochange grade for BE110
+Nochange grade for BE10102
+
+JIT16ME015
+Nochange grade for CE100
+
+JIT16ME016
+C grade for CE100
+
+JIT16ME018
+Nochange grade for BE10102
+
+JIT16ME021
+C grade for CE100
+
+JIT16ME028
+Nochange grade for BE10102
+
+JIT16ME029
+Nochange grade for BE10102
+Nochange grade for CE100
+
+JIT16ME030
+Nochange grade for CE100
+
+JIT16ME032
+Nochange grade for PH100
+Nochange grade for CE100
+Nochange grade for BE110
+
+JIT16ME037
+Nochange grade for CE100
+Nochange grade for BE10102
+
+JIT16ME038
+Nochange grade for CE100
+
+JIT16ME042
+Nochange grade for BE110
+
+JIT16ME044
+Nochange grade for MA101
+
+JIT16ME046
+Nochange grade for PH100
+
+CIVIL ENGINEERING
+
+JIT15CE043
+Nochange grade for MA101
+
+JIT16CE001
+Nochange grade for BE110
+
+JIT16CE002
+Nochange grade for BE110
+
+JIT16CE004
+Nochange grade for BE110
+P grade for PH100
+
+JIT16CE006
+Nochange grade for BE110
+
+JIT16CE010
+C grade for ME100
+Nochange grade for BE110
+
+JIT16CE011
+Nochange grade for BE110
+
+JIT16CE015
+Nochange grade for BE110
+Nochange grade for ME100
+
+JIT16CE018
+Nochange grade for BE110
+Nochange grade for ME100
+
+JIT16CE019
+Nochange grade for MA101
+
+JIT16CE021
+Nochange grade for BE110
+
+JIT16CE022
+Nochange grade for BE110
+
+JIT16CE027
+Nochange grade for BE110
+
+JIT16CE028
+Nochange grade for MA101
+Nochange grade for ME100
+Nochange grade for BE110
+
+JIT16CE038
+Nochange grade for MA101
+Nochange grade for ME100
+
+JIT16CE039
+Nochange grade for BE110
+
+JIT16CE040
+Nochange grade for ME100
+
+JIT16CE042
+Nochange grade for BE110
+
+JIT16CE049
+Nochange grade for BE110
+Nochange grade for ME100
+
+JIT16CE050
+C grade for PH100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+JIT16EE011
+Nochange grade for BE10103
+Nochange grade for EC100
+
+JIT16EE019
+Nochange grade for BE10103
+Nochange grade for EC100
+
+JIT16EE020
+Nochange grade for BE103
+Nochange grade for BE100
+Nochange grade for EC100

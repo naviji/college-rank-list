@@ -1,0 +1,756 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+CIVIL ENGINEERING
+
+MBT15CE007
+Nochange grade for EE100
+
+MBT16CE001
+Nochange grade for BE110
+Nochange grade for CY100
+Nochange grade for EE100
+
+MBT16CE003
+Nochange grade for CY100
+Nochange grade for BE110
+
+MBT16CE004
+Nochange grade for CY100
+
+MBT16CE006
+Nochange grade for BE10101
+
+MBT16CE007
+A grade for BE110
+
+MBT16CE008
+Nochange grade for CY100
+
+MBT16CE012
+Nochange grade for MA101
+
+MBT16CE013
+Nochange grade for EE100
+Nochange grade for CY100
+
+MBT16CE014
+Nochange grade for CY100
+
+MBT16CE015
+Nochange grade for EE100
+
+MBT16CE027
+Nochange grade for EE100
+
+MBT16CE034
+O grade for BE103
+O grade for BE10101
+
+MBT16CE035
+Nochange grade for CY100
+
+MBT16CE042
+Nochange grade for EE100
+
+MBT16CE043
+B grade for EE100
+
+MBT16CE054
+Nochange grade for EE100
+Nochange grade for CY100
+
+MBT16CE055
+Nochange grade for BE110
+
+MBT16CE060
+C grade for CY100
+
+MBT16CE066
+Nochange grade for CY100
+Nochange grade for MA101
+
+MBT16CE073
+Nochange grade for CY100
+Nochange grade for BE10101
+Nochange grade for BE110
+
+MBT16CE074
+Nochange grade for BE110
+Nochange grade for CY100
+Nochange grade for EE100
+
+MBT16CE075
+Nochange grade for BE110
+
+MBT16CE078
+Nochange grade for BE110
+
+MBT16CE083
+Nochange grade for CY100
+
+MBT16CE087
+Nochange grade for CY100
+
+MBT16CE098
+Nochange grade for CY100
+C grade for EE100
+Nochange grade for BE10101
+
+MBT16CE099
+B+ grade for BE10101
+B+ grade for BE103
+
+MBT16CE100
+Nochange grade for BE110
+
+MBT16CE103
+B+ grade for BE10101
+
+MBT16CE105
+Nochange grade for BE10101
+
+MBT16CE106
+Nochange grade for EE100
+Nochange grade for BE10101
+Nochange grade for CY100
+
+MBT16CE109
+Nochange grade for CY100
+Nochange grade for BE10101
+Nochange grade for BE110
+Nochange grade for EE100
+
+MBT16CE114
+A grade for BE110
+
+MBT16CE115
+A grade for BE10101
+
+MBT16CE117
+B grade for BE110
+Nochange grade for CY100
+Nochange grade for BE10101
+
+MBT16CE126
+Nochange grade for EE100
+Nochange grade for BE10101
+
+COMPUTER SCIENCE & ENGINEERING
+
+MBT15CS041
+Nochange grade for CY100
+
+MBT15CS055
+Nochange grade for ME100
+C grade for BE10105
+
+MBT15CS099
+Nochange grade for BE100
+
+MBT16CS001
+B+ grade for MA101
+A+ grade for BE10105
+
+MBT16CS004
+Nochange grade for BE10105
+
+MBT16CS008
+Nochange grade for BE10105
+Nochange grade for CY100
+
+MBT16CS012
+B+ grade for BE10105
+
+MBT16CS015
+P grade for BE100
+
+MBT16CS019
+Nochange grade for CY100
+Nochange grade for MA101
+Nochange grade for BE10105
+
+MBT16CS022
+B+ grade for BE10105
+
+MBT16CS025
+C grade for BE100
+
+MBT16CS028
+A+ grade for BE100
+Nochange grade for ME100
+Nochange grade for CY100
+B+ grade for BE10105
+
+MBT16CS029
+B+ grade for BE10105
+
+MBT16CS030
+C grade for BE10105
+
+MBT16CS031
+Nochange grade for BE10105
+
+MBT16CS033
+A grade for BE10105
+
+MBT16CS035
+Nochange grade for ME100
+Nochange grade for CY100
+Nochange grade for BE10105
+Nochange grade for MA101
+N grade for BE100
+
+MBT16CS036
+B+ grade for BE100
+
+MBT16CS038
+P grade for BE100
+Nochange grade for CY100
+
+MBT16CS039
+A grade for BE10105
+
+MBT16CS040
+Nochange grade for BE10105
+
+MBT16CS041
+B+ grade for BE10105
+
+MBT16CS042
+B grade for BE10105
+
+MBT16CS048
+C grade for BE100
+Nochange grade for CY100
+Nochange grade for BE10105
+
+MBT16CS049
+Nochange grade for BE10105
+
+MBT16CS052
+Nochange grade for CY100
+Nochange grade for BE10105
+
+MBT16CS055
+Nochange grade for BE100
+Nochange grade for ME100
+Nochange grade for BE10105
+
+MBT16CS057
+Nochange grade for BE10105
+
+MBT16CS060
+B grade for BE10105
+
+MBT16CS061
+C grade for BE10105
+Nochange grade for MA101
+
+MBT16CS062
+Nochange grade for BE10105
+
+MBT16CS065
+Nochange grade for CY100
+Nochange grade for ME100
+Nochange grade for BE10105
+
+MBT16CS067
+Nochange grade for BE100
+Nochange grade for ME100
+Nochange grade for BE10105
+
+MBT16CS070
+Nochange grade for BE10105
+
+MBT16CS071
+Nochange grade for BE10105
+C grade for BE100
+
+MBT16CS076
+Nochange grade for BE10105
+
+MBT16CS080
+C grade for MA101
+C grade for BE100
+
+MBT16CS082
+Nochange grade for BE10105
+Nochange grade for CY100
+
+MBT16CS083
+P grade for BE100
+Nochange grade for CY100
+
+MBT16CS084
+C grade for BE10105
+
+MBT16CS085
+C grade for BE10105
+
+MBT16CS086
+Nochange grade for ME100
+P grade for BE10105
+Nochange grade for CY100
+
+MBT16CS088
+C grade for BE10105
+
+MBT16CS091
+B+ grade for BE10105
+
+MBT16CS094
+B+ grade for BE10105
+
+MBT16CS096
+Nochange grade for BE103
+A grade for BE10105
+
+MBT16CS097
+C grade for BE10105
+Nochange grade for ME100
+Nochange grade for CY100
+
+MBT16CS098
+B grade for BE100
+Nochange grade for BE103
+Nochange grade for CY100
+B+ grade for BE10105
+B grade for ME100
+Nochange grade for MA101
+
+MBT16CS100
+Nochange grade for BE10105
+
+MBT16CS101
+B grade for BE10105
+
+MBT16CS102
+A+ grade for BE10105
+
+MBT16CS104
+Nochange grade for BE10105
+
+MBT16CS105
+Nochange grade for BE10105
+
+MBT16CS107
+Nochange grade for ME100
+Nochange grade for CY100
+
+MBT16CS108
+C grade for BE100
+C grade for BE10105
+
+MBT16CS111
+B+ grade for BE100
+Nochange grade for CY100
+Nochange grade for BE10105
+
+MBT16CS112
+Nochange grade for BE10105
+
+MBT16CS117
+Nochange grade for BE10105
+
+MBT16CS118
+Nochange grade for BE100
+Nochange grade for CY100
+
+MBT16CS120
+Nochange grade for BE100
+Nochange grade for CY100
+
+MBT16CS124
+B grade for BE100
+
+MBT16CS125
+Nochange grade for BE10105
+Nochange grade for BE100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MBT16EC008
+P grade for PH100
+Nochange grade for BE10104
+
+MBT16EC010
+Nochange grade for ME100
+Nochange grade for BE10104
+
+MBT16EC020
+Nochange grade for MA101
+Nochange grade for BE10104
+
+MBT16EC022
+Nochange grade for ME100
+
+MBT16EC028
+Nochange grade for BE10104
+Nochange grade for BE110
+
+MBT16EC034
+C grade for BE10104
+
+MBT16EC035
+Nochange grade for MA101
+
+MBT16EC036
+B+ grade for BE110
+
+MBT16EC039
+C grade for BE10104
+
+MBT16EC041
+Nochange grade for BE110
+
+MBT16EC043
+Nochange grade for ME100
+Nochange grade for BE110
+
+MBT16EC047
+Nochange grade for ME100
+
+MBT16EC053
+O grade for PH100
+
+MBT16EC054
+Nochange grade for BE110
+
+MBT16EC059
+Nochange grade for BE110
+
+MBT16EC061
+Nochange grade for MA101
+C grade for BE103
+Nochange grade for PH100
+
+MBT16EC065
+Nochange grade for ME100
+
+MBT16EC075
+B+ grade for BE10104
+A+ grade for PH100
+
+MBT16EC089
+Nochange grade for ME100
+Nochange grade for BE10104
+
+MBT16EC098
+Nochange grade for ME100
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MBT15EE048
+Nochange grade for CY100
+Nochange grade for BE100
+
+MBT16EE001
+Nochange grade for BE100
+
+MBT16EE005
+B grade for BE100
+
+MBT16EE008
+C grade for BE100
+
+MBT16EE011
+Nochange grade for MA101
+
+MBT16EE012
+Nochange grade for BE100
+
+MBT16EE014
+B grade for BE100
+
+MBT16EE015
+C grade for BE100
+
+MBT16EE016
+B grade for BE100
+
+MBT16EE019
+Nochange grade for BE100
+P grade for PH100
+Nochange grade for BE10103
+
+MBT16EE022
+A grade for BE103
+
+MBT16EE024
+Nochange grade for PH100
+Nochange grade for BE103
+
+MBT16EE025
+B grade for BE100
+
+MBT16EE029
+B grade for BE100
+
+MBT16EE030
+Nochange grade for BE100
+
+MBT16EE032
+Nochange grade for BE100
+
+MBT16EE037
+B grade for MA101
+
+MBT16EE038
+Nochange grade for PH100
+
+MBT16EE046
+Nochange grade for BE100
+
+MBT16EE047
+C grade for BE100
+
+MBT16EE050
+Nochange grade for BE100
+
+MBT16EE052
+Nochange grade for MA101
+Nochange grade for BE100
+
+MBT16EE054
+Nochange grade for BE10103
+C grade for BE100
+
+MBT16EE055
+Nochange grade for BE100
+
+MBT16EE056
+Nochange grade for MA101
+
+MBT16EE061
+Nochange grade for BE100
+
+MBT16EE062
+Nochange grade for BE100
+
+MBT16EE069
+Nochange grade for MA101
+
+MBT16EE071
+Nochange grade for BE100
+
+MBT16EE072
+C grade for PH100
+Nochange grade for EC100
+Nochange grade for MA101
+Nochange grade for BE100
+
+MBT16EE075
+Nochange grade for BE100
+Nochange grade for EC100
+Nochange grade for PH100
+Nochange grade for BE10103
+
+MBT16EE077
+A+ grade for BE100
+
+MBT16EE079
+C grade for BE100
+
+MBT16EE080
+Nochange grade for BE10103
+C grade for BE100
+
+MBT16EE081
+A+ grade for BE10103
+A grade for BE100
+
+MBT16EE083
+Nochange grade for BE100
+
+MBT16EE084
+B grade for BE100
+
+MBT16EE087
+C grade for BE100
+
+MBT16EE090
+Nochange grade for EC100
+Nochange grade for BE100
+
+MBT16EE093
+Nochange grade for EC100
+
+MBT16EE096
+C grade for BE100
+
+MBT16EE097
+A grade for PH100
+
+MBT16EE099
+B grade for PH100
+
+MBT16EE102
+P grade for BE100
+
+MBT16EE108
+Nochange grade for BE10103
+Nochange grade for BE100
+
+MBT16EE112
+Nochange grade for BE10103
+Nochange grade for BE100
+
+MBT16EE115
+O grade for PH100
+Nochange grade for MA101
+Nochange grade for BE100
+
+MBT16EE116
+Nochange grade for BE10103
+C grade for MA101
+
+MECHANICAL ENGINEERING
+
+MBT15ME105
+C grade for CY100
+
+MBT15ME116
+Nochange grade for EE100
+
+MBT15ME119
+Nochange grade for MA101
+Nochange grade for PH100
+
+MBT16ME004
+Nochange grade for MA101
+C grade for BE100
+Nochange grade for CY100
+
+MBT16ME007
+Nochange grade for CY100
+B grade for BE10102
+
+MBT16ME009
+Nochange grade for CY100
+
+MBT16ME010
+C grade for BE100
+
+MBT16ME019
+C grade for BE100
+
+MBT16ME023
+Nochange grade for CY100
+Nochange grade for MA101
+P grade for BE100
+
+MBT16ME025
+Nochange grade for BE10102
+A grade for BE100
+
+MBT16ME027
+C grade for BE100
+
+MBT16ME028
+Nochange grade for CY100
+Nochange grade for BE100
+
+MBT16ME029
+B+ grade for BE100
+
+MBT16ME031
+Nochange grade for MA101
+P grade for BE100
+
+MBT16ME037
+Nochange grade for CY100
+
+MBT16ME039
+C grade for BE100
+
+MBT16ME040
+C grade for BE100
+
+MBT16ME047
+Nochange grade for CY100
+Nochange grade for BE100
+
+MBT16ME050
+Nochange grade for MA101
+Nochange grade for BE100
+Nochange grade for CY100
+
+MBT16ME052
+Nochange grade for CY100
+C grade for BE100
+
+MBT16ME055
+Nochange grade for CE100
+B grade for BE100
+
+MBT16ME057
+Nochange grade for MA101
+
+MBT16ME066
+Nochange grade for CY100
+
+MBT16ME068
+B grade for BE100
+
+MBT16ME076
+C grade for BE10102
+C grade for BE100
+
+MBT16ME080
+Nochange grade for MA101
+B+ grade for BE100
+
+MBT16ME081
+Nochange grade for CY100
+
+MBT16ME082
+Nochange grade for CY100
+
+MBT16ME085
+C grade for BE100
+
+MBT16ME086
+Nochange grade for CY100
+
+MBT16ME087
+C grade for CY100
+
+MBT16ME088
+Nochange grade for CY100
+
+MBT16ME097
+Nochange grade for BE100
+Nochange grade for CY100
+
+MBT16ME101
+Nochange grade for BE100
+
+MBT16ME103
+Nochange grade for CY100
+
+MBT16ME105
+C grade for BE100
+Nochange grade for MA101
+
+MBT16ME107
+C grade for BE100
+
+MBT16ME109
+B grade for BE100
+Nochange grade for MA101
+
+MBT16ME111
+Nochange grade for BE100
+Nochange grade for CY100
+
+MBT16ME114
+Nochange grade for BE100
+
+MBT16ME115
+C grade for BE100
+
+MBT16ME116
+Nochange grade for MA101
+
+MBT16ME123
+Nochange grade for BE100

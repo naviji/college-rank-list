@@ -1,0 +1,75 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: NIRMALA COLLEGE OF ENGINEERING.
+
+MECHANICAL ENGINEERING
+
+NIE16ME002
+C grade for EC100
+Nochange grade for BE10102
+
+NIE16ME013
+Nochange grade for BE10102
+
+NIE16ME025
+Nochange grade for BE100
+
+NIE16ME027
+B+ grade for PH100
+
+NIE16ME031
+Nochange grade for BE103
+
+NIE16ME032
+Nochange grade for BE10102
+
+NIE16ME037
+Nochange grade for BE10102
+Nochange grade for MA101
+Nochange grade for EC100
+
+NIE16ME040
+Nochange grade for BE10102
+
+NIE16ME041
+A grade for PH100
+
+NIE16ME045
+Nochange grade for EC100
+
+CIVIL ENGINEERING
+
+NIE16CE014
+B grade for PH100
+
+NIE16CE022
+Nochange grade for ME100
+Nochange grade for BE10101
+
+NIE16CE024
+Nochange grade for BE100
+
+NIE16CE026
+Nochange grade for PH100
+
+NIE16CE029
+Nochange grade for BE100
+
+NIE16CE030
+Nochange grade for BE10101
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+NIE15EE001
+Nochange grade for CE100
+P grade for BE103
+
+ELECTRONICS & COMMUNICATION ENGG
+
+NIE16EC007
+C grade for CE100
+Nochange grade for MA101
+
+COMPUTER SCIENCE & ENGINEERING
+
+NIE15CS019
+Nochange grade for PH100
+Nochange grade for EC100

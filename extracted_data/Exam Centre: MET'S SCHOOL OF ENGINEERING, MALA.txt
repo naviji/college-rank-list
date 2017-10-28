@@ -1,0 +1,277 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MET'S SCHOOL OF ENGINEERING, MALA
+
+BIOTECHNOLOGY
+
+MET15BT015
+Nochange grade for BE100
+Nochange grade for BE10106
+Nochange grade for CY100
+Nochange grade for EC100
+
+MET16BT001
+Nochange grade for MA101
+
+MET16BT003
+Nochange grade for MA101
+
+MET16BT005
+Nochange grade for BE10106
+
+MET16BT012
+Nochange grade for MA101
+
+MET16BT013
+Nochange grade for BE10106
+Nochange grade for PH100
+
+MET16BT022
+Nochange grade for BE110
+
+MET16BT024
+Nochange grade for BE10106
+
+MET16BT025
+Nochange grade for MA101
+Nochange grade for BE10106
+
+MET16BT026
+Nochange grade for BE110
+
+MET16BT027
+Nochange grade for PH100
+Nochange grade for BE110
+
+MET16BT028
+Nochange grade for MA101
+
+MET16BT034
+Nochange grade for BE10106
+Nochange grade for BE110
+Nochange grade for PH100
+
+MET16BT047
+Nochange grade for BE10106
+
+MET16BT048
+Nochange grade for MA101
+
+TCE16CH009
+Nochange grade for ME100
+Nochange grade for BE110
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MET15EC004
+Nochange grade for BE110
+
+MET16EC001
+B grade for BE110
+
+MET16EC004
+Nochange grade for BE110
+B grade for MA101
+
+MET16EC008
+Nochange grade for BE103
+Nochange grade for ME100
+
+MET16EC011
+B+ grade for BE110
+
+COMPUTER SCIENCE & ENGINEERING
+
+MET16CS006
+Nochange grade for BE10105
+Nochange grade for BE110
+
+MET16CS009
+Nochange grade for BE10105
+
+MET16CS011
+Nochange grade for BE110
+
+MET16CS012
+Nochange grade for PH100
+
+MET16CS013
+Nochange grade for BE110
+
+MET16CS015
+Nochange grade for BE10105
+
+MET16CS016
+Nochange grade for PH100
+
+MET16CS020
+Nochange grade for ME100
+Nochange grade for BE10105
+
+MET16CS022
+Nochange grade for BE110
+
+MET16CS024
+Nochange grade for BE110
+
+MET16CS029
+Nochange grade for BE110
+Nochange grade for MA101
+
+MET16CS030
+Nochange grade for BE110
+Nochange grade for MA101
+
+MET16CS034
+P grade for MA101
+
+MET16CS037
+C grade for PH100
+Nochange grade for BE110
+
+MET16CS040
+Nochange grade for BE10105
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MET16EE001
+Nochange grade for MA101
+Nochange grade for BE10103
+P grade for PH100
+Nochange grade for ME100
+
+MET16EE003
+Nochange grade for BE110
+Nochange grade for PH100
+
+MET16EE005
+Nochange grade for PH100
+
+MET16EE006
+Nochange grade for PH100
+Nochange grade for BE110
+
+MET16EE008
+Nochange grade for BE110
+
+MET16EE010
+Nochange grade for PH100
+
+MET16EE012
+Nochange grade for MA101
+Nochange grade for BE10103
+B grade for BE110
+
+MET16EE014
+Nochange grade for BE110
+
+MECHANICAL ENGINEERING
+
+MET16ME002
+Nochange grade for EE100
+Nochange grade for CY100
+TBP* grade for BE10102
+
+MET16ME003
+Nochange grade for MA101
+
+MET16ME004
+TBP* grade for BE10102
+
+MET16ME007
+TBP* grade for BE10102
+
+MET16ME009
+P grade for EE100
+
+MET16ME010
+Nochange grade for MA101
+
+MET16ME011
+Nochange grade for CY100
+Nochange grade for EE100
+TBP* grade for BE10102
+
+MET16ME013
+TBP* grade for BE10102
+
+MET16ME014
+C grade for EE100
+TBP* grade for BE10102
+
+MET16ME019
+TBP* grade for BE10102
+
+MET16ME027
+Nochange grade for EE100
+
+MET16ME028
+Nochange grade for BE100
+
+MET16ME029
+Nochange grade for EE100
+
+MET16ME034
+Nochange grade for BE100
+Nochange grade for EE100
+
+MET16ME037
+Nochange grade for EE100
+
+MET16ME040
+Nochange grade for MA101
+
+MET16ME041
+Nochange grade for CY100
+C grade for MA101
+TBP* grade for BE10102
+
+MET16ME047
+Nochange grade for EE100
+
+MET16ME051
+TBP* grade for BE10102
+Nochange grade for EE100
+
+MET16ME054
+B grade for MA101
+
+MET16ME055
+Nochange grade for BE100
+
+MET16ME060
+Nochange grade for EE100
+C grade for CY100
+
+MET16ME061
+Nochange grade for MA101
+
+MET16ME063
+C grade for BE100
+
+MET16ME064
+Nochange grade for EE100
+
+MET16ME065
+C grade for EE100
+C grade for BE100
+
+CIVIL ENGINEERING
+
+MET15CE010
+Nochange grade for PH100
+
+MET16CE012
+Nochange grade for BE10101
+Nochange grade for CY100
+Nochange grade for BE103
+
+MET16CE014
+Nochange grade for EC100
+
+MET16CE015
+Nochange grade for BE10101
+
+MET16CE018
+B+ grade for BE10101
+
+MET16CE022
+C grade for BE10101

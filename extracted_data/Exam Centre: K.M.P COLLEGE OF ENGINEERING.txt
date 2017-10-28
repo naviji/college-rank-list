@@ -1,0 +1,47 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: K.M.P COLLEGE OF ENGINEERING
+
+MECHANICAL ENGINEERING
+
+KMP16ME001
+Nochange grade for MA101
+C grade for BE103
+Nochange grade for PH100
+
+KMP16ME006
+Nochange grade for PH100
+Nochange grade for BE110
+
+KMP16ME007
+Nochange grade for BE110
+
+KMP16ME012
+Nochange grade for BE110
+Nochange grade for PH100
+C grade for BE103
+
+KMP16ME014
+Nochange grade for BE10102
+
+KMP16ME021
+Nochange grade for PH100
+
+CIVIL ENGINEERING
+
+KMP16CE009
+Nochange grade for CY100
+
+KMP16CE018
+Nochange grade for EE100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+KMP16EC003
+C grade for BE10104
+
+KMP16EC005
+C grade for CE100
+
+COMPUTER SCIENCE & ENGINEERING
+
+KMP16CS004
+B grade for CE100

@@ -1,0 +1,150 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: ILAHIA COLLEGE OF ENGINEERING & TECHNOLOGY
+
+CIVIL ENGINEERING
+
+ICE15CE006
+Nochange grade for MA101
+
+ICE16CE008
+Nochange grade for BE10101
+
+ICE16CE012
+B grade for MA101
+C grade for BE10101
+
+ICE16CE016
+Nochange grade for EC100
+
+ICE16CE019
+Nochange grade for EC100
+
+ICE16CE022
+Nochange grade for EC100
+Nochange grade for BE100
+
+ICE16CE023
+P grade for MA101
+Nochange grade for EC100
+Nochange grade for BE10101
+
+ICE16CE029
+B grade for MA101
+
+ICE16CE030
+Nochange grade for BE100
+Nochange grade for EC100
+
+ICE16CE031
+Nochange grade for EC100
+
+ICE16CE032
+C grade for BE10101
+
+ICE16CE035
+Nochange grade for BE10101
+A grade for BE103
+
+ICE16CE047
+B grade for MA101
+
+ICE16CE056
+Nochange grade for EC100
+
+ICE16CE058
+Nochange grade for BE10101
+
+ICE16CE069
+C grade for EC100
+
+ICE16CE070
+Nochange grade for BE10101
+
+ICE16CE075
+C grade for BE100
+Nochange grade for PH100
+
+ICE16CE089
+Nochange grade for BE10101
+Nochange grade for PH100
+
+ICE16CE095
+Nochange grade for BE10101
+Nochange grade for EC100
+
+COMPUTER SCIENCE & ENGINEERING
+
+ICE16CS002
+Nochange grade for EC100
+
+ICE16CS004
+C grade for EC100
+
+ICE16CS009
+C grade for EC100
+
+ICE16CS039
+C grade for EC100
+
+ICE16CS041
+C grade for MA101
+
+ICE16CS042
+Nochange grade for EC100
+
+ICE16CS046
+Nochange grade for BE10105
+
+ICE16CS047
+Nochange grade for EC100
+
+ICE16CS048
+Nochange grade for EC100
+
+ICE16CS053
+C grade for EC100
+
+ICE16CS058
+Nochange grade for EC100
+
+ELECTRONICS & COMMUNICATION ENGG
+
+ICE15EC004
+Nochange grade for BE10104
+
+INFORMATION TECHNOLOGY
+
+ICE16IT001
+Nochange grade for BE110
+
+ICE16IT014
+Nochange grade for CY100
+Nochange grade for CE100
+Nochange grade for BE10105
+
+MECHANICAL ENGINEERING
+
+ICE15ME092
+Nochange grade for PH100
+
+ICE16ME001
+Nochange grade for BE110
+Nochange grade for MA101
+
+ICE16ME004
+Nochange grade for MA101
+
+ICE16ME006
+Nochange grade for MA101
+
+ICE16ME008
+Nochange grade for MA101
+
+ICE16ME011
+Nochange grade for BE110
+
+ICE16ME051
+Nochange grade for BE103
+
+ICE16ME090
+Nochange grade for BE103
+Nochange grade for CY100

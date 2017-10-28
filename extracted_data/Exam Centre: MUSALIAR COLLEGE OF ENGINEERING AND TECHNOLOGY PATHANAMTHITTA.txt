@@ -1,0 +1,124 @@
+Revaluation Result- BTech S1 regular examination 2016-17 (S1 Result) for Exam Centre: MUSALIAR COLLEGE OF ENGINEERING AND TECHNOLOGY PATHANAMTHITTA
+
+COMPUTER SCIENCE & ENGINEERING
+
+MCK15CS039
+TBP* grade for ME100
+TBP* grade for PH100
+TBP* grade for BE10105
+TBP* grade for BE100
+
+MCK16CS005
+TBP* grade for BE110
+TBP* grade for EC100
+TBP* grade for BE10105
+
+MCK16CS009
+TBP* grade for BE10105
+
+MCK16CS011
+TBP* grade for CY100
+TBP* grade for BE10105
+TBP* grade for BE110
+
+MCK16CS018
+TBP* grade for BE10105
+TBP* grade for CY100
+TBP* grade for EC100
+
+MCK16CS021
+TBP* grade for CY100
+TBP* grade for EC100
+
+MCK16CS029
+TBP* grade for BE10105
+TBP* grade for BE110
+
+MECHANICAL ENGINEERING
+
+MCK15ME027
+TBP* grade for PH100
+
+MCK16ME002
+TBP* grade for BE100
+
+MCK16ME004
+TBP* grade for BE10102
+TBP* grade for BE100
+
+MCK16ME016
+TBP* grade for PH100
+
+MCK16ME024
+TBP* grade for BE100
+
+MCK16ME030
+TBP* grade for MA101
+
+MCK16ME040
+TBP* grade for CE100
+
+MCK16ME041
+TBP* grade for CE100
+
+MCK16ME055
+TBP* grade for BE100
+
+MCK16ME057
+TBP* grade for CE100
+
+CIVIL ENGINEERING
+
+MCK16CE002
+TBP* grade for BE10101
+
+MCK16CE009
+TBP* grade for CY100
+
+MCK16CE014
+TBP* grade for BE10101
+TBP* grade for CY100
+TBP* grade for BE103
+
+MCK16CE018
+TBP* grade for BE10101
+TBP* grade for BE110
+
+MCK16CE025
+TBP* grade for CY100
+
+MCK16CE028
+TBP* grade for EE100
+TBP* grade for CY100
+
+MCK16CE029
+TBP* grade for BE103
+TBP* grade for CY100
+TBP* grade for EE100
+
+MCK16CE031
+TBP* grade for EE100
+
+MCK16CE032
+TBP* grade for BE103
+
+MCK16CE035
+TBP* grade for CY100
+
+MCK16CE036
+TBP* grade for BE110
+TBP* grade for BE103
+TBP* grade for BE10101
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MCK15EE017
+TBP* grade for BE10103
+
+MCK16EE001
+TBP* grade for BE100
+TBP* grade for ME100
+
+MCK16EE013
+TBP* grade for ME100
+TBP* grade for BE100
