@@ -12,7 +12,9 @@ Edit main.py result_url in main.py to required result url from www.ktu.edu.in  (
 
 Make sure that the url is in the format "https://www.ktu.edu.in/***"
 
-run main.py in python
+run main.py in python (version 3)
+
+python3 main.py
 
 The pdf from the link will be downloaded to pdf folder
 
