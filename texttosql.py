@@ -38,11 +38,20 @@ college_info = [['AERONAUTICAL ENGINEERING',
 ['ACE16ME035', [['EE100', 'Nochange'], ['BE10102', 'Nochange']]],
 ['ACE16ME036', [['BE100', 'Nochange']]]]]]
 
-def make_sql(l):
+#def make_sql(l):
 
 def create_tables():
     with open("./database.sql","w+") as f:
         table = """
+
+drop table dept_course;
+drop table student_marks;
+drop table dept_student;
+drop table course;
+drop table department;
+drop table college;
+
+
 CREATE TABLE college (
     college_id  serial PRIMARY KEY,
     college_name   varchar(80) NOT NULL
@@ -51,7 +60,7 @@ CREATE TABLE college (
 CREATE TABLE department (
      dept_id   serial PRIMARY KEY,
      dept_name   varchar(50) NOT NULl,
-     colleg_id  serial references college(colleg_id)
+     colleg_id  serial references college(college_id)
 );
 
 CREATE TABLE course (
@@ -66,7 +75,7 @@ CREATE TABLE dept_student (
 
 CREATE TABLE student_marks (
     mark_id serial PRIMARY KEY,
-    register_id varchar(15) references dept_student(register_id)
+    register_id varchar(15) references dept_student(register_id),
     course_id serial references course(course_id)
 );
 
@@ -75,7 +84,9 @@ CREATE TABLE dept_course (
     dept_id serial references department(dept_id),
     course_id serial references course(course_id)
 );
-"""
+        """
+        f.write(table)
+
 
 if __name__ == '__main__':
     create_tables()
