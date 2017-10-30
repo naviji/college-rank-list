@@ -40,7 +40,7 @@ def extractor(src,des):
 			elif (is_course_code(line)):
 				continue
 			elif (is_grade_line(line)):
-					
+
 					if(prev_gradeline is True):
 						temp_grade[-1] = temp_grade[-1][:-1]
 						temp_grade.append(','+line)
@@ -74,18 +74,8 @@ def extractor(src,des):
 				temp.append([k]+l)
 		i.append(temp)
 
-	#
-	#
-	# print(dept_list)
-	# for i in dept_list:
-	# 	print(i[0])
-	# 	for j in i[1]:
-	# 		print(j[0])
-	# 		for k,l in j[1]:
-	# 			print("{} grade for {}".format(l,k))
-	#
 
-	print(dept_list);
+
 
 	text_file = open("{}/{}.txt".format(des,college_name),"w+")
 	text_file.write("{} for {}\n".format(exam_name,content[4]))

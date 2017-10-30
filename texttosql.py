@@ -1,3 +1,6 @@
+import psycopg2
+
+
 college_info = [['AERONAUTICAL ENGINEERING',
 [['ACE16AN007', [['BE103', 'C']]],
 ['ACE16AN012', [['EC100', 'Nochange'], ['BE100', 'Nochange']]],
@@ -38,7 +41,22 @@ college_info = [['AERONAUTICAL ENGINEERING',
 ['ACE16ME035', [['EE100', 'Nochange'], ['BE10102', 'Nochange']]],
 ['ACE16ME036', [['BE100', 'Nochange']]]]]]
 
-#def make_sql(l):
+def make_sql(l,c_name):
+    	#
+    	#
+    	# print(dept_list)
+    	# for i in dept_list:
+    	# 	print(i[0])
+    	# 	for j in i[1]:
+    	# 		print(j[0])
+    	# 		for k,l in j[1]:
+    	# 			print("{} grade for {}".format(l,k))
+    	#
+        with open("./database.sql","a") as f:
+            f.write("INSERT INTO college (college_name) values ('{}'); ".format(c_name))
+            for i in (dept_list):
+                f.write("INSERT into department (dept_name,) values ('{}'); ".format(c_name))
+
 
 def create_tables():
     with open("./database.sql","w+") as f:
