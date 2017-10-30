@@ -78,8 +78,9 @@ def extractor(src,des):
 
 	college_name = college_name.replace(","," ")
 	college_name = college_name.replace("Exam Centre: ","")
+	save_name = exam_name+".csv"
 
-	to_csv(dept_list, college_name, 'result.csv')
+	to_csv(dept_list, college_name, save_name)
 	#text_file = open("{}/{}.txt".format(des,college_name),"w+")
 	#text_file.write("{} for {}\n".format(exam_name,content[4]))
 	#for i in dept_list:
