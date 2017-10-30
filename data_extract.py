@@ -1,4 +1,6 @@
 from regularexp import *
+from tocsv import to_csv
+
 
 def grade_line_splitter(s):
 	grade = s.split(',')
@@ -74,19 +76,20 @@ def extractor(src,des):
 				temp.append([k]+l)
 		i.append(temp)
 
+	college_name = college_name.replace(","," ")
+	college_name = college_name.replace("Exam Centre: ","")
 
-
-
-	text_file = open("{}/{}.txt".format(des,college_name),"w+")
-	text_file.write("{} for {}\n".format(exam_name,content[4]))
-	for i in dept_list:
-		text_file.write("\n{}\n".format(i[0]))
-		for j in i[1]:
-			text_file.write("\n{}".format(j[0]))
-			for k,l in j[1]:
-				text_file.write("\n{} grade for {}".format(l,k))
-			text_file.write("\n")
-	text_file.close()
+	to_csv(dept_list, college_name, 'result.csv')
+	#text_file = open("{}/{}.txt".format(des,college_name),"w+")
+	#text_file.write("{} for {}\n".format(exam_name,content[4]))
+	#for i in dept_list:
+	#	text_file.write("\n{}\n".format(i[0]))
+	#	for j in i[1]:
+	#		text_file.write("\n{}".format(j[0]))
+	#		for k,l in j[1]:
+	#			text_file.write("\n{} grade for {}".format(l,k))
+	#		text_file.write("\n")
+	#text_file.close()
 
 if __name__ == '__main__':
 	extractor("./4.txt",".")

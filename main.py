@@ -5,7 +5,6 @@ from pdftotext import convert_pdf_to_txt
 from data_extract import extractor
 
 
-
 def get_html( str ):
 	# returns html string from url
 	fp = urllib.request.urlopen(str)
@@ -61,7 +60,7 @@ print("Started downloading files...")
 print("Please wait!")
 for url in download_links:
 	count = count + 1
-	download_file(url,"./pdf/{}.pdf".format(count))
+	#download_file(url,"./pdf/{}.pdf".format(count))
 	print("Downloaded {}-".format(count))
 print("Download completed")
 
@@ -75,3 +74,5 @@ for i in range(1,num_college+1):
 	extractor("./text/{}.txt".format(i),"./extracted_data")
 	print("Converted {}-".format(i))
 print("Conversion completed and data extracted")
+
+
