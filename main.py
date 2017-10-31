@@ -75,6 +75,7 @@ for i in range(1,num_college+1):
 	convert_file("./pdf/{}.pdf".format(i),"./text/{}.txt".format(i))
 	os.remove("./pdf/{}.pdf".format(i))
 	extractor("./text/{}.txt".format(i),"./extracted_data")
+	os.remove("./text/{}.txt".format(i))
 	print("Converted {}-".format(i))
 print("Conversion completed and data extracted")
 
