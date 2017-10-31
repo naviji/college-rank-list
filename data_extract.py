@@ -12,7 +12,7 @@ def grade_line_splitter(s):
 
 
 
-def extractor(src,des):
+def extractor(src):
 	with open(src) as f:
 		content = f.readlines()
 	content = [x.strip() for x in content]
@@ -78,7 +78,7 @@ def extractor(src,des):
 
 	college_name = college_name.replace(","," ")
 	college_name = college_name.replace("Exam Centre: ","")
-	save_name = exam_name+".csv"
+	save_name = "./csv/"+exam_name+".csv"
 
 	to_csv(dept_list, college_name, save_name)
 	#text_file = open("{}/{}.txt".format(des,college_name),"w+")

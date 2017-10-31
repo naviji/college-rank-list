@@ -1,4 +1,6 @@
 import urllib.request
+import pathlib
+from multiprocessing.dummy import Pool as ThreadPool
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from pdftotext import convert_pdf_to_txt
@@ -17,11 +19,10 @@ def get_html( str ):
 
 def download_file(download_url,save_path):
 	#download binary files like pdf (not text)
-	response = urlopen(download_url)
-	file = open(save_path, 'wb+')
-	file.write(response.read())
-	file.close()
-
+	try:
+		urllib.request.urlretrieve(download_url, save_path)
+	except:
+		pass
 
 
 def convert_file(src,des):
@@ -60,21 +61,22 @@ for link in soup.find_all('a'):
 
 print("Started downloading files...")
 print("Please wait!")
-for url in download_links:
-	count = count + 1
-	download_file(url,"./pdf/{}.pdf".format(count))
-	print("Downloaded {}-".format(count))
-print("Download completed")
+
+print("Download links is {}".format(len(download_links)))
+
+destination = ["{}/pdf/{}.pdf".format(".",i) for i in range(1,len(download_links)+1)]
+pool = ThreadPool(100)
+results = pool.starmap(download_file, zip(download_links, destination))
 
 
-num_college = count # Set number of colleges to count
+
 
 print("Started conversion of files...")
 print("Please wait!")
-for i in range(1,num_college+1):
+for i in range(1,len(download_links)+1):
 	convert_file("./pdf/{}.pdf".format(i),"./text/{}.txt".format(i))
 	os.remove("./pdf/{}.pdf".format(i))
-	extractor("./text/{}.txt".format(i),"./extracted_data")
+	extractor("./text/{}.txt".format(i))
 	os.remove("./text/{}.txt".format(i))
 	print("Converted {}-".format(i))
 print("Conversion completed and data extracted")
