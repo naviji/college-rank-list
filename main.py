@@ -3,6 +3,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from pdftotext import convert_pdf_to_txt
 from data_extract import extractor
+import os
+import sys
 
 
 def get_html( str ):
@@ -39,7 +41,7 @@ count = 0 # initialize number of colleges to zero
 
 
 #reevaluation
-result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=PXWICZ57B6PcSF7NA%2FqyDlx%2FBbieI99UDGm0PtoFocg%3D&type=3IcV3MhL9p%2FDdB%2FcWAiPRLKlmX8r0%2B%2FsZFCVI%2Fx8bjI%3D&publishId=%2Bjvpw5b2g4cWkUV8essjUJZMB8vvszOylAB%2FPDL6%2BGs%3D"""
+result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=%2FXYPj2s32s%2FOZ6t84s7EhlO3S%2FGQX6qT%2B2qyVwPNFM8%3D&type=Yhr4byAdiTiOWpqU3YUF9v6SoVXPa7y64sg52hGYouw%3D&publishId=l8lJgrFygKWKuU72PEFgt41gTZvupO%2F%2F6CYuvI6GCCU%3D"""
 
 html_doc = get_html(result_url)
 
@@ -60,7 +62,7 @@ print("Started downloading files...")
 print("Please wait!")
 for url in download_links:
 	count = count + 1
-	#download_file(url,"./pdf/{}.pdf".format(count))
+	download_file(url,"./pdf/{}.pdf".format(count))
 	print("Downloaded {}-".format(count))
 print("Download completed")
 
@@ -71,6 +73,7 @@ print("Started conversion of files...")
 print("Please wait!")
 for i in range(1,num_college+1):
 	convert_file("./pdf/{}.pdf".format(i),"./text/{}.txt".format(i))
+	os.remove("./pdf/{}.pdf".format(i))
 	extractor("./text/{}.txt".format(i),"./extracted_data")
 	print("Converted {}-".format(i))
 print("Conversion completed and data extracted")
