@@ -42,7 +42,7 @@ count = 0 # initialize number of colleges to zero
 
 
 #reevaluation
-result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=%2FXYPj2s32s%2FOZ6t84s7EhlO3S%2FGQX6qT%2B2qyVwPNFM8%3D&type=Yhr4byAdiTiOWpqU3YUF9v6SoVXPa7y64sg52hGYouw%3D&publishId=l8lJgrFygKWKuU72PEFgt41gTZvupO%2F%2F6CYuvI6GCCU%3D"""
+result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=RoE%2F07yCsEFz0nJaidWuFNganRBI0TZM%2Fl3WT%2Fwo%2FkQ%3D&type=4kyXyfdHf%2FCaEPB6S7gFdjXZXxtVsY17K%2BOLu1n%2BiVQ%3D&publishId=JNnXauezrqAZMqkLExkGsYmPJl0c1VplqgEbuWZlmrg%3D"""
 
 html_doc = get_html(result_url)
 
