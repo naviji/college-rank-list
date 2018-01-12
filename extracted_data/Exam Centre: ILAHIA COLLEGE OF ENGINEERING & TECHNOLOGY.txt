@@ -1,0 +1,542 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: ILAHIA COLLEGE OF ENGINEERING & TECHNOLOGY
+
+CIVIL ENGINEERING
+
+ICE15CE001
+C grade for CE201
+C grade for CE205
+
+ICE15CE003
+Nochange grade for CE201
+
+ICE15CE004
+Nochange grade for CE205
+
+ICE15CE006
+Nochange grade for CE207
+
+ICE15CE008
+Nochange grade for CE205
+
+ICE15CE010
+Nochange grade for CE205
+Nochange grade for CE201
+Nochange grade for CE207
+
+ICE15CE011
+Nochange grade for CE203
+
+ICE15CE013
+C grade for CE201
+
+ICE15CE015
+Nochange grade for CE207
+
+ICE15CE019
+Nochange grade for CE205
+
+ICE15CE027
+Nochange grade for CE205
+
+ICE15CE028
+Nochange grade for CE207
+
+ICE15CE030
+Nochange grade for CE205
+
+ICE15CE037
+Nochange grade for CE203
+
+ICE15CE040
+Nochange grade for CE203
+Nochange grade for CE201
+C grade for CE205
+
+ICE15CE041
+Nochange grade for CE203
+
+ICE15CE042
+Nochange grade for CE205
+Nochange grade for CE203
+
+ICE15CE044
+Nochange grade for CE201
+
+ICE15CE046
+Nochange grade for CE201
+C grade for CE203
+
+ICE15CE050
+B grade for CE201
+
+ICE15CE054
+Nochange grade for CE207
+
+ICE15CE057
+Nochange grade for CE201
+Nochange grade for CE205
+
+ICE15CE059
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE201
+Nochange grade for CE205
+B grade for HS210
+
+ICE15CE060
+Nochange grade for CE207
+
+ICE15CE061
+Nochange grade for CE201
+Nochange grade for MA201
+
+ICE15CE062
+B grade for CE201
+
+ICE15CE065
+Nochange grade for CE205
+
+ICE15CE068
+Nochange grade for CE207
+
+ICE15CE069
+Nochange grade for CE207
+
+ICE15CE071
+Nochange grade for CE203
+
+ICE15CE074
+Nochange grade for CE207
+
+ICE15CE076
+Nochange grade for CE207
+
+ICE15CE077
+Nochange grade for CE205
+Nochange grade for CE207
+
+ICE15CE078
+Nochange grade for CE203
+C grade for CE207
+
+ICE15CE082
+Nochange grade for CE203
+
+ICE15CE085
+Nochange grade for CE205
+
+ICE15CE090
+Nochange grade for CE203
+Nochange grade for CE201
+Nochange grade for CE205
+
+ICE15CE091
+C grade for CE201
+
+ICE15CE097
+Nochange grade for CE201
+
+ICE15CE100
+Nochange grade for CE205
+Nochange grade for CE203
+P grade for CE201
+
+ICE15CE108
+Nochange grade for CE203
+
+ICE15CE109
+Nochange grade for CE203
+
+ICE15CE112
+Nochange grade for CE205
+
+ICE15CE113
+Nochange grade for CE203
+
+ICE15CE114
+Nochange grade for CE203
+B grade for CE201
+
+ICE15CE120
+Nochange grade for CE203
+C grade for CE201
+
+ICE15CE123
+Nochange grade for CE205
+
+ICE15CE124
+Nochange grade for CE201
+
+LICE15CE125
+Nochange grade for CE201
+Nochange grade for CE205
+Nochange grade for CE203
+
+LICE15CE132
+Nochange grade for CE203
+Nochange grade for CE201
+Nochange grade for CE205
+
+LICE15CE134
+Nochange grade for CE203
+Nochange grade for CE205
+
+COMPUTER SCIENCE & ENGINEERING
+
+ICE15CS009
+Nochange grade for CS207
+
+ICE15CS011
+B grade for CS203
+
+ICE15CS020
+C grade for CS207
+
+ICE15CS024
+B grade for CS207
+
+ICE15CS025
+A grade for CS207
+
+ICE15CS026
+C grade for CS207
+
+ICE15CS028
+B grade for CS207
+
+ICE15CS033
+B+ grade for CS207
+
+ICE15CS038
+Nochange grade for CS205
+
+ICE15CS044
+Nochange grade for CS207
+
+ICE15CS047
+B grade for CS207
+
+ICE15CS050
+Nochange grade for CS201
+
+ICE15CS060
+B grade for CS207
+C grade for CS203
+
+ICE15CS061
+B+ grade for CS207
+
+LICE15CS064
+C grade for CS207
+
+LICE15CS066
+B grade for CS207
+
+LICE15CS068
+Nochange grade for CS207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+ICE15EE001
+C grade for EE205
+Nochange grade for EE201
+Nochange grade for HS200
+
+ICE15EE004
+Nochange grade for EE205
+Nochange grade for EE203
+Nochange grade for EE207
+
+ICE15EE006
+Nochange grade for HS200
+Nochange grade for EE205
+
+ICE15EE010
+Nochange grade for EE201
+
+ICE15EE011
+Nochange grade for EE203
+P grade for MA201
+
+ICE15EE012
+Nochange grade for HS200
+C grade for EE205
+Nochange grade for EE203
+
+ICE15EE018
+C grade for EE205
+
+ICE15EE027
+Nochange grade for EE205
+Nochange grade for EE201
+
+ICE15EE034
+Nochange grade for EE201
+Nochange grade for EE205
+
+ICE15EE036
+Nochange grade for EE203
+
+ICE15EE038
+Nochange grade for EE201
+
+ICE15EE042
+Nochange grade for EE201
+
+LICE15EE046
+Nochange grade for EE201
+
+LICE15EE049
+Nochange grade for EE203
+Nochange grade for EE201
+
+LICE15EE050
+Nochange grade for HS200
+
+LICE15EE053
+Nochange grade for HS200
+
+LICE15EE055
+C grade for EE205
+Nochange grade for MA201
+
+LICE15EE056
+Nochange grade for EE203
+Nochange grade for MA201
+
+LICE15EE057
+Nochange grade for EE201
+
+LICE15EE059
+Nochange grade for EE201
+
+LICE15EE063
+Nochange grade for EE201
+Nochange grade for HS200
+Nochange grade for EE203
+
+LICE15EE064
+C grade for EE205
+Nochange grade for HS200
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+ICE15EC001
+Nochange grade for EC203
+
+ICE15EC004
+Nochange grade for EC205
+Nochange grade for EC203
+
+ICE15EC006
+B grade for EC203
+
+ICE15EC008
+C grade for EC203
+
+ICE15EC012
+C grade for EC203
+
+ICE15EC014
+Nochange grade for EC203
+
+ICE15EC015
+Nochange grade for EC203
+
+ICE15EC016
+Nochange grade for EC203
+Nochange grade for EC205
+
+ICE15EC020
+Nochange grade for EC203
+
+ICE15EC024
+Nochange grade for EC203
+
+ICE15EC031
+Nochange grade for EC203
+Nochange grade for EC207
+C grade for EC205
+
+ICE15EC040
+B grade for EC203
+
+ICE15EC041
+C grade for EC203
+
+ICE15EC043
+Nochange grade for EC203
+
+LICE15EC045
+Nochange grade for EC203
+Nochange grade for EC205
+
+LICE15EC046
+Nochange grade for EC203
+Nochange grade for EC207
+
+LICE15EC048
+Nochange grade for EC203
+
+LICE15EC050
+C grade for EC203
+
+LICE15EC054
+Nochange grade for EC201
+
+LICE15EC055
+C grade for EC203
+
+LICE15EC056
+C grade for EC203
+
+LICE15EC059
+Nochange grade for EC207
+Nochange grade for EC205
+
+LICE15EC061
+C grade for EC207
+
+LICE15EC066
+Nochange grade for EC207
+
+INFORMATION TECHNOLOGY
+
+ICE15IT007
+Nochange grade for IT203
+Nochange grade for MA201
+
+ICE15IT012
+Nochange grade for CS201
+
+ICE15IT018
+C grade for CS205
+
+ICE15IT023
+Nochange grade for MA201
+
+ICE15IT030
+Nochange grade for CS201
+
+LICE15IT031
+Nochange grade for CS201
+
+MECHANICAL ENGINEERING
+
+ICE15ME001
+Nochange grade for ME205
+
+ICE15ME003
+Nochange grade for ME205
+C grade for ME201
+
+ICE15ME004
+B+ grade for ME201
+Nochange grade for ME210
+
+ICE15ME005
+Nochange grade for ME210
+
+ICE15ME009
+P grade for ME201
+Nochange grade for ME205
+
+ICE15ME010
+Nochange grade for ME210
+
+ICE15ME020
+Nochange grade for ME210
+Nochange grade for ME203
+
+ICE15ME024
+B grade for ME201
+
+ICE15ME033
+Nochange grade for ME210
+
+ICE15ME034
+Nochange grade for ME201
+C grade for ME205
+
+ICE15ME038
+P grade for MA201
+
+ICE15ME048
+C grade for ME203
+Nochange grade for ME210
+Nochange grade for ME205
+
+ICE15ME050
+Nochange grade for ME205
+
+ICE15ME057
+Nochange grade for ME205
+C grade for ME201
+
+ICE15ME067
+Nochange grade for ME205
+
+ICE15ME069
+Nochange grade for ME210
+
+ICE15ME070
+Nochange grade for ME205
+
+ICE15ME084
+Nochange grade for MA201
+
+ICE15ME085
+Nochange grade for ME205
+
+ICE15ME087
+Nochange grade for ME205
+Nochange grade for ME203
+
+ICE15ME090
+Nochange grade for ME205
+
+ICE15ME092
+Nochange grade for ME201
+
+ICE15ME093
+Nochange grade for ME205
+
+ICE15ME094
+Nochange grade for ME205
+Nochange grade for ME203
+Nochange grade for ME210
+
+ICE15ME096
+Nochange grade for ME210
+
+ICE15ME106
+C grade for MA201
+Nochange grade for ME210
+Nochange grade for ME203
+
+ICE15ME120
+Nochange grade for ME205
+Nochange grade for ME203
+Nochange grade for ME210
+
+ICE15ME123
+Nochange grade for ME203
+
+ICE15ME124
+Nochange grade for ME203
+
+LICE15ME127
+C grade for ME203
+
+LICE15ME132
+Nochange grade for ME203
+
+LICE15ME138
+C grade for ME201
+
+LICE15ME139
+Nochange grade for ME205
+
+LICE15ME141
+Nochange grade for ME205

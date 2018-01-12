@@ -1,0 +1,99 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: JAIBHARATH COLLEGE OF MANAGEMENT & ENGINEERING TECHNOLOGY
+
+CIVIL ENGINEERING
+
+JBT15CE001
+TBP* grade for CE205
+Nochange grade for CE207
+
+JBT15CE026
+Nochange grade for CE201
+Nochange grade for CE207
+
+MECHANICAL ENGINEERING
+
+JBT15ME003
+Nochange grade for ME205
+TBP* grade for HS200
+
+JBT15ME004
+TBP* grade for ME201
+
+JBT15ME008
+TBP* grade for ME201
+
+JBT15ME015
+TBP* grade for HS200
+
+JBT15ME030
+Nochange grade for ME210
+
+JBT15ME055
+Nochange grade for ME210
+Nochange grade for HS200
+
+JBT15ME056
+Nochange grade for ME205
+
+COMPUTER SCIENCE & ENGINEERING
+
+JBT15CS004
+Nochange grade for CS203
+Nochange grade for CS207
+
+JBT15CS020
+Nochange grade for CS203
+Nochange grade for CS207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+JBT15EC004
+Nochange grade for EC201
+
+JBT15EC005
+Nochange grade for EC201
+Nochange grade for EC203
+
+JBT15EC007
+B grade for EC201
+Nochange grade for EC203
+
+JBT15EC010
+C grade for EC201
+
+JBT15EC013
+Nochange grade for EC203
+
+JBT15EC015
+Nochange grade for EC203
+
+JBT15EC016
+Nochange grade for EC203
+Nochange grade for EC201
+TBP* grade for EC207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+JBT15EE001
+Nochange grade for EE205
+Nochange grade for HS200
+
+JBT15EE008
+Nochange grade for HS200
+
+JBT15EE010
+Nochange grade for EE203
+
+JBT15EE011
+C grade for HS200
+
+JBT15EE017
+C grade for HS200
+
+JBT15EE018
+Nochange grade for EE205
+B grade for HS200
+
+LJBT15EE021
+Nochange grade for EE203
+C grade for HS200

@@ -1,0 +1,325 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: HOLY KINGS COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+CIVIL ENGINEERING
+
+HKC15CE005
+TBP* grade for CE203
+TBP* grade for CE207
+TBP* grade for CE205
+
+HKC15CE007
+TBP* grade for CE205
+TBP* grade for CE203
+TBP* grade for CE207
+
+HKC15CE009
+TBP* grade for CE205
+
+HKC15CE012
+TBP* grade for CE205
+TBP* grade for CE207
+
+HKC15CE013
+Nochange grade for MA201
+TBP* grade for CE205
+TBP* grade for CE201
+
+HKC15CE015
+TBP* grade for CE207
+
+HKC15CE018
+TBP* grade for CE201
+TBP* grade for CE205
+TBP* grade for CE203
+TBP* grade for CE207
+
+HKC15CE024
+TBP* grade for CE203
+
+HKC15CE025
+TBP* grade for CE205
+
+HKC15CE026
+TBP* grade for CE205
+C grade for HS210
+TBP* grade for CE201
+TBP* grade for CE207
+
+HKC15CE028
+TBP* grade for CE205
+TBP* grade for CE203
+TBP* grade for CE207
+TBP* grade for CE201
+
+HKC15CE029
+TBP* grade for CE205
+TBP* grade for CE201
+TBP* grade for CE207
+
+HKC15CE030
+TBP* grade for CE205
+TBP* grade for CE203
+
+HKC15CE031
+TBP* grade for CE205
+
+HKC15CE032
+C grade for CE205
+
+HKC15CE033
+TBP* grade for CE205
+TBP* grade for CE201
+TBP* grade for CE207
+
+HKC15CE034
+P grade for MA201
+TBP* grade for CE205
+
+HKC15CE036
+Nochange grade for CE207
+Nochange grade for CE205
+
+HKC15CE037
+TBP* grade for CE205
+TBP* grade for CE201
+Nochange grade for CE207
+
+HKC15CE040
+TBP* grade for CE203
+Nochange grade for CE207
+TBP* grade for CE201
+TBP* grade for CE205
+
+HKC15CE041
+C grade for CE205
+TBP* grade for CE203
+
+HKC15CE042
+B+ grade for CE205
+TBP* grade for CE203
+
+HKC15CE045
+TBP* grade for CE201
+Nochange grade for CE205
+
+HKC15CE046
+TBP* grade for CE201
+Nochange grade for MA201
+
+HKC15CE047
+TBP* grade for CE203
+Nochange grade for CE207
+TBP* grade for CE201
+C grade for CE205
+
+HKC15CE049
+TBP* grade for CE205
+TBP* grade for CE201
+
+HKC15CE051
+Nochange grade for CE207
+Nochange grade for CE205
+
+HKC15CE052
+Nochange grade for CE205
+
+HKC15CE053
+Nochange grade for CE205
+
+HKC15CE054
+P grade for CE207
+TBP* grade for CE205
+
+HKC15CE055
+Nochange grade for CE205
+
+HKC15CE057
+TBP* grade for CE201
+TBP* grade for CE203
+
+HKC15CE058
+Nochange grade for CE207
+Nochange grade for CE205
+
+HKC15CE059
+TBP* grade for CE205
+TBP* grade for CE201
+
+HKC15CE065
+Nochange grade for MA201
+Nochange grade for CE205
+TBP* grade for CE201
+Nochange grade for CE207
+
+HKC15CE067
+TBP* grade for CE205
+TBP* grade for CE201
+
+HKC15CE068
+TBP* grade for CE203
+Nochange grade for CE207
+TBP* grade for CE201
+TBP* grade for CE205
+
+HKC15CE069
+TBP* grade for CE201
+Nochange grade for CE207
+Nochange grade for CE205
+
+HKC15CE070
+TBP* grade for CE205
+
+HKC15CE076
+TBP* grade for CE201
+TBP* grade for CE205
+
+HKC15CE077
+Nochange grade for CE207
+
+HKC15CE078
+TBP* grade for CE205
+
+HKC15CE080
+B grade for CE207
+B grade for CE205
+
+HKC15CE082
+TBP* grade for CE205
+Nochange grade for CE207
+
+LHKC15CE083
+C grade for CE205
+
+COMPUTER SCIENCE & ENGINEERING
+
+HKC15CS009
+Nochange grade for CS205
+Nochange grade for CS203
+
+HKC15CS010
+Nochange grade for CS203
+
+HKC15CS011
+C grade for CS203
+
+HKC15CS019
+Nochange grade for CS205
+
+HKC15CS022
+Nochange grade for CS205
+Nochange grade for CS207
+
+HKC15CS031
+Nochange grade for CS201
+
+HKC15CS032
+P grade for CS201
+
+HKC15CS033
+C grade for CS203
+Nochange grade for MA201
+
+HKC15CS038
+Nochange grade for CS203
+
+HKC15CS041
+Nochange grade for CS203
+
+HKC15CS042
+Nochange grade for CS203
+
+HKC15CS043
+C grade for CS207
+
+HKC15CS046
+Nochange grade for CS203
+
+HKC15CS047
+C grade for CS203
+
+HKC15CS056
+Nochange grade for CS201
+
+LHKC15CS058
+Nochange grade for CS207
+Nochange grade for MA201
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+HKC15EE006
+Nochange grade for EE201
+TBP* grade for EE203
+
+HKC15EE010
+C grade for EE205
+P grade for EE207
+
+HKC15EE011
+Nochange grade for EE207
+
+HKC15EE016
+B+ grade for EE205
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+HKC15EC001
+TBP* grade for EC205
+
+HKC15EC002
+Nochange grade for EC207
+
+HKC15EC005
+C grade for EC203
+Nochange grade for EC207
+
+MECHANICAL ENGINEERING
+
+HKC15ME008
+C grade for MA201
+
+HKC15ME012
+C grade for MA201
+
+HKC15ME015
+Nochange grade for ME205
+TBP* grade for ME210
+
+HKC15ME025
+Nochange grade for ME201
+
+HKC15ME030
+Nochange grade for ME205
+TBP* grade for ME210
+
+HKC15ME034
+TBP* grade for ME210
+
+HKC15ME058
+Nochange grade for ME201
+
+HKC15ME070
+Nochange grade for ME201
+
+HKC15ME087
+TBP* grade for ME210
+
+HKC15ME093
+Nochange grade for ME201
+Nochange grade for MA201
+
+HKC15ME097
+Nochange grade for ME201
+
+HKC15ME100
+Nochange grade for ME201
+
+HKC15ME101
+TBP* grade for ME210
+
+HKC15ME105
+C grade for HS210
+TBP* grade for ME210
+
+HKC15ME109
+C grade for ME201

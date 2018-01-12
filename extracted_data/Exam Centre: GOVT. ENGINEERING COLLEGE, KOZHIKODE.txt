@@ -1,0 +1,315 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: GOVT. ENGINEERING COLLEGE, KOZHIKODE
+
+APPLIED ELECTRONICS & INSTRUMENTATION ENGINEERING
+
+KKE15AE001
+TBP* grade for EC207
+
+KKE15AE010
+TBP* grade for EC201
+Nochange grade for EC207
+Nochange grade for MA201
+Nochange grade for EC203
+
+KKE15AE011
+Nochange grade for MA201
+Nochange grade for EC203
+
+KKE15AE014
+Nochange grade for EC203
+Nochange grade for MA201
+
+KKE15AE018
+TBP* grade for EC205
+
+KKE15AE038
+P grade for MA201
+
+KKE15AE041
+Nochange grade for EC207
+
+KKE15AE047
+C grade for EC207
+
+KKE15AE050
+Nochange grade for MA201
+
+KKE15AE059
+Nochange grade for EC207
+
+KKE15AE060
+Nochange grade for HS200
+
+LKKE15AE064
+TBP* grade for EC201
+
+CIVIL ENGINEERING
+
+KKE15CE007
+Nochange grade for MA201
+
+KKE15CE009
+B grade for MA201
+
+KKE15CE011
+TBP* grade for CE201
+
+KKE15CE013
+TBP* grade for CE203
+TBP* grade for CE205
+TBP* grade for CE201
+TBP* grade for CE207
+
+KKE15CE014
+TBP* grade for CE201
+
+KKE15CE023
+TBP* grade for CE203
+
+KKE15CE030
+TBP* grade for CE205
+
+KKE15CE043
+TBP* grade for CE205
+
+KKE15CE044
+TBP* grade for CE207
+TBP* grade for HS210
+
+KKE15CE055
+TBP* grade for CE207
+Nochange grade for MA201
+
+KKE15CE058
+TBP* grade for CE205
+TBP* grade for CE207
+
+LKKE15CE064
+TBP* grade for CE205
+
+ELECTRONICS & COMMUNICATION ENGG
+
+KKE15EC001
+Nochange grade for EC207
+
+KKE15EC002
+Nochange grade for EC203
+
+KKE15EC011
+Nochange grade for EC203
+C grade for HS200
+
+KKE15EC012
+Nochange grade for EC207
+
+KKE15EC013
+Nochange grade for EC203
+TBP* grade for MA201
+
+KKE15EC014
+Nochange grade for EC203
+TBP* grade for MA201
+
+KKE15EC015
+Nochange grade for EC203
+Nochange grade for HS200
+
+KKE15EC016
+Nochange grade for EC203
+TBP* grade for MA201
+
+KKE15EC017
+TBP* grade for EC205
+Nochange grade for EC203
+
+KKE15EC021
+TBP* grade for EC207
+
+KKE15EC022
+TBP* grade for EC207
+
+KKE15EC025
+C grade for EC203
+TBP* grade for MA201
+TBP* grade for EC207
+
+KKE15EC026
+TBP* grade for EC207
+Nochange grade for EC203
+
+KKE15EC027
+P grade for MA201
+
+KKE15EC028
+TBP* grade for MA201
+TBP* grade for EC207
+
+KKE15EC029
+Nochange grade for EC207
+
+KKE15EC031
+TBP* grade for EC207
+TBP* grade for EC205
+
+KKE15EC035
+TBP* grade for EC207
+
+KKE15EC036
+TBP* grade for EC205
+Nochange grade for EC207
+
+KKE15EC038
+Nochange grade for EC207
+
+KKE15EC041
+Nochange grade for EC203
+TBP* grade for EC207
+TBP* grade for EC201
+TBP* grade for EC205
+
+KKE15EC043
+C grade for HS200
+Nochange grade for EC207
+TBP* grade for EC201
+
+KKE15EC044
+TBP* grade for EC207
+
+KKE15EC045
+Nochange grade for EC207
+
+KKE15EC046
+Nochange grade for EC207
+
+KKE15EC051
+TBP* grade for EC201
+
+KKE15EC052
+TBP* grade for EC205
+TBP* grade for EC201
+
+KKE15EC054
+Nochange grade for EC203
+TBP* grade for MA201
+
+KKE15EC061
+Nochange grade for EC203
+Nochange grade for MA201
+
+CHEMICAL ENGINEERING
+
+KKE15CH007
+TBP* grade for CH203
+C grade for MA201
+
+KKE15CH010
+TBP* grade for CH201
+
+KKE15CH022
+Nochange grade for MA201
+
+KKE15CH027
+TBP* grade for HS210
+Nochange grade for MA201
+
+KKE15CH028
+TBP* grade for MA201
+
+KKE15CH032
+TBP* grade for CH207
+
+KKE15CH037
+TBP* grade for CH205
+TBP* grade for CH203
+TBP* grade for CH207
+
+KKE15CH038
+C grade for MA201
+
+KKE15CH046
+B+ grade for MA201
+
+KKE15CH054
+Nochange grade for MA201
+
+KKE15CH056
+C grade for MA201
+
+MECHANICAL ENGINEERING
+
+KKE15ME004
+C grade for ME203
+
+KKE15ME005
+TBP* grade for ME210
+Nochange grade for ME203
+
+KKE15ME006
+C grade for MA201
+
+KKE15ME007
+Nochange grade for MA201
+Nochange grade for ME201
+
+KKE15ME008
+Nochange grade for ME203
+
+KKE15ME009
+TBP* grade for MA201
+
+KKE15ME012
+A+ grade for MA201
+
+KKE15ME015
+B grade for ME201
+
+KKE15ME022
+TBP* grade for MA201
+
+KKE15ME025
+TBP* grade for HS210
+
+KKE15ME028
+C grade for MA201
+
+KKE15ME030
+TBP* grade for MA201
+
+KKE15ME031
+TBP* grade for ME210
+Nochange grade for ME201
+
+KKE15ME032
+Nochange grade for MA201
+
+KKE15ME034
+C grade for ME201
+
+KKE15ME037
+Nochange grade for ME205
+
+KKE15ME038
+TBP* grade for MA201
+
+KKE15ME039
+TBP* grade for MA201
+
+KKE15ME043
+C grade for ME203
+
+KKE15ME047
+Nochange grade for ME201
+Nochange grade for ME203
+
+KKE15ME050
+Nochange grade for ME203
+
+KKE15ME053
+Nochange grade for ME203
+
+KKE15ME060
+TBP* grade for ME203
+
+WYD15ME036
+Nochange grade for ME203
+TBP* grade for ME210

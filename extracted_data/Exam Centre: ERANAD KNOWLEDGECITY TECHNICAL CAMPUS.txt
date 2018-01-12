@@ -1,0 +1,205 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: ERANAD KNOWLEDGECITY TECHNICAL CAMPUS
+
+MECHANICAL ENGINEERING
+
+EKC15ME005
+TBP* grade for ME201
+
+EKC15ME013
+Nochange grade for HS200
+Nochange grade for ME205
+
+EKC15ME024
+TBP* grade for ME205
+
+EKC15ME030
+Nochange grade for ME205
+TBP* grade for ME201
+
+EKC15ME041
+TBP* grade for ME203
+TBP* grade for ME210
+TBP* grade for ME201
+Nochange grade for ME205
+
+EKC15ME049
+Nochange grade for HS200
+
+EKC15ME052
+TBP* grade for ME203
+TBP* grade for ME201
+
+EKC15ME056
+TBP* grade for ME203
+Nochange grade for MA201
+Nochange grade for HS200
+
+EKC15ME059
+Nochange grade for HS200
+
+LEKC15ME062
+TBP* grade for ME201
+
+CIVIL ENGINEERING
+
+EKC15CE006
+Nochange grade for CE207
+
+EKC15CE013
+Nochange grade for CE205
+
+EKC15CE033
+Nochange grade for CE207
+
+EKC15CE042
+Nochange grade for CE207
+
+EKC15CE043
+TBP* grade for CE201
+
+EKC15CE047
+Nochange grade for CE201
+Nochange grade for CE207
+
+EKC15CE055
+Nochange grade for CE205
+
+EKC15CE058
+Nochange grade for CE207
+
+EKC15CE059
+Nochange grade for CE205
+
+EKC15CE060
+Nochange grade for CE207
+
+EKC15CE063
+Nochange grade for CE203
+Nochange grade for CE207
+
+COMPUTER SCIENCE & ENGINEERING
+
+EKC15CS001
+C grade for CS203
+
+EKC15CS005
+Nochange grade for CS207
+
+EKC15CS009
+B grade for CS207
+
+EKC15CS019
+Nochange grade for CS207
+
+EKC15CS025
+Nochange grade for CS201
+
+EKC15CS030
+C grade for CS203
+
+ELECTRONICS & COMMUNICATION ENGG
+
+EKC15EC001
+B grade for EC203
+Nochange grade for EC205
+
+EKC15EC002
+C grade for EC203
+Nochange grade for EC207
+
+EKC15EC003
+B+ grade for EC203
+Nochange grade for EC207
+
+EKC15EC006
+Nochange grade for EC207
+
+EKC15EC007
+Nochange grade for EC207
+C grade for EC203
+
+EKC15EC009
+B+ grade for EC203
+C grade for EC207
+
+EKC15EC010
+B grade for EC203
+
+EKC15EC012
+B grade for EC203
+Nochange grade for EC201
+Nochange grade for EC207
+
+EKC15EC014
+A grade for EC203
+C grade for EC205
+
+EKC15EC015
+Nochange grade for EC201
+Nochange grade for EC207
+
+EKC15EC016
+Nochange grade for EC203
+
+EKC15EC022
+B+ grade for EC203
+
+EKC15EC025
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC201
+Nochange grade for EC205
+
+EKC15EC028
+Nochange grade for EC207
+Nochange grade for EC203
+
+EKC15EC031
+B+ grade for EC203
+
+EKC15EC032
+B grade for EC203
+
+EKC15EC033
+Nochange grade for EC207
+B grade for EC203
+
+EKC15EC034
+Nochange grade for EC207
+
+EKC15EC035
+Nochange grade for EC205
+C grade for EC203
+Nochange grade for EC207
+
+EKC15EC037
+B+ grade for EC203
+
+LEKC15EC041
+P grade for EC203
+
+LEKC15EC043
+Nochange grade for EC203
+
+LEKC15EC044
+Nochange grade for EC207
+Nochange grade for EC203
+
+LEKC15EC045
+C grade for EC203
+
+LEKC15EC046
+B grade for EC203
+
+LEKC15EC047
+C grade for EC203
+Nochange grade for EC207
+Nochange grade for EC205
+
+LEKC15EC048
+C grade for EC203
+C grade for EC207
+
+LEKC15EC049
+Nochange grade for EC207
+Nochange grade for EC203

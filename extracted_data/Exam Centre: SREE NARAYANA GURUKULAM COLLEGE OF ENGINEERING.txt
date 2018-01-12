@@ -1,0 +1,322 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: SREE NARAYANA GURUKULAM COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+SNG15CE007
+Nochange grade for CE203
+
+SNG15CE011
+Nochange grade for CE201
+Nochange grade for CE205
+
+SNG15CE017
+TBP* grade for MA201
+
+SNG15CE019
+Nochange grade for CE203
+
+SNG15CE029
+Nochange grade for CE201
+
+SNG15CE053
+Nochange grade for CE201
+Nochange grade for CE203
+
+SNG15CE062
+Nochange grade for MA201
+
+SNG15CE088
+Nochange grade for CE201
+Nochange grade for CE203
+
+SNG15CE102
+Nochange grade for CE203
+
+SNG15CE103
+Nochange grade for CE201
+
+SNG15CE104
+Nochange grade for CE203
+Nochange grade for CE201
+
+SNG15CE120
+Nochange grade for HS210
+
+MECHANICAL ENGINEERING
+
+LSNG15ME123
+Nochange grade for ME203
+
+LSNG15ME124
+Nochange grade for ME203
+Nochange grade for HS210
+Nochange grade for ME210
+
+SNG15ME001
+Nochange grade for ME210
+
+SNG15ME007
+Nochange grade for ME205
+
+SNG15ME010
+Nochange grade for ME205
+
+SNG15ME015
+Nochange grade for ME205
+
+SNG15ME020
+Nochange grade for ME205
+
+SNG15ME032
+Nochange grade for ME205
+
+SNG15ME033
+Nochange grade for ME210
+
+SNG15ME039
+Nochange grade for ME210
+Nochange grade for ME203
+
+SNG15ME041
+TBP* grade for ME210
+
+SNG15ME051
+Nochange grade for ME205
+Nochange grade for MA201
+
+SNG15ME056
+Nochange grade for ME201
+Nochange grade for ME205
+
+SNG15ME057
+TBP* grade for ME210
+
+SNG15ME064
+Nochange grade for ME201
+Nochange grade for ME205
+
+SNG15ME074
+TBP* grade for ME210
+
+SNG15ME085
+P grade for HS210
+TBP* grade for MA201
+
+SNG15ME087
+Nochange grade for ME203
+TBP* grade for ME210
+Nochange grade for ME205
+
+SNG15ME089
+TBP* grade for MA201
+
+SNG15ME091
+Nochange grade for ME205
+
+SNG15ME092
+Nochange grade for ME205
+
+SNG15ME096
+Nochange grade for ME205
+
+SNG15ME121
+Nochange grade for ME205
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+SNG15EE003
+Nochange grade for EE205
+Nochange grade for EE201
+
+SNG15EE004
+Nochange grade for MA201
+
+SNG15EE009
+Nochange grade for EE205
+
+SNG15EE037
+P grade for MA201
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LSNG15EC050
+Nochange grade for HS200
+
+SNG15EC003
+Nochange grade for EC205
+
+SNG15EC004
+Nochange grade for MA201
+Nochange grade for EC203
+Nochange grade for EC201
+Nochange grade for HS200
+
+SNG15EC006
+Nochange grade for EC205
+C grade for EC201
+
+SNG15EC010
+Nochange grade for EC203
+TBP* grade for EC207
+C grade for EC201
+Nochange grade for EC205
+
+SNG15EC011
+P grade for EC201
+TBP* grade for EC207
+
+SNG15EC013
+Nochange grade for EC205
+
+SNG15EC014
+Nochange grade for EC205
+C grade for EC201
+Nochange grade for EC207
+
+SNG15EC015
+Nochange grade for EC201
+TBP* grade for HS200
+Nochange grade for EC205
+
+SNG15EC018
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC201
+
+SNG15EC020
+Nochange grade for EC205
+
+SNG15EC028
+Nochange grade for EC205
+
+SNG15EC031
+Nochange grade for EC205
+
+SNG15EC033
+Nochange grade for EC203
+
+SNG15EC034
+C grade for EC201
+Nochange grade for EC205
+
+SNG15EC039
+Nochange grade for EC203
+
+SNG15EC040
+Nochange grade for EC203
+
+SNG15EC042
+Nochange grade for EC205
+
+SNG15EC045
+Nochange grade for EC201
+Nochange grade for EC205
+
+COMPUTER SCIENCE & ENGINEERING
+
+SNG15CS020
+Nochange grade for HS200
+TBP* grade for MA201
+Nochange grade for CS203
+Nochange grade for CS201
+
+SNG15CS033
+C grade for CS207
+
+SNG15CS041
+Nochange grade for CS207
+
+SNG15CS043
+Nochange grade for HS200
+P grade for CS207
+
+SNG15CS047
+Nochange grade for CS207
+
+SNG15CS055
+Nochange grade for CS205
+TBP* grade for HS200
+
+SNG15CS057
+Nochange grade for CS207
+Nochange grade for CS205
+
+SNG15CS058
+Nochange grade for CS201
+
+SNG15CS059
+Nochange grade for CS205
+Nochange grade for CS203
+
+SNG15CS062
+C grade for CS205
+
+SNG15CS070
+Nochange grade for CS205
+
+SNG15CS071
+Nochange grade for CS203
+Nochange grade for HS200
+
+SNG15CS072
+Nochange grade for CS203
+
+SNG15CS073
+TBP* grade for MA201
+
+SNG15CS075
+TBP* grade for MA201
+
+SNG15CS095
+Nochange grade for CS201
+
+SNG15CS101
+Nochange grade for CS201
+
+SNG15CS105
+Nochange grade for CS203
+TBP* grade for HS200
+
+SNG15CS106
+Nochange grade for CS205
+
+SNG15NS010
+Nochange grade for HS200
+
+SNG15NS011
+TBP* grade for SB201
+
+SNG15NS017
+Nochange grade for HS200
+
+SNG15NS032
+TBP* grade for SB203
+
+SNG15NS038
+Nochange grade for MA201
+TBP* grade for SB201
+
+SNG15NS040
+TBP* grade for SB201
+
+SNG15NS045
+TBP* grade for HS200
+
+SNG15NS047
+TBP* grade for SB201
+
+SNG15NS049
+TBP* grade for SB203
+TBP* grade for HS200
+TBP* grade for SB205
+
+SNG15NS051
+TBP* grade for HS200
+
+SNG15NS057
+TBP* grade for HS200
+TBP* grade for SB203
+
+SNG15NS059
+TBP* grade for HS200

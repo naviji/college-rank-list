@@ -1,0 +1,529 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: MEA ENGINEERING COLLEGE, PERINTHALMANNA
+
+CIVIL ENGINEERING
+
+LMEA15CE131
+Nochange grade for CE201
+Nochange grade for CE207
+
+LMEA15CE134
+Nochange grade for CE207
+Nochange grade for CE205
+
+LMEA15CE137
+Nochange grade for HS200
+
+LMEA15CE140
+Nochange grade for HS200
+Nochange grade for CE207
+
+MEA15CE011
+Nochange grade for CE203
+
+MEA15CE013
+Nochange grade for CE203
+Nochange grade for MA201
+Nochange grade for CE207
+
+MEA15CE020
+TBP* grade for CE207
+
+MEA15CE021
+TBP* grade for CE207
+
+MEA15CE028
+Nochange grade for CE205
+TBP* grade for CE207
+
+MEA15CE029
+TBP* grade for CE207
+
+MEA15CE031
+Nochange grade for CE203
+TBP* grade for CE207
+
+MEA15CE033
+Nochange grade for CE205
+TBP* grade for CE207
+
+MEA15CE034
+TBP* grade for CE207
+
+MEA15CE035
+Nochange grade for MA201
+TBP* grade for CE207
+
+MEA15CE036
+Nochange grade for CE203
+TBP* grade for CE207
+
+MEA15CE038
+Nochange grade for HS200
+
+MEA15CE040
+Nochange grade for MA201
+Nochange grade for HS200
+TBP* grade for CE207
+
+MEA15CE041
+C grade for CE203
+
+MEA15CE044
+TBP* grade for CE207
+
+MEA15CE045
+C grade for CE207
+
+MEA15CE047
+Nochange grade for HS200
+
+MEA15CE048
+Nochange grade for CE205
+
+MEA15CE049
+Nochange grade for CE203
+Nochange grade for CE207
+
+MEA15CE054
+Nochange grade for CE207
+Nochange grade for CE203
+
+MEA15CE056
+Nochange grade for CE203
+Nochange grade for CE207
+
+MEA15CE059
+Nochange grade for CE207
+
+MEA15CE067
+Nochange grade for CE201
+
+MEA15CE069
+Nochange grade for CE203
+Nochange grade for CE207
+
+MEA15CE072
+Nochange grade for MA201
+
+MEA15CE082
+Nochange grade for CE207
+Nochange grade for CE203
+
+MEA15CE085
+Nochange grade for CE203
+Nochange grade for CE201
+Nochange grade for CE207
+
+MEA15CE088
+Nochange grade for CE201
+
+MEA15CE089
+Nochange grade for CE207
+
+MEA15CE090
+Nochange grade for CE207
+
+MEA15CE091
+Nochange grade for CE207
+Nochange grade for CE205
+
+MEA15CE096
+Nochange grade for CE201
+
+MEA15CE098
+Nochange grade for CE205
+Nochange grade for CE207
+
+MEA15CE100
+Nochange grade for CE207
+
+MEA15CE109
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE205
+
+MEA15CE110
+Nochange grade for CE207
+
+MEA15CE119
+Nochange grade for CE207
+
+MEA15CE120
+Nochange grade for CE201
+
+MEA15CE123
+Nochange grade for CE203
+Nochange grade for CE207
+
+MEA15CE125
+Nochange grade for CE201
+
+COMPUTER SCIENCE & ENGINEERING
+
+MEA15CS019
+Nochange grade for CS203
+C grade for CS201
+
+MEA15CS020
+Nochange grade for MA201
+Nochange grade for CS205
+
+MEA15CS036
+Nochange grade for CS203
+Nochange grade for CS207
+
+MEA15CS039
+Nochange grade for CS201
+C grade for CS203
+
+MEA15CS041
+Nochange grade for CS207
+Nochange grade for CS203
+
+MEA15CS043
+Nochange grade for MA201
+
+MEA15CS044
+Nochange grade for CS205
+
+MEA15CS046
+Nochange grade for CS205
+
+MEA15CS055
+C grade for CS203
+
+MEA15CS058
+Nochange grade for CS207
+
+MEA15CS064
+Nochange grade for CS203
+
+MEA15CS069
+Nochange grade for CS201
+
+MEA15CS071
+Nochange grade for CS203
+Nochange grade for CS205
+
+MEA15CS072
+Nochange grade for CS207
+
+MEA15CS080
+Nochange grade for CS205
+
+MEA15CS093
+Nochange grade for CS201
+Nochange grade for CS203
+
+MEA15CS095
+Nochange grade for CS203
+Nochange grade for CS207
+Nochange grade for CS201
+Nochange grade for CS205
+
+MEA15CS096
+B grade for CS207
+
+MEA15CS097
+Nochange grade for CS203
+
+MEA15CS098
+Nochange grade for MA201
+Nochange grade for CS205
+
+MEA15CS099
+Nochange grade for CS205
+Nochange grade for MA201
+
+MEA15CS102
+Nochange grade for CS203
+Nochange grade for CS205
+
+MEA15CS103
+Nochange grade for CS203
+Nochange grade for CS207
+
+MEA15CS106
+Nochange grade for CS203
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LMEA15EC063
+Nochange grade for EC203
+Nochange grade for EC205
+
+LMEA15EC065
+Nochange grade for EC207
+Nochange grade for EC205
+
+MEA15EC002
+Nochange grade for EC207
+Nochange grade for EC205
+
+MEA15EC004
+Nochange grade for EC205
+Nochange grade for EC203
+
+MEA15EC007
+C grade for EC205
+Nochange grade for EC203
+
+MEA15EC010
+Nochange grade for EC201
+Nochange grade for EC205
+
+MEA15EC011
+Nochange grade for MA201
+Nochange grade for EC205
+
+MEA15EC012
+Nochange grade for EC203
+Nochange grade for EC201
+Nochange grade for EC205
+
+MEA15EC015
+Nochange grade for EC201
+Nochange grade for EC205
+
+MEA15EC016
+Nochange grade for EC203
+Nochange grade for EC205
+
+MEA15EC018
+Nochange grade for EC203
+Nochange grade for EC205
+
+MEA15EC019
+Nochange grade for EC201
+Nochange grade for EC205
+C grade for EC203
+Nochange grade for EC207
+
+MEA15EC021
+Nochange grade for EC201
+Nochange grade for EC205
+B grade for EC203
+Nochange grade for EC207
+
+MEA15EC023
+C grade for EC205
+
+MEA15EC024
+Nochange grade for EC207
+
+MEA15EC025
+Nochange grade for MA201
+Nochange grade for EC205
+
+MEA15EC029
+Nochange grade for EC201
+C grade for EC203
+
+MEA15EC032
+P grade for EC203
+Nochange grade for EC205
+
+MEA15EC033
+Nochange grade for EC205
+
+MEA15EC040
+C grade for EC205
+
+MEA15EC044
+C grade for EC207
+
+MEA15EC046
+Nochange grade for EC201
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+
+MEA15EC054
+Nochange grade for EC205
+Nochange grade for EC203
+
+MEA15EC056
+Nochange grade for EC205
+P grade for EC203
+
+MEA15EC058
+Nochange grade for EC201
+P grade for EC207
+Nochange grade for EC203
+
+MEA15EC059
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC205
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LMEA15EE046
+Nochange grade for MA201
+
+LMEA15EE048
+Nochange grade for EE201
+
+MEA15EE001
+Nochange grade for EE205
+
+MEA15EE006
+Nochange grade for EE207
+
+MEA15EE020
+P grade for EE203
+
+MEA15EE023
+Nochange grade for EE207
+
+MEA15EE024
+Nochange grade for EE207
+Nochange grade for EE205
+
+MEA15EE025
+C grade for EE205
+
+MEA15EE027
+Nochange grade for EE207
+
+MEA15EE032
+Nochange grade for EE201
+Nochange grade for EE205
+Nochange grade for EE203
+
+MEA15EE037
+B grade for MA201
+
+MEA15EE039
+Nochange grade for EE207
+
+MEA15EE045
+Nochange grade for EE207
+
+INFORMATION TECHNOLOGY
+
+MEA15IT001
+Nochange grade for CS201
+
+MEA15IT003
+Nochange grade for MA201
+Nochange grade for CS201
+
+MEA15IT014
+Nochange grade for CS201
+Nochange grade for CS205
+
+MECHANICAL ENGINEERING
+
+LMEA15ME128
+Nochange grade for MA201
+Nochange grade for ME210
+TBP* grade for ME201
+
+MEA15ME006
+Nochange grade for ME210
+
+MEA15ME007
+Nochange grade for HS200
+
+MEA15ME016
+TBP* grade for ME203
+Nochange grade for ME210
+
+MEA15ME019
+Nochange grade for HS200
+
+MEA15ME029
+TBP* grade for ME203
+Nochange grade for ME210
+TBP* grade for ME201
+Nochange grade for ME205
+
+MEA15ME031
+TBP* grade for ME203
+Nochange grade for ME210
+TBP* grade for ME201
+Nochange grade for ME205
+Nochange grade for HS200
+
+MEA15ME035
+C grade for ME205
+
+MEA15ME037
+TBP* grade for ME201
+Nochange grade for ME205
+
+MEA15ME039
+Nochange grade for HS200
+
+MEA15ME040
+TBP* grade for ME201
+
+MEA15ME042
+Nochange grade for ME210
+Nochange grade for HS200
+
+MEA15ME043
+TBP* grade for ME203
+TBP* grade for ME201
+
+MEA15ME044
+Nochange grade for HS200
+
+MEA15ME046
+TBP* grade for ME201
+
+MEA15ME047
+TBP* grade for ME201
+
+MEA15ME049
+Nochange grade for ME205
+TBP* grade for ME201
+
+MEA15ME053
+B grade for ME205
+
+MEA15ME062
+P grade for MA201
+
+MEA15ME063
+TBP* grade for ME201
+
+MEA15ME083
+Nochange grade for ME205
+
+MEA15ME085
+Nochange grade for MA201
+Nochange grade for HS200
+Nochange grade for ME210
+
+MEA15ME086
+Nochange grade for MA201
+
+MEA15ME091
+Nochange grade for ME205
+TBP* grade for ME201
+
+MEA15ME092
+Nochange grade for MA201
+TBP* grade for ME203
+
+MEA15ME094
+Nochange grade for HS200
+Nochange grade for ME205
+
+MEA15ME095
+TBP* grade for ME203
+Nochange grade for HS200
+
+MEA15ME108
+TBP* grade for ME201
+
+MEA15ME114
+Nochange grade for ME210
+
+MEA15ME116
+Nochange grade for ME210
+
+MEA15ME118
+Nochange grade for ME205

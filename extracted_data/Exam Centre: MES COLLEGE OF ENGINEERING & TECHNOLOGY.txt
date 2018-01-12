@@ -1,0 +1,155 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: MES COLLEGE OF ENGINEERING & TECHNOLOGY
+
+CIVIL ENGINEERING
+
+MEE15CE002
+TBP* grade for CE201
+
+MEE15CE008
+TBP* grade for CE201
+C grade for CE205
+
+MEE15CE009
+C grade for CE205
+
+MEE15CE013
+Nochange grade for MA201
+B grade for CE205
+
+MEE15CE022
+Nochange grade for CE205
+
+MEE15CE023
+C grade for CE205
+
+MEE15CE028
+C grade for CE205
+
+MEE15CE029
+C grade for MA201
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LMEE15EE017
+B+ grade for EE205
+
+LMEE15EE021
+C grade for MA201
+TBP* grade for HS200
+
+LMEE15EE023
+C grade for EE205
+
+MEE15EE003
+C grade for EE205
+
+MEE15EE007
+B grade for EE205
+
+MEE15EE009
+P grade for EE205
+
+MEE15EE010
+C grade for EE205
+Nochange grade for EE207
+
+MEE15EE013
+Nochange grade for EE203
+C grade for EE207
+
+MEE15EE014
+C grade for EE205
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LMEE15EC016
+TBP* grade for EC203
+
+COMPUTER SCIENCE & ENGINEERING
+
+MEE15CS002
+C grade for CS203
+
+MEE15CS006
+C grade for CS203
+TBP* grade for MA201
+
+MEE15CS010
+C grade for CS203
+
+MEE15CS013
+C grade for CS203
+
+MEE15CS020
+Nochange grade for CS203
+
+MECHANICAL ENGINEERING
+
+LMEE15ME055
+C grade for ME210
+TBP* grade for ME203
+
+LMEE15ME062
+C grade for MA201
+Nochange grade for ME210
+
+LMEE15ME063
+Nochange grade for ME201
+C grade for ME210
+
+LMEE15ME064
+C grade for MA201
+C grade for ME210
+Nochange grade for ME201
+
+MEE15ME002
+Nochange grade for ME201
+
+MEE15ME003
+Nochange grade for MA201
+
+MEE15ME005
+Nochange grade for ME210
+
+MEE15ME006
+Nochange grade for ME201
+C grade for ME210
+
+MEE15ME007
+Nochange grade for ME201
+
+MEE15ME009
+Nochange grade for ME210
+TBP* grade for ME203
+
+MEE15ME010
+TBP* grade for ME203
+C grade for ME210
+Nochange grade for ME201
+TBP* grade for ME205
+
+MEE15ME016
+Nochange grade for ME201
+
+MEE15ME018
+C grade for ME201
+
+MEE15ME020
+C grade for ME201
+
+MEE15ME021
+Nochange grade for ME210
+
+MEE15ME023
+B grade for ME210
+
+MEE15ME024
+Nochange grade for MA201
+C grade for ME210
+
+MEE15ME049
+Nochange grade for MA201
+Nochange grade for ME210
+
+MEE15ME050
+TBP* grade for MA201

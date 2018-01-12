@@ -1,0 +1,107 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: IES COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+IES15CE010
+TBP* grade for CE201
+TBP* grade for CE207
+
+IES15CE030
+TBP* grade for CE207
+
+IES15CE037
+Nochange grade for MA201
+TBP* grade for CE207
+Nochange grade for CE203
+
+IES15CE041
+TBP* grade for CE201
+TBP* grade for CE207
+
+IES15CE045
+TBP* grade for CE201
+TBP* grade for CE207
+
+IES15CE048
+TBP* grade for CE201
+
+LIES15CE058
+TBP* grade for CE201
+TBP* grade for CE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+IES15EC006
+Nochange grade for EC203
+
+IES15EC013
+TBP* grade for EC205
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+IES15EE016
+C grade for MA201
+
+MECHANICAL ENGINEERING
+
+IES15ME013
+Nochange grade for HS210
+C grade for ME201
+
+IES15ME022
+B grade for ME201
+
+IES15ME023
+TBP* grade for ME210
+Nochange grade for ME201
+Nochange grade for HS210
+
+IES15ME024
+B grade for ME201
+Nochange grade for MA201
+Nochange grade for ME203
+
+IES15ME029
+Nochange grade for ME201
+C grade for HS210
+Nochange grade for ME203
+
+IES15ME033
+Nochange grade for ME201
+P grade for ME203
+
+IES15ME036
+C grade for ME201
+
+IES15ME039
+TBP* grade for ME201
+
+IES15ME040
+Nochange grade for ME201
+
+IES15ME042
+C grade for HS210
+
+IES15ME043
+C grade for ME201
+B grade for ME203
+
+IES15ME049
+P grade for ME203
+C grade for ME201
+
+IES15ME054
+TBP* grade for ME201
+C grade for MA201
+
+LIES15ME058
+Nochange grade for ME201
+Nochange grade for ME203
+
+LIES15ME059
+Nochange grade for ME203
+Nochange grade for ME201
+Nochange grade for HS210
+
+LIES15ME060
+Nochange grade for ME201

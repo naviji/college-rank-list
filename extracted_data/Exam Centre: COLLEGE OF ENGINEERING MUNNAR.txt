@@ -1,0 +1,305 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: COLLEGE OF ENGINEERING MUNNAR
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LMNR15EC032
+Nochange grade for EC205
+Nochange grade for EC207
+
+LMNR15EC033
+Nochange grade for EC203
+
+MNR15EC001
+Nochange grade for MA201
+Nochange grade for EC207
+
+MNR15EC004
+Nochange grade for EC207
+Nochange grade for MA201
+
+MNR15EC005
+Nochange grade for EC203
+Nochange grade for EC207
+
+MNR15EC008
+Nochange grade for EC207
+
+MNR15EC010
+C grade for EC207
+
+MNR15EC012
+Nochange grade for EC207
+
+MNR15EC014
+Nochange grade for EC207
+
+MNR15EC017
+C grade for EC203
+Nochange grade for MA201
+
+MNR15EC019
+Nochange grade for EC201
+
+MNR15EC029
+Nochange grade for EC207
+Nochange grade for EC201
+
+MNR15EC031
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+
+COMPUTER SCIENCE & ENGINEERING
+
+MNR15CS001
+Nochange grade for CS201
+Nochange grade for CS205
+
+MNR15CS002
+Nochange grade for CS205
+Nochange grade for CS203
+
+MNR15CS003
+Nochange grade for CS203
+Nochange grade for CS205
+
+MNR15CS007
+C grade for CS205
+Nochange grade for CS201
+C grade for CS207
+
+MNR15CS009
+Nochange grade for CS205
+
+MNR15CS010
+Nochange grade for CS205
+
+MNR15CS011
+Nochange grade for CS205
+Nochange grade for CS203
+P grade for CS207
+
+MNR15CS012
+Nochange grade for CS205
+
+MNR15CS015
+Nochange grade for CS205
+
+MNR15CS016
+Nochange grade for CS205
+
+MNR15CS019
+C grade for CS207
+C grade for CS205
+
+MNR15CS020
+Nochange grade for CS205
+Nochange grade for CS207
+
+MNR15CS022
+B grade for CS205
+
+MNR15CS023
+Nochange grade for CS205
+
+MNR15CS027
+Nochange grade for CS205
+C grade for CS207
+
+MNR15CS029
+Nochange grade for CS205
+
+MNR15CS030
+Nochange grade for CS205
+
+MNR15CS032
+Nochange grade for CS201
+
+MNR15CS033
+Nochange grade for CS205
+
+MNR15CS038
+Nochange grade for CS207
+Nochange grade for CS203
+
+MNR15CS040
+Nochange grade for CS203
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LMNR15EE038
+Nochange grade for EE207
+Nochange grade for MA201
+
+LMNR15EE040
+Nochange grade for EE207
+
+LMNR15EE042
+Nochange grade for EE207
+Nochange grade for EE205
+B grade for HS210
+
+LMNR15EE043
+Nochange grade for EE201
+Nochange grade for EE207
+
+MNR15EE001
+Nochange grade for EE205
+
+MNR15EE005
+C grade for EE203
+Nochange grade for EE201
+Nochange grade for EE205
+
+MNR15EE006
+P grade for EE203
+
+MNR15EE007
+Nochange grade for EE205
+
+MNR15EE008
+Nochange grade for EE201
+
+MNR15EE009
+Nochange grade for EE203
+Nochange grade for EE201
+Nochange grade for EE205
+
+MNR15EE011
+Nochange grade for EE205
+Nochange grade for MA201
+Nochange grade for EE207
+
+MNR15EE012
+Nochange grade for EE201
+
+MNR15EE014
+Nochange grade for EE203
+Nochange grade for EE201
+
+MNR15EE016
+C grade for EE203
+
+MNR15EE018
+Nochange grade for EE201
+
+MNR15EE021
+Nochange grade for MA201
+Nochange grade for EE205
+Nochange grade for EE201
+Nochange grade for EE207
+
+MNR15EE022
+P grade for MA201
+Nochange grade for EE205
+
+MNR15EE025
+Nochange grade for EE203
+Nochange grade for EE201
+
+MNR15EE029
+Nochange grade for EE207
+
+MNR15EE030
+Nochange grade for EE205
+Nochange grade for EE207
+
+MNR15EE032
+Nochange grade for EE205
+
+MNR15EE033
+Nochange grade for EE201
+
+MECHANICAL ENGINEERING
+
+LMNR15ME053
+Nochange grade for ME201
+
+LMNR15ME057
+C grade for ME210
+
+MNR15ME001
+Nochange grade for ME201
+
+MNR15ME003
+Nochange grade for ME201
+
+MNR15ME004
+Nochange grade for ME201
+
+MNR15ME009
+Nochange grade for ME210
+
+MNR15ME012
+C grade for ME210
+Nochange grade for ME201
+
+MNR15ME013
+Nochange grade for ME201
+Nochange grade for MA201
+C grade for ME210
+
+MNR15ME014
+Nochange grade for ME201
+Nochange grade for ME210
+
+MNR15ME015
+Nochange grade for ME210
+Nochange grade for ME201
+
+MNR15ME019
+A grade for MA201
+
+MNR15ME020
+Nochange grade for ME203
+P grade for ME210
+
+MNR15ME023
+C grade for ME201
+C grade for MA201
+
+MNR15ME025
+Nochange grade for MA201
+Nochange grade for ME201
+
+MNR15ME027
+C grade for ME210
+
+MNR15ME028
+Nochange grade for ME201
+
+MNR15ME030
+C grade for MA201
+Nochange grade for ME203
+Nochange grade for ME201
+
+MNR15ME033
+C grade for ME201
+
+MNR15ME035
+Nochange grade for ME201
+
+MNR15ME036
+Nochange grade for ME201
+
+MNR15ME038
+C grade for ME201
+
+MNR15ME039
+Nochange grade for ME201
+
+MNR15ME040
+Nochange grade for ME201
+
+MNR15ME043
+Nochange grade for ME201
+
+MNR15ME044
+Nochange grade for ME201
+
+MNR15ME046
+C grade for ME203
+Nochange grade for ME201
+
+MNR15ME048
+C grade for ME201

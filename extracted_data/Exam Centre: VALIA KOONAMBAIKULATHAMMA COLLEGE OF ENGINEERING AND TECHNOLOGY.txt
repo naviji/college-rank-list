@@ -1,0 +1,235 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+CIVIL ENGINEERING
+
+VKE15CE010
+Nochange grade for HS200
+
+VKE15CE014
+Nochange grade for CE201
+Nochange grade for HS200
+
+VKE15CE016
+Nochange grade for CE205
+
+VKE15CE025
+C grade for CE201
+
+VKE15CE027
+Nochange grade for CE201
+Nochange grade for CE207
+Nochange grade for CE203
+
+VKE15CE028
+B+ grade for CE201
+B+ grade for CE205
+Nochange grade for HS200
+A grade for CE203
+Nochange grade for CE207
+
+VKE15CE032
+C grade for CE201
+
+VKE15CE035
+Nochange grade for CE205
+Nochange grade for CE207
+
+VKE15CE051
+Nochange grade for CE205
+
+MECHANICAL ENGINEERING
+
+TCE15ME008
+C grade for ME203
+
+VKE15ME001
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME002
+TBP* grade for ME205
+Nochange grade for ME210
+
+VKE15ME004
+Nochange grade for ME210
+
+VKE15ME007
+Nochange grade for ME203
+
+VKE15ME012
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME015
+B grade for ME210
+
+VKE15ME019
+Nochange grade for ME203
+Nochange grade for ME210
+TBP* grade for ME205
+
+VKE15ME023
+Nochange grade for ME210
+TBP* grade for ME205
+
+VKE15ME024
+Nochange grade for ME203
+TBP* grade for ME205
+
+VKE15ME025
+TBP* grade for ME205
+Nochange grade for ME210
+
+VKE15ME026
+TBP* grade for ME205
+
+VKE15ME027
+TBP* grade for ME205
+
+VKE15ME029
+TBP* grade for ME201
+Nochange grade for ME210
+Nochange grade for ME203
+
+VKE15ME030
+TBP* grade for ME201
+
+VKE15ME033
+Nochange grade for ME210
+TBP* grade for ME205
+
+VKE15ME034
+TBP* grade for ME205
+Nochange grade for ME203
+Nochange grade for ME210
+
+VKE15ME035
+Nochange grade for ME203
+Nochange grade for ME210
+
+VKE15ME036
+Nochange grade for MA201
+Nochange grade for ME210
+
+VKE15ME038
+TBP* grade for ME205
+Nochange grade for ME210
+
+VKE15ME040
+TBP* grade for ME205
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME041
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME043
+TBP* grade for ME201
+Nochange grade for ME203
+
+VKE15ME047
+TBP* grade for ME205
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME049
+Nochange grade for MA201
+TBP* grade for ME205
+TBP* grade for ME201
+Nochange grade for ME210
+
+VKE15ME050
+TBP* grade for ME205
+Nochange grade for ME210
+
+VKE15ME051
+Nochange grade for ME210
+B+ grade for ME203
+
+VKE15ME052
+B grade for ME203
+
+VKE15ME053
+Nochange grade for ME203
+TBP* grade for ME201
+Nochange grade for MA201
+
+VKE15ME055
+Nochange grade for ME203
+
+VKE15ME061
+TBP* grade for ME205
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+VKE15EE039
+Nochange grade for EE201
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+VKE15EC010
+TBP* grade for EC203
+Nochange grade for EC201
+
+VKE15EC011
+TBP* grade for EC203
+Nochange grade for EC207
+
+VKE15EC028
+TBP* grade for EC203
+Nochange grade for EC207
+
+COMPUTER SCIENCE & ENGINEERING
+
+VKE15CS003
+B grade for HS200
+
+VKE15CS004
+A grade for CS205
+Nochange grade for CS207
+
+VKE15CS006
+C grade for CS203
+
+VKE15CS007
+Nochange grade for CS207
+
+VKE15CS013
+Nochange grade for CS201
+
+VKE15CS019
+Nochange grade for HS200
+
+VKE15CS023
+Nochange grade for CS203
+Nochange grade for CS207
+C grade for CS205
+Nochange grade for HS200
+
+VKE15CS027
+O grade for CS205
+
+VKE15CS030
+Nochange grade for CS201
+Nochange grade for CS205
+A grade for CS203
+
+VKE15CS035
+A grade for CS205
+
+VKE15CS036
+C grade for CS203
+
+VKE15CS039
+C grade for CS205
+C grade for CS203
+
+VKE15CS040
+Nochange grade for HS200
+C grade for CS207
+
+VKE15CS045
+Nochange grade for MA201
+B grade for CS203

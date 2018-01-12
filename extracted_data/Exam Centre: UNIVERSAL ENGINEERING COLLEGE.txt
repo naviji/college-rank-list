@@ -1,0 +1,354 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: UNIVERSAL ENGINEERING COLLEGE
+
+CIVIL ENGINEERING
+
+LUNT15CE059
+C grade for CE205
+
+UNT15CE008
+A grade for CE205
+
+UNT15CE013
+B grade for CE203
+
+UNT15CE020
+C grade for CE203
+
+UNT15CE025
+Nochange grade for CE207
+
+UNT15CE034
+C grade for CE205
+Nochange grade for HS210
+Nochange grade for CE207
+
+UNT15CE039
+C grade for CE207
+B+ grade for CE205
+
+UNT15CE045
+C grade for CE205
+
+UNT15CE047
+A+ grade for CE205
+
+UNT15CE051
+Nochange grade for CE205
+
+MECHANICAL ENGINEERING
+
+LUNT15ME103
+C grade for ME205
+
+LUNT15ME104
+C grade for ME203
+
+LUNT15ME105
+Nochange grade for ME203
+
+LUNT15ME107
+Nochange grade for ME203
+Nochange grade for ME201
+Nochange grade for MA201
+
+LUNT15ME109
+B grade for ME205
+
+LUNT15ME112
+B grade for ME203
+
+LUNT15ME115
+C grade for ME205
+Nochange grade for ME203
+
+LUNT15ME116
+B grade for ME205
+
+LUNT15ME117
+Nochange grade for MA201
+
+LUNT15ME118
+Nochange grade for ME203
+Nochange grade for ME205
+
+LUNT15ME119
+Nochange grade for ME205
+Nochange grade for ME203
+
+LUNT15ME122
+C grade for ME205
+
+LUNT15ME123
+B grade for ME203
+
+UNT15ME012
+C grade for ME210
+B grade for ME205
+
+UNT15ME013
+Nochange grade for MA201
+Nochange grade for HS200
+Nochange grade for ME210
+
+UNT15ME014
+C grade for ME205
+
+UNT15ME015
+Nochange grade for ME205
+Nochange grade for HS200
+
+UNT15ME019
+C grade for MA201
+P grade for HS200
+
+UNT15ME020
+Nochange grade for ME203
+
+UNT15ME024
+Nochange grade for MA201
+C grade for HS200
+Nochange grade for ME203
+
+UNT15ME025
+B grade for ME205
+
+UNT15ME026
+C grade for ME203
+Nochange grade for ME210
+Nochange grade for MA201
+
+UNT15ME029
+Nochange grade for ME205
+P grade for ME203
+Nochange grade for ME210
+
+UNT15ME031
+Nochange grade for ME210
+Nochange grade for ME203
+Nochange grade for HS200
+
+UNT15ME034
+Nochange grade for ME201
+Nochange grade for ME203
+
+UNT15ME037
+Nochange grade for ME201
+Nochange grade for ME205
+C grade for ME203
+
+UNT15ME039
+C grade for ME205
+C grade for ME203
+
+UNT15ME041
+Nochange grade for ME205
+C grade for HS200
+
+UNT15ME042
+Nochange grade for ME205
+
+UNT15ME049
+Nochange grade for ME203
+Nochange grade for HS200
+
+UNT15ME050
+Nochange grade for MA201
+
+UNT15ME051
+B grade for ME210
+
+UNT15ME052
+B grade for ME210
+
+UNT15ME053
+Nochange grade for ME203
+Nochange grade for HS200
+Nochange grade for ME210
+
+UNT15ME054
+Nochange grade for ME203
+C grade for HS200
+Nochange grade for ME205
+
+UNT15ME055
+Nochange grade for ME210
+
+UNT15ME056
+Nochange grade for ME205
+
+UNT15ME058
+B grade for ME205
+
+UNT15ME059
+C grade for ME205
+
+UNT15ME060
+Nochange grade for MA201
+C grade for ME205
+Nochange grade for ME203
+Nochange grade for ME210
+
+UNT15ME061
+Nochange grade for ME203
+Nochange grade for ME210
+B grade for ME205
+
+UNT15ME063
+Nochange grade for ME210
+Nochange grade for HS200
+
+UNT15ME064
+Nochange grade for ME203
+Nochange grade for ME201
+Nochange grade for HS200
+
+UNT15ME075
+Nochange grade for HS200
+B grade for ME210
+B grade for ME205
+
+UNT15ME078
+Nochange grade for ME203
+
+UNT15ME079
+Nochange grade for ME210
+
+UNT15ME085
+C grade for HS200
+Nochange grade for ME210
+
+UNT15ME087
+Nochange grade for ME205
+C grade for ME203
+
+UNT15ME093
+C grade for HS200
+B grade for ME205
+
+UNT15ME099
+B grade for ME205
+
+UNT15ME100
+C grade for ME205
+
+UNT15ME102
+P grade for ME203
+
+COMPUTER SCIENCE & ENGINEERING
+
+LUNT15CS038
+C grade for CS203
+
+UNT15CS005
+Nochange grade for CS205
+
+UNT15CS010
+Nochange grade for CS203
+
+UNT15CS017
+Nochange grade for CS203
+
+UNT15CS019
+Nochange grade for CS205
+
+UNT15CS021
+Nochange grade for HS210
+Nochange grade for CS205
+
+UNT15CS027
+Nochange grade for CS203
+
+UNT15CS028
+B grade for CS205
+Nochange grade for CS203
+
+UNT15CS030
+Nochange grade for CS207
+
+UNT15CS036
+Nochange grade for CS205
+Nochange grade for CS203
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LUNT15EE035
+C grade for EE203
+C grade for EE201
+
+UNT15EE013
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LUNT15EC021
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for HS200
+
+LUNT15EC022
+Nochange grade for EC205
+Nochange grade for HS200
+Nochange grade for EC207
+
+LUNT15EC024
+Nochange grade for EC207
+Nochange grade for EC203
+Nochange grade for HS200
+
+LUNT15EC025
+Nochange grade for EC205
+Nochange grade for EC207
+
+LUNT15EC026
+C grade for EC205
+Nochange grade for HS200
+Nochange grade for EC207
+
+UNT15EC001
+Nochange grade for EC207
+C grade for EC205
+
+UNT15EC003
+Nochange grade for EC203
+Nochange grade for HS200
+Nochange grade for EC205
+
+UNT15EC005
+Nochange grade for EC205
+
+UNT15EC006
+Nochange grade for HS200
+C grade for EC205
+
+UNT15EC009
+Nochange grade for HS200
+
+UNT15EC011
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC205
+
+UNT15EC013
+C grade for EC203
+C grade for HS200
+
+UNT15EC014
+Nochange grade for EC207
+Nochange grade for EC203
+Nochange grade for HS200
+
+UNT15EC016
+Nochange grade for EC201
+Nochange grade for HS200
+Nochange grade for EC207
+
+UNT15EC017
+Nochange grade for EC207
+Nochange grade for EC203
+
+UNT15EC018
+B grade for HS200
+
+UNT15EC019
+Nochange grade for EC207
+Nochange grade for EC205

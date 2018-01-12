@@ -1,0 +1,695 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: GOVERNMENT ENGINEERING COLLEGE THRISSUR
+
+COMPUTER SCIENCE & ENGINEERING
+
+LTCR15CS069
+C grade for CS205
+
+TCR15CS001
+Nochange grade for CS205
+B grade for CS207
+
+TCR15CS003
+Nochange grade for CS205
+
+TCR15CS005
+Nochange grade for CS205
+
+TCR15CS006
+C grade for CS207
+B grade for CS205
+
+TCR15CS007
+C grade for CS207
+
+TCR15CS012
+Nochange grade for CS203
+Nochange grade for HS200
+B grade for MA201
+Nochange grade for CS205
+
+TCR15CS016
+B grade for CS207
+Nochange grade for CS203
+
+TCR15CS018
+C grade for CS203
+
+TCR15CS021
+A grade for HS200
+
+TCR15CS026
+Nochange grade for CS207
+Nochange grade for CS205
+
+TCR15CS028
+Nochange grade for CS203
+
+TCR15CS039
+Nochange grade for CS207
+
+TCR15CS040
+Nochange grade for CS205
+
+TCR15CS046
+Nochange grade for CS205
+
+TCR15CS054
+A grade for CS205
+
+TCR15CS060
+A+ grade for MA201
+A+ grade for CS205
+
+CHEMICAL ENGINEERING
+
+TCR15CH011
+Nochange grade for CH207
+
+TCR15CH012
+C grade for CH203
+
+TCR15CH015
+Nochange grade for CH207
+Nochange grade for CH201
+Nochange grade for HS200
+
+TCR15CH024
+B+ grade for CH207
+
+TCR15CH030
+Nochange grade for CH207
+
+TCR15CH037
+C grade for CH203
+
+TCR15CH047
+Nochange grade for CH205
+
+CIVIL ENGINEERING
+
+KTE15CE038
+Nochange grade for CE205
+
+LTCR15CE091
+Nochange grade for CE203
+
+LTCR15CE095
+Nochange grade for CE205
+
+MAC15CE059
+Nochange grade for CE207
+C grade for CE201
+
+TCR15CE001
+Nochange grade for CE205
+
+TCR15CE002
+Nochange grade for CE201
+
+TCR15CE004
+Nochange grade for CE205
+
+TCR15CE006
+Nochange grade for CE205
+
+TCR15CE009
+Nochange grade for CE205
+Nochange grade for CE201
+
+TCR15CE010
+Nochange grade for CE205
+
+TCR15CE014
+C grade for CE205
+
+TCR15CE015
+A grade for CE203
+B grade for CE205
+
+TCR15CE017
+B grade for CE203
+Nochange grade for CE201
+C grade for CE205
+
+TCR15CE018
+Nochange grade for CE205
+
+TCR15CE019
+C grade for CE203
+
+TCR15CE022
+C grade for CE205
+
+TCR15CE024
+Nochange grade for CE203
+Nochange grade for CE201
+Nochange grade for CE205
+
+TCR15CE025
+Nochange grade for CE201
+
+TCR15CE027
+P grade for CE203
+
+TCR15CE028
+C grade for CE205
+Nochange grade for CE203
+
+TCR15CE029
+Nochange grade for CE201
+Nochange grade for CE203
+
+TCR15CE032
+C grade for MA201
+Nochange grade for CE203
+
+TCR15CE037
+P grade for CE203
+Nochange grade for MA201
+
+TCR15CE038
+C grade for CE201
+Nochange grade for CE205
+C grade for MA201
+C grade for CE203
+Nochange grade for CE207
+
+TCR15CE040
+C grade for CE203
+B grade for CE207
+
+TCR15CE042
+Nochange grade for CE205
+
+TCR15CE043
+Nochange grade for CE207
+B+ grade for CE205
+
+TCR15CE046
+Nochange grade for CE205
+
+TCR15CE047
+C grade for CE201
+
+TCR15CE048
+Nochange grade for MA201
+Nochange grade for CE203
+Nochange grade for CE201
+Nochange grade for CE205
+
+TCR15CE049
+Nochange grade for CE205
+
+TCR15CE050
+Nochange grade for MA201
+Nochange grade for CE207
+Nochange grade for CE205
+
+TCR15CE053
+Nochange grade for MA201
+C grade for CE203
+Nochange grade for CE207
+Nochange grade for CE201
+Nochange grade for CE205
+
+TCR15CE056
+B grade for CE205
+
+TCR15CE057
+C grade for CE207
+
+TCR15CE058
+Nochange grade for CE201
+Nochange grade for CE207
+Nochange grade for CE205
+
+TCR15CE061
+Nochange grade for CE201
+Nochange grade for CE205
+Nochange grade for CE203
+Nochange grade for CE207
+
+TCR15CE062
+C grade for CE205
+
+TCR15CE063
+C grade for CE205
+
+TCR15CE064
+Nochange grade for CE203
+
+TCR15CE065
+Nochange grade for CE205
+
+TCR15CE069
+Nochange grade for CE205
+
+TCR15CE072
+C grade for CE205
+
+TCR15CE075
+Nochange grade for CE207
+
+TCR15CE076
+Nochange grade for CE205
+
+TCR15CE079
+Nochange grade for CE207
+
+TCR15CE081
+Nochange grade for CE205
+
+TCR15CE082
+TBP* grade for CE205
+
+TCR15CE084
+C grade for CE201
+
+TCR15CE085
+Nochange grade for CE207
+
+TRV15CE006
+C grade for CE201
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LTCR15EE107
+C grade for MA201
+
+LTCR15EE108
+Nochange grade for EE207
+
+LTCR15EE109
+Nochange grade for EE207
+Nochange grade for MA201
+
+LTCR15EE114
+Nochange grade for MA201
+Nochange grade for EE203
+Nochange grade for EE201
+
+TCR15EE001
+Nochange grade for EE207
+
+TCR15EE002
+B grade for EE207
+
+TCR15EE005
+Nochange grade for EE207
+
+TCR15EE012
+Nochange grade for EE207
+Nochange grade for EE201
+
+TCR15EE013
+Nochange grade for EE207
+
+TCR15EE014
+B+ grade for EE207
+Nochange grade for EE201
+
+TCR15EE021
+B+ grade for EE201
+
+TCR15EE029
+Nochange grade for EE203
+Nochange grade for EE205
+
+TCR15EE030
+A grade for EE207
+Nochange grade for EE203
+
+TCR15EE031
+Nochange grade for EE205
+Nochange grade for EE207
+
+TCR15EE034
+Nochange grade for EE207
+
+TCR15EE039
+Nochange grade for EE201
+Nochange grade for MA201
+B grade for EE207
+
+TCR15EE042
+Nochange grade for EE205
+
+TCR15EE044
+Nochange grade for EE205
+Nochange grade for EE201
+
+TCR15EE046
+C grade for EE205
+Nochange grade for EE201
+
+TCR15EE048
+Nochange grade for MA201
+Nochange grade for EE205
+Nochange grade for EE203
+
+TCR15EE049
+B+ grade for HS210
+Nochange grade for EE205
+
+TCR15EE050
+Nochange grade for EE205
+B+ grade for MA201
+Nochange grade for EE207
+
+TCR15EE053
+Nochange grade for EE201
+Nochange grade for EE207
+
+TCR15EE057
+A grade for EE205
+
+TCR15EE058
+Nochange grade for HS210
+Nochange grade for EE205
+
+TCR15EE060
+Nochange grade for EE201
+Nochange grade for MA201
+Nochange grade for EE207
+
+TCR15EE061
+A grade for EE207
+Nochange grade for MA201
+
+TCR15EE062
+A+ grade for MA201
+A+ grade for EE207
+Nochange grade for EE205
+
+TCR15EE064
+Nochange grade for EE205
+Nochange grade for EE203
+
+TCR15EE067
+Nochange grade for EE205
+
+TCR15EE068
+Nochange grade for EE203
+
+TCR15EE069
+Nochange grade for EE203
+
+TCR15EE070
+Nochange grade for EE205
+Nochange grade for EE201
+
+TCR15EE071
+C grade for EE205
+
+TCR15EE072
+B+ grade for EE205
+B+ grade for EE203
+
+TCR15EE074
+Nochange grade for EE205
+Nochange grade for EE207
+
+TCR15EE075
+C grade for EE203
+
+TCR15EE078
+Nochange grade for EE207
+
+TCR15EE079
+Nochange grade for EE201
+
+TCR15EE081
+Nochange grade for EE205
+
+TCR15EE082
+Nochange grade for EE201
+
+TCR15EE088
+Nochange grade for EE203
+C grade for EE205
+
+TCR15EE094
+Nochange grade for EE201
+Nochange grade for EE207
+
+TCR15EE095
+B+ grade for MA201
+
+TCR15EE098
+Nochange grade for EE203
+
+TCR15EE103
+B+ grade for HS210
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+KKE15EC010
+B grade for MA201
+B grade for EC207
+TBP* grade for EC203
+
+LTCR15EC064
+Nochange grade for EC201
+
+TCR15EC001
+TBP* grade for EC203
+
+TCR15EC002
+C grade for EC201
+B+ grade for MA201
+
+TCR15EC003
+P grade for EC207
+TBP* grade for EC203
+
+TCR15EC004
+Nochange grade for EC207
+
+TCR15EC006
+B+ grade for EC201
+Nochange grade for EC207
+Nochange grade for EC205
+
+TCR15EC010
+Nochange grade for EC207
+
+TCR15EC013
+A grade for EC203
+
+TCR15EC015
+Nochange grade for EC205
+C grade for EC203
+
+TCR15EC017
+C grade for EC201
+
+TCR15EC018
+B+ grade for EC203
+Nochange grade for EC207
+
+TCR15EC019
+Nochange grade for EC207
+Nochange grade for EC201
+Nochange grade for EC205
+Nochange grade for EC203
+
+TCR15EC021
+B grade for EC201
+Nochange grade for MA201
+Nochange grade for EC203
+
+TCR15EC022
+C grade for EC201
+
+TCR15EC023
+C grade for EC201
+C grade for EC203
+
+TCR15EC025
+C grade for EC201
+Nochange grade for MA201
+
+TCR15EC026
+B+ grade for EC203
+
+TCR15EC028
+Nochange grade for MA201
+Nochange grade for EC207
+Nochange grade for EC203
+
+TCR15EC030
+Nochange grade for EC207
+B+ grade for MA201
+
+TCR15EC031
+Nochange grade for EC203
+
+TCR15EC032
+Nochange grade for MA201
+C grade for EC207
+
+TCR15EC037
+Nochange grade for EC207
+
+TCR15EC038
+Nochange grade for EC207
+Nochange grade for EC203
+
+TCR15EC040
+Nochange grade for MA201
+
+TCR15EC042
+B+ grade for MA201
+Nochange grade for EC207
+
+TCR15EC043
+Nochange grade for EC201
+Nochange grade for EC207
+
+TCR15EC047
+Nochange grade for EC203
+Nochange grade for EC205
+
+TCR15EC049
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+
+TCR15EC051
+B grade for EC203
+
+TCR15EC054
+A grade for EC201
+A+ grade for HS210
+Nochange grade for EC203
+
+TCR15EC055
+C grade for EC201
+
+TCR15EC056
+A grade for MA201
+
+TCR15EC058
+B grade for EC203
+
+TCR15EC060
+Nochange grade for EC203
+
+TCR15EC063
+Nochange grade for EC203
+
+WYD15EC122
+B grade for EC201
+Nochange grade for EC207
+
+MECHANICAL ENGINEERING
+
+LTCR15ME104
+Nochange grade for ME210
+TBP* grade for ME205
+
+LTCR15ME111
+C grade for ME210
+
+TCR15ME001
+TBP* grade for ME203
+TBP* grade for ME205
+
+TCR15ME002
+Nochange grade for ME210
+
+TCR15ME005
+TBP* grade for ME203
+B grade for ME210
+
+TCR15ME007
+Nochange grade for ME210
+TBP* grade for ME205
+TBP* grade for ME203
+
+TCR15ME008
+C grade for ME210
+
+TCR15ME019
+Nochange grade for ME210
+
+TCR15ME022
+B grade for ME210
+
+TCR15ME026
+TBP* grade for ME203
+
+TCR15ME030
+TBP* grade for ME203
+Nochange grade for ME210
+
+TCR15ME034
+B grade for MA201
+
+TCR15ME036
+A grade for ME210
+
+TCR15ME044
+C grade for HS200
+
+TCR15ME045
+TBP* grade for ME203
+
+TCR15ME056
+A grade for ME210
+
+TCR15ME066
+TBP* grade for ME205
+
+TCR15ME068
+TBP* grade for ME203
+A+ grade for ME210
+TBP* grade for ME201
+TBP* grade for ME205
+Nochange grade for HS200
+
+TCR15ME071
+TBP* grade for ME205
+
+TCR15ME073
+TBP* grade for ME203
+
+TCR15ME082
+TBP* grade for ME203
+Nochange grade for MA201
+
+TCR15ME087
+TBP* grade for ME205
+
+TCR15ME090
+TBP* grade for ME205
+
+TCR15ME093
+A grade for MA201
+TBP* grade for ME201
+
+TCR15ME097
+C grade for MA201
+TBP* grade for ME203
+
+TCR15ME098
+B+ grade for ME210
+
+TCR15ME100
+B grade for ME210
+
+TRV15ME064
+TBP* grade for ME205
+
+TCR15MP008
+Nochange grade for MP201
+Nochange grade for ME200
+
+TCR15MP013
+C grade for HS200
+Nochange grade for MA201
+
+TCR15MP017
+Nochange grade for ME200

@@ -1,0 +1,97 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: COLLEGE OF ENGINEERING CHERTHALA
+
+ELECTRONICS & COMMUNICATION ENGG
+
+CEC15EC035
+B+ grade for EC203
+Nochange grade for EC205
+
+CEC15EC070
+C grade for EC205
+
+SIT15EC010
+Nochange grade for EC205
+
+COMPUTER SCIENCE & ENGINEERING
+
+CEC15CS003
+B grade for CS201
+
+CEC15CS005
+C grade for CS201
+
+CEC15CS009
+B grade for CS207
+Nochange grade for CS205
+
+CEC15CS023
+B grade for CS201
+
+CEC15CS024
+Nochange grade for HS200
+
+CEC15CS035
+Nochange grade for CS201
+
+CEC15CS037
+Nochange grade for HS200
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+CEC15EE001
+C grade for EE205
+
+CEC15EE003
+Nochange grade for EE205
+
+CEC15EE004
+Nochange grade for EE201
+Nochange grade for EE205
+Nochange grade for MA201
+Nochange grade for EE203
+
+CEC15EE006
+Nochange grade for HS200
+
+CEC15EE008
+Nochange grade for HS200
+
+CEC15EE014
+Nochange grade for EE205
+Nochange grade for HS200
+
+CEC15EE018
+C grade for EE205
+
+CEC15EE020
+Nochange grade for EE203
+Nochange grade for EE205
+
+CEC15EE023
+Nochange grade for EE205
+
+CEC15EE024
+Nochange grade for EE205
+
+CEC15EE027
+Nochange grade for EE203
+Nochange grade for EE201
+C grade for EE205
+
+CEC15EE030
+Nochange grade for MA201
+Nochange grade for EE205
+C grade for EE203
+
+CEC15EE031
+C grade for EE205
+
+CEC15EE032
+C grade for EE205
+
+CEC15EE039
+Nochange grade for MA201
+Nochange grade for EE205
+
+LCEC15EE043
+Nochange grade for EE205

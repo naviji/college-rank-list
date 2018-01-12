@@ -1,0 +1,947 @@
+APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY
+
+Thiruvananthapuram, Kerala, INDIA
+
+Exam Centre: MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result)
+
+*TBP -To Be Published Soon
+
+CIVIL ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+CE201
+
+CE203
+
+CE205
+
+CE207
+
+HS200
+
+CE231
+
+CE233
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+MECHANICS OF SOLIDS
+
+FLUID MECHANICS I
+
+ENGINEERING GEOLOGY
+
+SURVEYING
+
+BUSINESS ECONOMICS
+
+CIVIL ENGINEERING DRAFTING LAB
+
+SURVEYING LAB
+
+Register No
+
+Course Code (Grade)
+
+MBT15CE004
+
+CE205(No change)
+
+MBT15CE006
+
+MA201(B)
+
+MBT15CE007
+
+CE207(No change)
+
+MBT15CE010
+
+CE203(No change), CE201(No change)
+
+MBT15CE013
+
+CE201(B+)
+
+MBT15CE018
+
+CE205(No change), CE203(No change), CE201(No change)
+
+MBT15CE025
+
+HS200(No change)
+
+MBT15CE027
+
+CE207(C)
+
+MBT15CE032
+
+MA201(No change), CE207(C)
+
+MBT15CE034
+
+CE201(No change), CE203(No change)
+
+MBT15CE035
+
+CE207(No change), CE203(No change)
+
+MBT15CE039
+
+CE207(No change)
+
+MBT15CE046
+
+HS200(No change)
+
+MBT15CE047
+
+CE201(No change)
+
+MBT15CE054
+
+CE201(No change), HS200(No change), MA201(No change), CE203(No change)
+
+MBT15CE061
+
+MA201(No change), CE201(No change)
+
+MBT15CE066
+
+MA201(B+)
+
+MBT15CE074
+
+CE203(No change), CE201(No change)
+
+MBT15CE079
+
+CE201(No change), CE207(No change), MA201(No change), CE203(No change)
+
+MBT15CE084
+
+CE203(No change), CE201(No change)
+
+MBT15CE085
+
+CE201(No change), CE207(No change)
+
+MBT15CE087
+
+CE201(O), CE205(No change)
+
+MBT15CE098
+
+CE201(No change), CE203(No change)
+
+MBT15CE099
+
+CE203(No change)
+
+MBT15CE101
+
+MA201(No change), CE201(B)
+
+MBT15CE103
+
+CE201(A+)
+
+MBT15CE109
+
+HS200(No change), CE201(No change)
+
+MBT15CE111
+
+CE201(No change), CE207(B+)
+
+MBT15CE117
+
+CE201(C), CE203(No change)
+
+MBT15CE118
+
+CE201(No change)
+
+MBT15EC101
+
+CE203(No change), CE201(No change), CE205(No change)
+
+COMPUTER SCIENCE & ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+CS201
+
+CS203
+
+CS205
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+DISCRETE COMPUTATIONAL STRUCTURES
+
+SWITCHING THEORY AND LOGIC DESIGN
+
+DATA STRUCTURES
+
+CS207
+
+HS210
+
+CS231
+
+CS233
+
+ELECTRONICS DEVICES & CIRCUITS
+
+LIFE SKILLS
+
+DATA STRUCTURES LAB
+
+ELECTRONICS CIRCUITS LAB
+
+Register No
+
+Course Code (Grade)
+
+MBT15CS003
+
+CS205(No change), MA201(No change), CS207(A+)
+
+MBT15CS007
+
+HS210(B)
+
+MBT15CS010
+
+CS203(No change)
+
+MBT15CS015
+
+CS201(No change)
+
+MBT15CS022
+
+CS203(No change)
+
+MBT15CS023
+
+CS201(No change), CS205(No change), CS203(No change)
+
+MBT15CS025
+
+CS201(B)
+
+MBT15CS031
+
+CS207(No change)
+
+MBT15CS048
+
+MA201(No change), CS207(C), CS205(No change)
+
+MBT15CS055
+
+CS205(No change), CS201(No change), CS207(No change)
+
+MBT15CS065
+
+CS201(No change)
+
+MBT15CS067
+
+CS207(No change)
+
+MBT15CS073
+
+CS201(C)
+
+MBT15CS079
+
+CS203(P)
+
+MBT15CS082
+
+CS203(No change), CS205(No change)
+
+MBT15CS083
+
+CS205(C)
+
+MBT15CS084
+
+CS207(No change)
+
+MBT15CS086
+
+CS203(No change), CS201(B)
+
+MBT15CS089
+
+CS201(No change), CS203(C)
+
+MBT15CS091
+
+CS203(No change), CS205(No change)
+
+MBT15CS094
+
+CS203(No change)
+
+MBT15CS099
+
+MA201(No change), CS207(C)
+
+MBT15CS103
+
+CS201(C), CS207(No change), CS203(No change)
+
+MBT15CS107
+
+CS207(C)
+
+MBT15CS110
+
+CS203(No change)
+
+ELECTRONICS & COMMUNICATION ENGG[Full Time]
+
+Course Code
+
+Course
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+NETWORK THEORY
+
+SOLID STATE DEVICES
+
+ELECTRONIC CIRCUITS
+
+LOGIC CIRCUIT DESIGN
+
+BUSINESS ECONOMICS
+
+ELECTRONIC DEVICES & CIRCUITS LAB
+
+ELECTRONIC DESIGN AUTOMATION LAB
+
+MA201
+
+EC201
+
+EC203
+
+EC205
+
+EC207
+
+HS200
+
+EC231
+
+EC233
+
+Register No
+
+Course Code (Grade)
+
+MBT15EC001
+
+MA201(No change), EC205(No change), EC201(No change)
+
+MBT15EC002
+
+EC203(No change), EC207(C)
+
+MBT15EC009
+
+EC201(No change), EC205(B), EC203(No change), EC207(No change)
+
+MBT15EC011
+
+EC201(No change), EC205(No change), MA201(No change), EC203(No change), EC207(No
+change)
+
+MBT15EC012
+
+MA201(No change)
+
+MBT15EC013
+
+EC207(B+), EC203(B+)
+
+MBT15EC014
+
+EC205(C)
+
+MBT15EC015
+
+EC205(No change), EC203(C), EC207(No change)
+
+MBT15EC017
+
+EC205(No change), HS200(No change), EC207(No change)
+
+MBT15EC018
+
+EC207(No change), EC205(B)
+
+MBT15EC019
+
+EC207(C), EC205(C), HS200(No change)
+
+MBT15EC020
+
+HS200(No change)
+
+MBT15EC024
+
+HS200(No change), MA201(No change)
+
+MBT15EC027
+
+EC207(No change)
+
+MBT15EC028
+
+EC201(No change), EC207(No change), EC205(No change), HS200(No change)
+
+MBT15EC037
+
+EC205(No change)
+
+MBT15EC038
+
+MA201(No change)
+
+MBT15EC045
+
+EC205(C)
+
+MBT15EC046
+
+EC207(No change)
+
+MBT15EC049
+
+EC201(No change), EC203(B+)
+
+MBT15EC052
+
+EC207(C), EC205(B)
+
+MBT15EC055
+
+EC201(No change), EC207(No change), MA201(No change), EC203(No change)
+
+MBT15EC056
+
+EC207(No change)
+
+MBT15EC058
+
+EC207(No change), EC205(No change)
+
+MBT15EC059
+
+EC205(No change), EC201(No change)
+
+MBT15EC060
+
+EC205(No change)
+
+MBT15EC063
+
+EC201(No change), HS200(No change), EC207(No change)
+
+MBT15EC066
+
+EC201(No change), EC207(No change)
+
+MBT15EC067
+
+EC207(No change)
+
+MBT15EC069
+
+MA201(A+), EC205(B), EC203(No change)
+
+MBT15EC083
+
+MA201(No change)
+
+MBT15EC084
+
+EC207(No change)
+
+MBT15EC086
+
+MA201(C), EC207(No change), EC205(No change), HS200(No change)
+
+MBT15EC087
+
+MA201(No change), EC207(No change)
+
+MBT15EC088
+
+EC207(No change), EC205(No change)
+
+MBT15EC091
+
+EC203(No change), EC207(No change), MA201(No change), EC205(No change)
+
+MBT15EC093
+
+EC201(No change), EC205(No change), EC203(P), EC207(No change)
+
+MBT15EC094
+
+EC205(No change)
+
+MBT15EC095
+
+EC205(C), MA201(No change)
+
+MBT15EC099
+
+EC205(B+), EC203(A+), HS200(No change), MA201(No change)
+
+MBT15EC104
+
+EC207(No change)
+
+MBT15EC105
+
+EC201(No change), EC207(No change), EC205(No change)
+
+MBT15EC107
+
+EC205(No change), EC203(No change), EC207(No change), EC201(No change)
+
+ELECTRICAL AND ELECTRONICS ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+EE201
+
+EE203
+
+EE205
+
+EE207
+
+HS210
+
+EE231
+
+EE233
+
+CIRCUITS AND NETWORKS
+
+ANALOG ELECTRONIC CIRCUITS
+
+DC MACHINES AND TRANSFORMERS
+
+COMPUTER PROGRAMMING
+
+LIFE SKILLS
+
+ELECTRONIC CIRCUITS LAB
+
+PROGRAMMING LAB
+
+Register No
+
+Course Code (Grade)
+
+MBT15EE002
+
+EE203(No change)
+
+MBT15EE004
+
+EE201(No change), EE203(No change)
+
+MBT15EE008
+
+EE201(No change)
+
+MBT15EE011
+
+EE201(No change)
+
+MBT15EE012
+
+EE201(No change)
+
+MBT15EE014
+
+EE205(No change), MA201(C)
+
+MBT15EE015
+
+EE205(No change)
+
+MBT15EE016
+
+EE201(TBP*)
+
+MBT15EE018
+
+EE203(No change), EE201(No change)
+
+MBT15EE022
+
+EE201(No change), EE205(No change), EE203(No change)
+
+MBT15EE027
+
+EE201(C)
+
+MBT15EE034
+
+EE205(No change)
+
+MBT15EE035
+
+EE205(No change)
+
+MBT15EE037
+
+EE201(No change), EE205(No change), EE203(No change)
+
+MBT15EE038
+
+EE201(No change)
+
+MBT15EE044
+
+EE201(No change)
+
+MBT15EE049
+
+EE201(No change)
+
+MBT15EE051
+
+EE203(No change), EE205(No change)
+
+MBT15EE056
+
+EE207(No change), EE205(No change)
+
+MBT15EE063
+
+EE201(B)
+
+MBT15EE069
+
+EE203(No change)
+
+MBT15EE072
+
+EE201(No change)
+
+MBT15EE075
+
+EE203(No change)
+
+MBT15EE079
+
+EE205(No change), EE207(No change)
+
+MBT15EE083
+
+EE205(No change)
+
+MBT15EE084
+
+EE205(No change), MA201(No change)
+
+MBT15EE089
+
+EE203(No change), EE201(No change), EE205(No change)
+
+MBT15EE093
+
+EE205(No change)
+
+MBT15EE098
+
+EE201(No change)
+
+MBT15EE099
+
+EE205(No change)
+
+MBT15EE104
+
+EE207(No change)
+
+MECHANICAL ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+ME201
+
+ME203
+
+ME205
+
+ME210
+
+HS200
+
+ME231
+
+CE230
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+MECHANICS OF SOLIDS
+
+MECHANICS OF FLUIDS
+
+THERMODYNAMICS
+
+METALLURGY AND MATERIALS ENGINEERING
+
+BUSINESS ECONOMICS
+
+COMPUTER AIDED MACHINE DRAWING LAB
+
+MATERIAL TESTING LAB
+
+Register No
+
+Course Code (Grade)
+
+MBT15ME008
+
+HS200(No change), ME203(No change), MA201(No change)
+
+MBT15ME017
+
+HS200(No change), ME203(No change)
+
+MBT15ME018
+
+ME205(C)
+
+MBT15ME021
+
+ME201(No change), ME205(No change), ME203(No change)
+
+MBT15ME025
+
+ME201(No change), HS200(No change)
+
+MBT15ME034
+
+MA201(No change)
+
+MBT15ME036
+
+ME201(No change), ME203(A)
+
+MBT15ME037
+
+ME203(No change), ME210(No change)
+
+MBT15ME039
+
+ME201(No change), ME203(No change)
+
+MBT15ME040
+
+ME203(No change), MA201(C), HS200(C)
+
+MBT15ME041
+
+ME203(No change)
+
+MBT15ME045
+
+ME201(No change), MA201(No change), ME205(No change)
+
+MBT15ME046
+
+ME203(No change)
+
+MBT15ME047
+
+ME203(C)
+
+MBT15ME049
+
+MA201(C), ME203(No change)
+
+MBT15ME050
+
+MA201(No change), ME203(No change)
+
+MBT15ME052
+
+ME203(No change)
+
+MBT15ME056
+
+ME203(C), ME205(No change)
+
+MBT15ME057
+
+ME205(P), ME203(No change)
+
+MBT15ME058
+
+ME210(No change), ME203(C)
+
+MBT15ME059
+
+ME203(No change)
+
+MBT15ME063
+
+MA201(No change), ME205(No change), ME203(No change), ME210(No change)
+
+MBT15ME064
+
+ME210(No change), HS200(No change)
+
+MBT15ME067
+
+ME203(No change)
+
+MBT15ME068
+
+ME203(C), HS200(No change)
+
+MBT15ME069
+
+ME210(No change)
+
+MBT15ME072
+
+ME203(C)
+
+MBT15ME073
+
+ME201(No change), ME203(No change)
+
+MBT15ME074
+
+MA201(B+)
+
+MBT15ME075
+
+ME203(P), ME205(C)
+
+MBT15ME077
+
+ME205(No change)
+
+MBT15ME078
+
+MA201(B)
+
+MBT15ME079
+
+ME205(No change), HS200(No change), ME203(No change), ME210(No change)
+
+MBT15ME080
+
+ME205(P), ME203(C)
+
+MBT15ME090
+
+ME201(No change), HS200(No change)
+
+MBT15ME092
+
+ME210(No change), MA201(No change), HS200(P)
+
+MBT15ME093
+
+ME203(No change), ME201(P)
+
+MBT15ME095
+
+ME203(No change)
+
+MBT15ME100
+
+ME201(No change)
+
+MBT15ME101
+
+ME201(C), ME210(No change)
+
+MBT15ME103
+
+ME203(No change), ME201(No change)
+
+MBT15ME104
+
+ME201(No change), HS200(No change), ME203(No change)
+
+MBT15ME105
+
+ME201(No change), HS200(No change)
+
+MBT15ME106
+
+MA201(No change), ME210(No change)
+
+MBT15ME109
+
+ME203(No change)
+
+MBT15ME110
+
+ME201(C), ME205(No change), ME203(No change)
+
+MBT15ME116
+
+MA201(No change), ME203(No change), ME210(No change), ME201(No change), ME205(No
+change)
+
+MBT15ME120
+
+ME203(A), MA201(A)
+
+MBT15ME122
+
+ME203(No change)
+
+MBT15ME123
+
+ME205(C)
+
+26/10/2017
+
+Controller of Examinations
+
+

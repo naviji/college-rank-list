@@ -1,0 +1,144 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: YOUNUS INSTITUTE OF TECHNOLOGY
+
+CIVIL ENGINEERING
+
+YCK15CE002
+Nochange grade for MA201
+
+YCK15CE003
+Nochange grade for CE201
+
+YCK15CE009
+Nochange grade for MA201
+Nochange grade for CE207
+Nochange grade for CE201
+
+YCK15CE010
+Nochange grade for CE201
+
+YCK15CE011
+Nochange grade for MA201
+
+MECHANICAL ENGINEERING
+
+LYCK15ME052
+Nochange grade for MA201
+TBP* grade for ME203
+
+TEC15ME005
+Nochange grade for ME203
+
+TEC15ME006
+Nochange grade for ME210
+
+TEC15ME020
+B grade for MA201
+C grade for ME210
+
+TEC15ME029
+Nochange grade for ME205
+
+TEC15ME037
+Nochange grade for ME210
+
+TEC15ME057
+Nochange grade for ME205
+B grade for HS200
+
+TEC15ME071
+Nochange grade for ME203
+
+TEC15ME076
+Nochange grade for ME210
+Nochange grade for MA201
+Nochange grade for HS200
+
+YCK15ME003
+TBP* grade for ME203
+
+YCK15ME011
+TBP* grade for ME203
+TBP* grade for ME205
+
+YCK15ME017
+TBP* grade for ME201
+
+YCK15ME018
+TBP* grade for ME205
+
+YCK15ME019
+TBP* grade for ME201
+Nochange grade for MA201
+
+YCK15ME020
+TBP* grade for ME203
+
+YCK15ME021
+TBP* grade for ME201
+TBP* grade for ME205
+
+YCK15ME022
+TBP* grade for ME201
+Nochange grade for ME205
+TBP* grade for ME203
+Nochange grade for ME210
+
+YCK15ME025
+TBP* grade for ME203
+P grade for HS200
+Nochange grade for ME210
+
+YCK15ME026
+Nochange grade for ME205
+TBP* grade for ME201
+Nochange grade for HS200
+
+YCK15ME030
+TBP* grade for ME203
+TBP* grade for ME201
+Nochange grade for ME205
+
+YCK15ME032
+TBP* grade for ME201
+
+YCK15ME036
+TBP* grade for ME203
+Nochange grade for ME205
+
+YCK15ME038
+TBP* grade for ME203
+Nochange grade for HS200
+
+YCK15ME040
+TBP* grade for ME203
+Nochange grade for HS200
+
+YCK15ME041
+Nochange grade for HS200
+TBP* grade for ME203
+
+YCK15ME044
+TBP* grade for ME203
+
+YCK15ME045
+TBP* grade for ME201
+Nochange grade for ME205
+
+YCK15ME046
+TBP* grade for ME203
+TBP* grade for ME201
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+YCK15EE009
+C grade for EE201
+Nochange grade for EE203
+
+YCK15EE010
+C grade for MA201
+Nochange grade for EE203
+
+ELECTRONICS & COMMUNICATION ENGG
+
+YCK15EC001
+C grade for EC207

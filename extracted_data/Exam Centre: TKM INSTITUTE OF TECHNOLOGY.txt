@@ -1,0 +1,262 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: TKM INSTITUTE OF TECHNOLOGY
+
+COMPUTER SCIENCE & ENGINEERING
+
+TKI15CS012
+Nochange grade for CS201
+
+TKI15CS015
+Nochange grade for CS201
+Nochange grade for HS200
+
+TKI15CS016
+Nochange grade for CS205
+Nochange grade for CS201
+
+TKI15CS023
+Nochange grade for CS201
+
+TKI15CS025
+Nochange grade for CS205
+Nochange grade for MA201
+Nochange grade for CS207
+
+TKI15CS026
+Nochange grade for CS201
+
+TKI15CS027
+Nochange grade for CS205
+Nochange grade for CS201
+
+TKI15CS028
+Nochange grade for CS205
+
+TKI15CS032
+Nochange grade for CS205
+B grade for CS201
+
+ELECTRONICS & COMMUNICATION ENGG
+
+TKI15EC001
+TBP* grade for EC205
+Nochange grade for EC207
+
+TKI15EC003
+TBP* grade for EC205
+Nochange grade for EC201
+
+TKI15EC004
+Nochange grade for EC203
+C grade for EC207
+
+TKI15EC007
+Nochange grade for MA201
+Nochange grade for EC207
+Nochange grade for EC203
+
+TKI15EC008
+TBP* grade for EC205
+C grade for EC207
+
+TKI15EC010
+Nochange grade for MA201
+TBP* grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+TKI15EE010
+TBP* grade for EE207
+
+TKI15EE016
+Nochange grade for EE205
+
+MECHANICAL ENGINEERING
+
+TKI15ME016
+Nochange grade for MA201
+
+TKI15ME017
+Nochange grade for ME203
+
+TKI15ME023
+Nochange grade for ME203
+Nochange grade for MA201
+Nochange grade for ME205
+
+TKI15ME031
+Nochange grade for MA201
+Nochange grade for ME205
+
+TKI15ME032
+Nochange grade for ME205
+
+TKI15ME034
+Nochange grade for ME205
+
+TKI15ME035
+TBP* grade for ME201
+Nochange grade for HS200
+Nochange grade for ME203
+
+TKI15ME037
+Nochange grade for ME203
+
+TKI15ME042
+Nochange grade for ME210
+
+TKI15ME044
+Nochange grade for HS200
+Nochange grade for ME205
+TBP* grade for ME201
+
+TKI15ME045
+Nochange grade for ME205
+
+TKI15ME053
+Nochange grade for ME205
+TBP* grade for ME201
+
+TKI15ME054
+Nochange grade for ME205
+Nochange grade for ME203
+
+TKI15ME055
+Nochange grade for ME205
+
+TKI15ME057
+Nochange grade for ME205
+
+TKI15ME058
+Nochange grade for ME201
+Nochange grade for ME205
+Nochange grade for ME203
+
+TKI15ME062
+Nochange grade for ME210
+Nochange grade for MA201
+
+FOOD TECHNOLOGY
+
+TKI15FT003
+TBP* grade for FT205
+
+TKI15FT012
+TBP* grade for FT207
+
+TKI15FT018
+TBP* grade for FT201
+TBP* grade for FT205
+Nochange grade for MA201
+TBP* grade for FT203
+
+TKI15FT029
+TBP* grade for FT201
+TBP* grade for FT203
+
+TKI15FT030
+TBP* grade for FT207
+
+TKI15FT037
+TBP* grade for FT203
+TBP* grade for FT207
+
+TKI15FT040
+Nochange grade for MA201
+
+TKI15FT041
+Nochange grade for MA201
+Nochange grade for HS210
+
+TKI15FT045
+TBP* grade for FT205
+
+TKI15FT053
+TBP* grade for FT205
+
+TKI15FT055
+Nochange grade for MA201
+TBP* grade for FT205
+
+TKI15FT062
+TBP* grade for FT201
+TBP* grade for FT207
+TBP* grade for FT203
+
+TKI15FT063
+Nochange grade for MA201
+
+TKI15BM003
+C grade for BM207
+Nochange grade for BM203
+
+TKI15BM005
+Nochange grade for BM203
+
+TKI15BM010
+Nochange grade for BM203
+Nochange grade for BM207
+
+TKI15BM015
+Nochange grade for BM203
+
+TKI15BM016
+Nochange grade for BM203
+
+TKI15BM035
+Nochange grade for MA201
+
+TKI15BM040
+Nochange grade for BM203
+TBP* grade for IC207
+
+TKI15BM042
+Nochange grade for BM203
+C grade for BM201
+
+TKI15BM046
+Nochange grade for BM203
+
+TKI15BM056
+TBP* grade for IC207
+C grade for BM207
+
+TKI15BM058
+Nochange grade for BM203
+
+TKI15BM061
+TBP* grade for IC207
+
+TKI15BM062
+Nochange grade for MA201
+Nochange grade for BM207
+Nochange grade for BM203
+TBP* grade for IC207
+
+CIVIL ENGINEERING
+
+TKI15CE002
+Nochange grade for HS200
+Nochange grade for MA201
+
+TKI15CE006
+Nochange grade for MA201
+
+TKI15CE021
+C grade for CE207
+Nochange grade for CE205
+
+TKI15CE025
+Nochange grade for MA201
+Nochange grade for CE205
+
+TKI15CE053
+B grade for CE205
+
+TKI15CE057
+TBP* grade for CE201
+Nochange grade for CE203
+
+TKI15CE060
+Nochange grade for CE207

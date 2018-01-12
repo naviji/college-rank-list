@@ -1,0 +1,774 @@
+APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY
+
+Thiruvananthapuram, Kerala, INDIA
+
+Exam Centre: LOURDES MATHA COLLEGE OF SCIENCE AND TECHNOLOGY
+
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result)
+
+*TBP -To Be Published Soon
+
+ELECTRONICS & COMMUNICATION ENGG[Full Time]
+
+Course Code
+
+Course
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+NETWORK THEORY
+
+SOLID STATE DEVICES
+
+ELECTRONIC CIRCUITS
+
+LOGIC CIRCUIT DESIGN
+
+LIFE SKILLS
+
+ELECTRONIC DEVICES & CIRCUITS LAB
+
+ELECTRONIC DESIGN AUTOMATION LAB
+
+MA201
+
+EC201
+
+EC203
+
+EC205
+
+EC207
+
+HS210
+
+EC231
+
+EC233
+
+Register No
+
+Course Code (Grade)
+
+LLMC15EC026
+
+HS210(B)
+
+LMC15EC004
+
+EC203(No change), HS210(No change)
+
+LMC15EC007
+
+EC205(No change), EC203(No change)
+
+LMC15EC010
+
+EC205(No change)
+
+LMC15EC011
+
+EC201(No change), EC207(No change)
+
+LMC15EC017
+
+EC205(No change)
+
+LMC15EC021
+
+HS210(B)
+
+LMC15EC023
+
+EC203(No change)
+
+ELECTRICAL AND ELECTRONICS ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+CIRCUITS AND NETWORKS
+
+ANALOG ELECTRONIC CIRCUITS
+
+DC MACHINES AND TRANSFORMERS
+
+COMPUTER PROGRAMMING
+
+BUSINESS ECONOMICS
+
+ELECTRONIC CIRCUITS LAB
+
+PROGRAMMING LAB
+
+MA201
+
+EE201
+
+EE203
+
+EE205
+
+EE207
+
+HS200
+
+EE231
+
+EE233
+
+Register No
+
+Course Code (Grade)
+
+LMC15EE002
+
+EE203(No change)
+
+LMC15EE003
+
+EE205(No change)
+
+LMC15EE004
+
+MA201(No change), HS200(C), EE205(No change)
+
+LMC15EE005
+
+EE205(No change)
+
+LMC15EE006
+
+EE205(No change), EE201(No change)
+
+LMC15EE007
+
+MA201(No change), EE205(No change)
+
+LMC15EE008
+
+EE203(No change)
+
+LMC15EE013
+
+EE205(No change)
+
+LMC15EE018
+
+HS200(No change)
+
+LMC15EE024
+
+EE203(No change), EE201(C)
+
+LMC15EE028
+
+EE201(C)
+
+COMPUTER SCIENCE & ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+CS201
+
+CS203
+
+CS205
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+DISCRETE COMPUTATIONAL STRUCTURES
+
+SWITCHING THEORY AND LOGIC DESIGN
+
+DATA STRUCTURES
+
+CS207
+
+HS210
+
+CS231
+
+CS233
+
+ELECTRONICS DEVICES & CIRCUITS
+
+LIFE SKILLS
+
+DATA STRUCTURES LAB
+
+ELECTRONICS CIRCUITS LAB
+
+Register No
+
+Course Code (Grade)
+
+LLMC15CS072
+
+CS207(No change)
+
+LLMC15CS074
+
+CS203(No change), CS207(C)
+
+LMC15CS003
+
+CS207(No change)
+
+LMC15CS005
+
+CS205(No change)
+
+LMC15CS006
+
+CS205(No change), CS203(No change), CS207(No change)
+
+LMC15CS008
+
+CS203(No change), HS210(No change), CS205(No change)
+
+LMC15CS009
+
+CS207(No change), CS203(No change)
+
+LMC15CS012
+
+CS207(No change), CS201(No change)
+
+LMC15CS013
+
+CS203(No change), HS210(No change), CS207(No change)
+
+LMC15CS014
+
+CS203(No change), HS210(No change), MA201(No change), CS207(No change)
+
+LMC15CS015
+
+HS210(B), CS207(No change)
+
+LMC15CS021
+
+CS205(No change), HS210(No change)
+
+LMC15CS022
+
+CS201(No change), HS210(No change), CS203(No change)
+
+LMC15CS024
+
+CS205(No change), CS203(No change)
+
+LMC15CS026
+
+CS207(No change)
+
+LMC15CS028
+
+HS210(No change), CS205(No change), CS203(No change)
+
+LMC15CS031
+
+CS203(No change), HS210(B)
+
+LMC15CS033
+
+HS210(No change)
+
+LMC15CS034
+
+HS210(B)
+
+LMC15CS035
+
+CS203(No change)
+
+LMC15CS036
+
+CS203(No change)
+
+LMC15CS038
+
+CS205(B+)
+
+LMC15CS039
+
+CS205(No change)
+
+LMC15CS041
+
+CS205(No change)
+
+LMC15CS044
+
+CS207(No change), CS201(B)
+
+LMC15CS046
+
+CS205(B+), CS203(No change), CS201(No change)
+
+LMC15CS047
+
+CS203(No change)
+
+LMC15CS050
+
+CS203(No change)
+
+LMC15CS051
+
+CS207(No change)
+
+LMC15CS052
+
+CS201(No change), CS207(A), CS203(B+)
+
+LMC15CS054
+
+HS210(B)
+
+LMC15CS056
+
+CS203(No change), CS201(No change), CS205(No change)
+
+LMC15CS058
+
+HS210(No change)
+
+LMC15CS061
+
+CS207(No change)
+
+LMC15CS062
+
+CS203(No change), CS205(No change)
+
+LMC15CS063
+
+CS201(No change), CS205(No change)
+
+LMC15CS064
+
+CS203(No change), CS207(No change)
+
+LMC15CS067
+
+CS203(No change), CS207(No change)
+
+LMC15CS070
+
+CS207(No change)
+
+LMC15CS071
+
+HS210(No change)
+
+CIVIL ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+MA201
+
+CE201
+
+CE203
+
+CE205
+
+CE207
+
+HS210
+
+CE231
+
+CE233
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+MECHANICS OF SOLIDS
+
+FLUID MECHANICS I
+
+ENGINEERING GEOLOGY
+
+SURVEYING
+
+LIFE SKILLS
+
+CIVIL ENGINEERING DRAFTING LAB
+
+SURVEYING LAB
+
+Register No
+
+Course Code (Grade)
+
+LMC15CE003
+
+HS210(No change), CE201(No change)
+
+LMC15CE004
+
+CE203(No change)
+
+LMC15CE006
+
+HS210(No change)
+
+LMC15CE008
+
+HS210(No change)
+
+LMC15CE010
+
+CE203(No change)
+
+LMC15CE016
+
+CE203(No change), CE201(No change)
+
+LMC15CE017
+
+HS210(No change)
+
+LMC15CE027
+
+CE201(No change)
+
+LMC15CE029
+
+CE201(No change)
+
+LMC15CE040
+
+HS210(No change)
+
+LMC15CE049
+
+CE203(No change)
+
+LMC15CE054
+
+HS210(No change), CE201(No change)
+
+MECHANICAL ENGINEERING[Full Time]
+
+Course Code
+
+Course
+
+LINEAR ALGEBRA & COMPLEX ANALYSIS
+
+MECHANICS OF SOLIDS
+
+MECHANICS OF FLUIDS
+
+THERMODYNAMICS
+
+METALLURGY AND MATERIALS ENGINEERING
+
+BUSINESS ECONOMICS
+
+COMPUTER AIDED MACHINE DRAWING LAB
+
+MATERIAL TESTING LAB
+
+MA201
+
+ME201
+
+ME203
+
+ME205
+
+ME210
+
+HS200
+
+ME231
+
+CE230
+
+Register No
+
+Course Code (Grade)
+
+LLMC15ME102
+
+ME205(B)
+
+LLMC15ME103
+
+ME201(No change), HS200(No change), ME205(C)
+
+LMC15ME002
+
+MA201(No change), ME205(No change), HS200(No change), ME201(No change), ME210(No
+change)
+
+LMC15ME003
+
+ME201(No change), ME210(B)
+
+LMC15ME007
+
+ME203(No change), ME210(No change)
+
+LMC15ME008
+
+HS200(No change), ME210(No change)
+
+LMC15ME009
+
+ME205(C), ME201(No change)
+
+LMC15ME011
+
+ME201(No change), ME210(A)
+
+LMC15ME013
+
+ME210(C)
+
+LMC15ME017
+
+HS200(No change), ME203(No change)
+
+LMC15ME018
+
+ME205(No change)
+
+LMC15ME021
+
+ME210(No change)
+
+LMC15ME022
+
+MA201(No change), ME201(No change)
+
+LMC15ME023
+
+ME201(No change), HS200(No change), ME205(C)
+
+LMC15ME024
+
+ME201(No change)
+
+LMC15ME026
+
+ME205(A), ME203(No change), ME210(No change)
+
+LMC15ME029
+
+HS200(No change), ME205(No change)
+
+LMC15ME030
+
+HS200(No change), ME205(B)
+
+LMC15ME031
+
+HS200(No change), ME210(P)
+
+LMC15ME032
+
+ME205(B)
+
+LMC15ME033
+
+ME201(No change)
+
+LMC15ME034
+
+ME205(B), ME201(No change)
+
+LMC15ME035
+
+ME205(C), ME201(No change)
+
+LMC15ME036
+
+ME201(No change), ME210(No change), ME205(No change), HS200(No change)
+
+LMC15ME037
+
+HS200(No change)
+
+LMC15ME038
+
+HS200(No change)
+
+LMC15ME039
+
+ME201(No change), ME205(No change)
+
+LMC15ME041
+
+HS200(C), ME205(No change), ME201(No change)
+
+LMC15ME042
+
+ME201(No change)
+
+LMC15ME044
+
+ME201(No change), ME210(B+)
+
+LMC15ME046
+
+ME205(No change), ME203(No change), ME210(P)
+
+LMC15ME047
+
+ME203(No change), ME201(No change), ME210(No change)
+
+LMC15ME048
+
+ME210(No change), HS200(No change)
+
+LMC15ME050
+
+ME201(No change)
+
+LMC15ME052
+
+ME203(No change), HS200(B)
+
+LMC15ME053
+
+ME210(No change), ME203(No change), HS200(No change)
+
+LMC15ME054
+
+ME203(No change), ME210(No change)
+
+LMC15ME057
+
+ME201(No change), ME205(No change)
+
+LMC15ME058
+
+HS200(No change)
+
+LMC15ME059
+
+HS200(No change), ME205(B), ME201(No change)
+
+LMC15ME062
+
+ME201(No change)
+
+LMC15ME065
+
+HS200(No change), ME205(C)
+
+LMC15ME066
+
+ME201(No change), ME205(C)
+
+LMC15ME069
+
+ME201(No change), ME205(No change)
+
+LMC15ME070
+
+ME203(No change)
+
+LMC15ME071
+
+HS200(No change)
+
+LMC15ME074
+
+HS200(C), ME210(No change)
+
+LMC15ME078
+
+ME210(No change)
+
+LMC15ME079
+
+ME210(No change), ME205(No change)
+
+LMC15ME080
+
+ME205(B)
+
+LMC15ME081
+
+HS200(B+)
+
+LMC15ME082
+
+HS200(No change)
+
+LMC15ME083
+
+ME210(No change)
+
+LMC15ME085
+
+ME205(No change), ME210(No change)
+
+LMC15ME087
+
+MA201(No change), ME201(No change)
+
+LMC15ME088
+
+MA201(No change), HS200(No change), ME203(No change)
+
+LMC15ME089
+
+ME201(No change), ME210(No change)
+
+LMC15ME090
+
+MA201(A)
+
+LMC15ME091
+
+ME203(No change)
+
+LMC15ME092
+
+ME203(No change), HS200(No change), ME210(No change)
+
+LMC15ME093
+
+ME210(C)
+
+LMC15ME094
+
+ME210(C)
+
+LMC15ME096
+
+ME203(No change), HS200(B)
+
+LMC15ME098
+
+ME210(C)
+
+LMC15ME100
+
+HS200(No change)
+
+LMC15ME101
+
+ME201(No change), ME210(No change), ME205(C), HS200(C)
+
+26/10/2017
+
+Controller of Examinations
+
+

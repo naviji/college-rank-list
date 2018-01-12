@@ -1,0 +1,279 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: UKF COLLEGE OF ENGINEERING & TECHNOLOGY
+
+MECHANICAL ENGINEERING
+
+UKP15ME020
+P grade for ME201
+
+UKP15ME024
+Nochange grade for ME210
+
+UKP15ME030
+Nochange grade for ME203
+Nochange grade for ME201
+
+UKP15ME036
+Nochange grade for ME210
+Nochange grade for ME205
+
+UKP15ME056
+C grade for MA201
+Nochange grade for ME205
+Nochange grade for ME201
+
+UKP15ME057
+Nochange grade for ME205
+
+UKP15ME061
+B grade for MA201
+
+CIVIL ENGINEERING
+
+UKP15CE005
+Nochange grade for CE205
+
+UKP15CE009
+P grade for CE201
+Nochange grade for CE207
+
+UKP15CE011
+Nochange grade for MA201
+Nochange grade for CE201
+
+UKP15CE014
+P grade for MA201
+Nochange grade for CE207
+
+UKP15CE016
+B grade for CE201
+
+UKP15CE019
+Nochange grade for CE205
+
+UKP15CE023
+B+ grade for CE205
+Nochange grade for CE207
+
+UKP15CE026
+Nochange grade for CE205
+
+UKP15CE028
+B+ grade for CE201
+Nochange grade for MA201
+
+UKP15CE029
+Nochange grade for CE205
+Nochange grade for CE207
+
+UKP15CE030
+Nochange grade for CE205
+
+UKP15CE031
+Nochange grade for CE205
+Nochange grade for CE203
+
+UKP15CE034
+Nochange grade for CE205
+
+UKP15CE036
+Nochange grade for CE201
+Nochange grade for CE207
+
+UKP15CE037
+C grade for CE203
+
+UKP15CE038
+Nochange grade for CE203
+Nochange grade for MA201
+Nochange grade for CE207
+
+UKP15CE040
+C grade for CE201
+
+UKP15CE042
+Nochange grade for CE203
+
+UKP15CE044
+Nochange grade for CE205
+
+UKP15CE045
+C grade for CE201
+
+UKP15CE048
+Nochange grade for CE205
+Nochange grade for CE203
+
+UKP15CE049
+Nochange grade for CE207
+Nochange grade for CE201
+
+UKP15CE050
+Nochange grade for CE205
+
+UKP15CE051
+Nochange grade for CE205
+
+UKP15CE053
+Nochange grade for CE203
+Nochange grade for CE207
+
+UKP15CE057
+Nochange grade for CE203
+Nochange grade for CE207
+
+UKP15CE060
+Nochange grade for CE203
+Nochange grade for CE205
+
+UKP15CE061
+Nochange grade for CE205
+
+COMPUTER SCIENCE & ENGINEERING
+
+UKP15CS006
+C grade for CS201
+
+UKP15CS010
+B grade for CS201
+B grade for CS205
+
+UKP15CS014
+Nochange grade for CS207
+
+UKP15CS020
+B grade for CS207
+
+UKP15CS033
+B grade for CS203
+
+UKP15CS037
+C grade for MA201
+
+UKP15CS042
+Nochange grade for CS201
+
+UKP15CS044
+Nochange grade for CS201
+C grade for CS207
+
+UKP15CS046
+B grade for CS203
+
+UKP15CS049
+Nochange grade for CS201
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+UKP15EE001
+Nochange grade for EE205
+Nochange grade for EE207
+
+UKP15EE003
+Nochange grade for EE203
+Nochange grade for EE207
+Nochange grade for EE201
+Nochange grade for EE205
+
+UKP15EE005
+Nochange grade for EE205
+
+UKP15EE014
+Nochange grade for EE207
+
+UKP15EE016
+Nochange grade for EE207
+
+UKP15EE017
+Nochange grade for EE201
+Nochange grade for EE207
+C grade for EE205
+
+UKP15EE018
+Nochange grade for EE201
+Nochange grade for EE203
+
+UKP15EE021
+Nochange grade for EE201
+
+UKP15EE022
+C grade for EE205
+Nochange grade for EE203
+
+UKP15EE023
+Nochange grade for EE203
+
+UKP15EE025
+Nochange grade for EE201
+
+UKP15EE027
+Nochange grade for EE205
+Nochange grade for EE207
+
+UKP15EE029
+Nochange grade for EE207
+
+UKP15EE033
+Nochange grade for MA201
+Nochange grade for EE207
+
+UKP15EE036
+Nochange grade for EE205
+Nochange grade for EE207
+
+UKP15EE037
+Nochange grade for EE201
+
+UKP15EE038
+C grade for MA201
+Nochange grade for EE203
+Nochange grade for EE201
+
+UKP15EE041
+B+ grade for MA201
+Nochange grade for EE205
+Nochange grade for EE201
+
+ELECTRONICS & COMMUNICATION ENGG
+
+UKP15EC001
+B grade for EC203
+TBP* grade for EC207
+
+UKP15EC002
+TBP* grade for EC207
+
+UKP15EC003
+Nochange grade for EC203
+
+UKP15EC005
+TBP* grade for EC207
+
+UKP15EC011
+C grade for EC203
+
+UKP15EC012
+TBP* grade for EC207
+
+UKP15EC013
+C grade for EC203
+C grade for MA201
+
+UKP15EC014
+Nochange grade for EC203
+TBP* grade for EC207
+
+UKP15EC017
+Nochange grade for HS200
+
+UKP15EC018
+Nochange grade for EC205
+Nochange grade for EC201
+
+UKP15EC025
+Nochange grade for EC203
+Nochange grade for HS200
+TBP* grade for EC207
+
+UKP15EC026
+C grade for EC203
+TBP* grade for EC207

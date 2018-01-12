@@ -1,0 +1,106 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: COLLEGE OF ENGINEERING, PATHANAPURAM
+
+CIVIL ENGINEERING
+
+MCK15CE003
+Nochange grade for CE207
+
+PEC15CE005
+Nochange grade for CE205
+
+PEC15CE008
+B grade for CE203
+
+PEC15CE015
+Nochange grade for CE205
+
+PEC15CE021
+Nochange grade for CE207
+
+PEC15CE022
+Nochange grade for CE203
+
+PEC15CE027
+Nochange grade for CE205
+
+PEC15CE029
+Nochange grade for CE205
+
+PEC15CE042
+Nochange grade for CE207
+
+PEC15CE048
+Nochange grade for CE205
+Nochange grade for CE203
+
+PEC15CE051
+Nochange grade for CE201
+
+PEC15CE056
+Nochange grade for CE203
+
+PNC15CE010
+Nochange grade for CE207
+Nochange grade for CE205
+
+COMPUTER SCIENCE & ENGINEERING
+
+PEC15CS007
+Nochange grade for HS200
+
+PEC15CS011
+Nochange grade for MA201
+Nochange grade for HS200
+
+PEC15CS022
+Nochange grade for CS207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+PEC15EC001
+Nochange grade for MA201
+
+PEC15EC002
+Nochange grade for EC207
+Nochange grade for EC205
+
+PEC15EC004
+C grade for EC203
+
+PEC15EC005
+Nochange grade for EC201
+Nochange grade for EC205
+Nochange grade for EC203
+Nochange grade for EC207
+
+PEC15EC008
+C grade for EC203
+C grade for EC205
+
+PEC15EC009
+P grade for EC205
+
+PEC15EC012
+Nochange grade for EC207
+
+PEC15EC016
+Nochange grade for EC203
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+PEC15EE007
+Nochange grade for EE205
+C grade for MA201
+
+PEC15EE010
+B grade for EE203
+B grade for MA201
+
+PEC15EE018
+C grade for EE203
+
+PEC15EE022
+Nochange grade for EE207
+
+PEC15EE027
+B grade for EE203

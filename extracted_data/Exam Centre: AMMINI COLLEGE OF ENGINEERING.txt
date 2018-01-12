@@ -1,0 +1,350 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: AMMINI COLLEGE OF ENGINEERING
+
+CIVIL ENGINEERING
+
+AME15CE003
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE205
+
+AME15CE010
+C grade for CE207
+
+AME15CE011
+Nochange grade for CE207
+Nochange grade for CE205
+Nochange grade for HS210
+
+AME15CE012
+Nochange grade for MA201
+Nochange grade for CE207
+Nochange grade for CE205
+
+AME15CE024
+Nochange grade for CE205
+
+AME15CE025
+Nochange grade for CE205
+C grade for CE207
+
+AME15CE028
+Nochange grade for CE207
+
+AME15CE031
+Nochange grade for CE205
+
+AME15CE032
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE205
+
+AME15CE033
+Nochange grade for CE205
+Nochange grade for CE203
+Nochange grade for CE207
+
+AME15CE037
+Nochange grade for CE205
+Nochange grade for CE207
+
+AME15CE041
+Nochange grade for CE203
+P grade for CE207
+Nochange grade for CE205
+
+AME15CE042
+Nochange grade for CE203
+
+AME15CE044
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE201
+Nochange grade for CE205
+
+MECHANICAL ENGINEERING
+
+AME15ME003
+Nochange grade for ME205
+
+AME15ME006
+Nochange grade for ME203
+Nochange grade for ME205
+
+AME15ME007
+Nochange grade for ME210
+Nochange grade for ME205
+B grade for HS210
+
+AME15ME008
+Nochange grade for ME203
+Nochange grade for ME210
+Nochange grade for ME205
+
+AME15ME012
+Nochange grade for ME201
+P grade for ME203
+
+AME15ME014
+Nochange grade for MA201
+Nochange grade for ME210
+
+AME15ME015
+Nochange grade for ME210
+
+AME15ME016
+Nochange grade for ME205
+
+AME15ME018
+Nochange grade for ME201
+Nochange grade for ME210
+
+AME15ME019
+Nochange grade for ME205
+Nochange grade for ME203
+Nochange grade for ME210
+
+AME15ME025
+Nochange grade for ME210
+
+AME15ME026
+Nochange grade for ME210
+O grade for ME203
+
+AME15ME032
+Nochange grade for ME210
+
+AME15ME033
+Nochange grade for ME210
+
+AME15ME034
+C grade for ME201
+
+AME15ME035
+Nochange grade for ME210
+Nochange grade for HS210
+
+AME15ME042
+C grade for ME201
+Nochange grade for ME205
+B grade for ME203
+Nochange grade for ME210
+
+AME15ME045
+C grade for HS210
+
+AME15ME047
+Nochange grade for ME205
+
+AME15ME050
+C grade for ME203
+Nochange grade for ME210
+
+AME15ME053
+Nochange grade for ME205
+Nochange grade for ME210
+
+AME15ME057
+Nochange grade for ME205
+Nochange grade for ME201
+Nochange grade for ME210
+
+AME15ME058
+Nochange grade for ME210
+
+AME15ME059
+B grade for ME201
+Nochange grade for ME210
+B grade for ME203
+
+AME15ME067
+Nochange grade for ME205
+C grade for ME201
+Nochange grade for ME210
+
+AME15ME069
+Nochange grade for ME203
+
+AME15ME074
+Nochange grade for ME201
+
+AME15ME077
+Nochange grade for ME210
+Nochange grade for ME205
+
+AME15ME079
+Nochange grade for ME203
+Nochange grade for ME210
+
+PCE15ME020
+C grade for ME210
+
+PCE15ME031
+Nochange grade for ME210
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+AME15EE002
+Nochange grade for MA201
+Nochange grade for EE203
+Nochange grade for EE201
+Nochange grade for EE205
+
+AME15EE007
+Nochange grade for EE207
+
+AME15EE008
+Nochange grade for EE205
+Nochange grade for EE207
+
+AME15EE011
+Nochange grade for EE205
+
+AME15EE019
+Nochange grade for EE203
+
+AME15EE024
+Nochange grade for EE205
+
+ELECTRONICS & COMMUNICATION ENGG
+
+AME15EC004
+TBP* grade for EC203
+
+AME15EC005
+TBP* grade for EC203
+Nochange grade for EC201
+C grade for EC207
+
+AME15EC006
+TBP* grade for EC203
+Nochange grade for EC201
+
+AME15EC008
+B grade for EC207
+TBP* grade for EC203
+
+AME15EC009
+TBP* grade for EC203
+
+AME15EC010
+TBP* grade for EC203
+
+AME15EC011
+TBP* grade for EC203
+Nochange grade for EC201
+
+AME15EC014
+TBP* grade for EC203
+
+AME15EC015
+Nochange grade for EC201
+TBP* grade for EC203
+
+AME15EC016
+C grade for EC207
+TBP* grade for EC203
+
+AME15EC017
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC205
+
+AME15EC018
+TBP* grade for EC203
+
+AME15EC019
+TBP* grade for EC203
+Nochange grade for EC207
+
+AME15EC025
+Nochange grade for EC205
+Nochange grade for EC207
+
+AME15EC026
+TBP* grade for EC203
+
+AME15EC027
+Nochange grade for EC201
+Nochange grade for EC207
+TBP* grade for EC203
+
+AME15EC028
+TBP* grade for EC203
+
+AME15EC029
+Nochange grade for MA201
+TBP* grade for EC203
+
+AME15EC030
+Nochange grade for EC203
+
+LAME15EC032
+C grade for EC203
+
+LAME15EC034
+C grade for EC207
+
+LAME15EC035
+Nochange grade for MA201
+Nochange grade for EC203
+
+LAME15EC037
+Nochange grade for EC203
+
+COMPUTER SCIENCE & ENGINEERING
+
+AME15CS001
+Nochange grade for CS207
+
+AME15CS004
+C grade for CS203
+
+AME15CS005
+Nochange grade for CS201
+Nochange grade for CS203
+
+AME15CS006
+Nochange grade for CS201
+
+AME15CS007
+Nochange grade for CS203
+Nochange grade for CS201
+
+AME15CS010
+Nochange grade for CS201
+B grade for CS203
+
+AME15CS012
+Nochange grade for CS205
+
+AME15CS015
+Nochange grade for CS201
+Nochange grade for CS203
+
+AME15CS016
+A grade for CS205
+Nochange grade for CS201
+
+AME15CS018
+Nochange grade for CS201
+Nochange grade for CS203
+
+AME15CS022
+Nochange grade for CS207
+Nochange grade for CS201
+
+AME15CS023
+Nochange grade for CS207
+
+AME15CS024
+C grade for CS201
+
+AME15CS037
+A+ grade for MA201
+A grade for CS205
+
+LAME15CS041
+C grade for CS201
+
+LAME15CS043
+Nochange grade for HS200

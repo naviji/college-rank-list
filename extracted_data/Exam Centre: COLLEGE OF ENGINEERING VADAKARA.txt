@@ -1,0 +1,300 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: COLLEGE OF ENGINEERING VADAKARA
+
+CIVIL ENGINEERING
+
+VDA15CE014
+Nochange grade for CE201
+TBP* grade for CE207
+
+VDA15CE024
+C grade for CE201
+
+VDA15CE028
+TBP* grade for CE207
+
+VDA15CE030
+Nochange grade for CE201
+TBP* grade for CE207
+
+VDA15CE043
+Nochange grade for CE205
+
+VDA15CE045
+TBP* grade for CE207
+Nochange grade for CE201
+
+VDA15CE047
+Nochange grade for CE201
+Nochange grade for HS200
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LVDA15EE044
+C grade for EE201
+
+VDA15EE002
+C grade for EE201
+
+VDA15EE003
+Nochange grade for HS210
+Nochange grade for EE207
+
+VDA15EE005
+Nochange grade for EE201
+Nochange grade for EE207
+
+VDA15EE010
+Nochange grade for EE201
+
+VDA15EE011
+C grade for EE207
+
+VDA15EE012
+B grade for EE201
+B grade for EE207
+
+VDA15EE013
+Nochange grade for EE201
+B grade for EE207
+
+VDA15EE014
+Nochange grade for EE201
+Nochange grade for EE207
+Nochange grade for EE203
+
+VDA15EE016
+Nochange grade for EE207
+Nochange grade for EE201
+
+VDA15EE018
+Nochange grade for EE207
+Nochange grade for EE205
+
+VDA15EE019
+Nochange grade for HS210
+
+VDA15EE020
+C grade for EE207
+
+VDA15EE021
+Nochange grade for EE207
+
+VDA15EE022
+Nochange grade for EE207
+Nochange grade for EE201
+
+VDA15EE026
+B+ grade for EE207
+
+VDA15EE027
+Nochange grade for EE205
+
+VDA15EE030
+C grade for EE205
+
+VDA15EE031
+Nochange grade for EE205
+
+VDA15EE033
+Nochange grade for EE201
+
+VDA15EE035
+Nochange grade for EE201
+Nochange grade for EE203
+
+VDA15EE036
+Nochange grade for EE203
+
+VDA15EE039
+Nochange grade for EE201
+
+COMPUTER SCIENCE & ENGINEERING
+
+LVDA15CS060
+Nochange grade for CS205
+
+LVDA15CS061
+B grade for HS210
+
+LVDA15CS063
+Nochange grade for CS203
+Nochange grade for CS205
+
+VDA15CS002
+Nochange grade for CS203
+C grade for MA201
+Nochange grade for CS205
+
+VDA15CS003
+Nochange grade for CS207
+Nochange grade for CS205
+
+VDA15CS008
+Nochange grade for CS205
+
+VDA15CS014
+Nochange grade for CS203
+Nochange grade for MA201
+
+VDA15CS024
+Nochange grade for MA201
+
+VDA15CS025
+Nochange grade for HS210
+Nochange grade for MA201
+
+VDA15CS026
+Nochange grade for CS207
+
+VDA15CS028
+Nochange grade for CS205
+
+VDA15CS034
+Nochange grade for CS205
+
+VDA15CS036
+Nochange grade for CS205
+
+VDA15CS044
+Nochange grade for CS203
+P grade for MA201
+Nochange grade for CS205
+
+VDA15CS045
+B grade for HS210
+
+VDA15CS046
+Nochange grade for CS207
+
+VDA15CS048
+B grade for HS210
+
+VDA15CS049
+Nochange grade for CS205
+
+VDA15CS055
+Nochange grade for MA201
+
+VDA15CS056
+Nochange grade for CS201
+Nochange grade for HS210
+Nochange grade for CS203
+
+VDA15CS057
+Nochange grade for CS205
+
+VDA15CS059
+Nochange grade for CS203
+Nochange grade for CS201
+B grade for HS210
+
+INFORMATION TECHNOLOGY
+
+LVDA15IT033
+Nochange grade for MA201
+
+LVDA15IT034
+C grade for IT203
+
+LVDA15IT035
+Nochange grade for IT201
+
+VDA15IT006
+Nochange grade for CS205
+
+VDA15IT012
+Nochange grade for MA201
+Nochange grade for CS205
+C grade for CS201
+
+VDA15IT015
+C grade for IT201
+
+VDA15IT019
+Nochange grade for MA201
+
+VDA15IT021
+C grade for CS201
+C grade for IT203
+
+VDA15IT023
+Nochange grade for CS201
+
+VDA15IT025
+Nochange grade for CS205
+
+VDA15IT026
+Nochange grade for CS201
+
+VDA15IT027
+C grade for CS201
+
+VDA15IT028
+Nochange grade for CS205
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LVDA15EC044
+Nochange grade for EC203
+
+LVDA15EC047
+C grade for EC203
+
+LVDA15EC048
+Nochange grade for EC203
+
+VDA15EC004
+Nochange grade for EC207
+Nochange grade for EC203
+
+VDA15EC005
+Nochange grade for EC207
+Nochange grade for EC201
+
+VDA15EC010
+C grade for EC207
+
+VDA15EC018
+Nochange grade for EC205
+
+VDA15EC022
+Nochange grade for EC207
+Nochange grade for EC201
+
+VDA15EC023
+Nochange grade for EC203
+
+VDA15EC027
+Nochange grade for EC203
+
+VDA15EC043
+Nochange grade for EC205
+
+VDA15AE002
+Nochange grade for EC201
+Nochange grade for EC203
+
+VDA15AE003
+C grade for MA201
+
+VDA15AE004
+C grade for MA201
+
+VDA15AE005
+Nochange grade for EC201
+
+VDA15AE006
+P grade for MA201
+
+VDA15AE007
+Nochange grade for EC203
+
+VDA15AE010
+Nochange grade for MA201
+Nochange grade for EC207
+
+VDA15AE017
+Nochange grade for EC203
+
+VDA15AE024
+Nochange grade for EC203

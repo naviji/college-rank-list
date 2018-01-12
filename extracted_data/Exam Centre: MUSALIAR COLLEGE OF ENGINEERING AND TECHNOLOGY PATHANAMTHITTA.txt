@@ -1,0 +1,226 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: MUSALIAR COLLEGE OF ENGINEERING AND TECHNOLOGY PATHANAMTHITTA
+
+ELECTRONICS & COMMUNICATION ENGG
+
+MCK15EC008
+TBP* grade for HS210
+TBP* grade for EC207
+
+MCK15EC011
+TBP* grade for EC203
+
+MCK15EC013
+TBP* grade for EC203
+TBP* grade for EC207
+
+MCK15EC014
+TBP* grade for EC203
+
+MCK15EC028
+TBP* grade for EC203
+
+MCK15EC031
+TBP* grade for EC203
+
+MCK15EC032
+TBP* grade for EC203
+TBP* grade for EC207
+
+MCK15EC034
+TBP* grade for EC203
+
+MCK15EC040
+TBP* grade for EC207
+
+COMPUTER SCIENCE & ENGINEERING
+
+MCK15CS010
+TBP* grade for HS210
+
+MCK15CS013
+TBP* grade for CS207
+
+MCK15CS014
+TBP* grade for MA201
+
+MCK15CS020
+TBP* grade for CS205
+TBP* grade for CS203
+
+MCK15CS025
+TBP* grade for HS210
+TBP* grade for CS203
+
+MCK15CS036
+TBP* grade for MA201
+
+MCK15CS040
+TBP* grade for CS207
+
+MCK15CS046
+TBP* grade for CS207
+
+MCK15CS055
+TBP* grade for HS210
+
+MECHANICAL ENGINEERING
+
+LMCK15ME121
+TBP* grade for ME205
+TBP* grade for ME210
+
+LMCK15ME124
+TBP* grade for ME210
+
+MCK15ME002
+TBP* grade for ME210
+
+MCK15ME003
+TBP* grade for ME205
+TBP* grade for ME210
+
+MCK15ME013
+TBP* grade for ME205
+TBP* grade for ME210
+
+MCK15ME016
+TBP* grade for ME210
+
+MCK15ME024
+TBP* grade for ME210
+TBP* grade for HS200
+
+MCK15ME031
+TBP* grade for ME203
+
+MCK15ME032
+TBP* grade for ME205
+
+MCK15ME052
+TBP* grade for ME210
+
+MCK15ME064
+TBP* grade for HS200
+TBP* grade for ME205
+
+MCK15ME072
+TBP* grade for ME201
+
+MCK15ME093
+TBP* grade for ME201
+
+MCK15ME104
+TBP* grade for ME205
+TBP* grade for HS200
+
+MCK15ME105
+TBP* grade for ME205
+
+MCK15ME115
+TBP* grade for HS200
+
+CIVIL ENGINEERING
+
+MCK15CE017
+TBP* grade for CE203
+TBP* grade for CE207
+TBP* grade for CE205
+
+MCK15CE023
+TBP* grade for CE207
+
+MCK15CE024
+TBP* grade for HS210
+
+MCK15CE028
+TBP* grade for CE207
+
+MCK15CE033
+TBP* grade for MA201
+TBP* grade for CE207
+TBP* grade for CE205
+
+MCK15CE044
+TBP* grade for CE207
+TBP* grade for CE203
+
+MCK15CE046
+TBP* grade for CE203
+
+MCK15CE049
+TBP* grade for CE203
+
+MCK15CE054
+TBP* grade for CE203
+TBP* grade for HS210
+
+MCK15CE060
+TBP* grade for CE203
+TBP* grade for CE201
+TBP* grade for CE207
+
+MCK15CE063
+TBP* grade for CE205
+TBP* grade for CE207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MCK15EE004
+TBP* grade for EE207
+
+MCK15EE006
+TBP* grade for EE205
+TBP* grade for HS200
+
+MCK15EE011
+TBP* grade for EE205
+TBP* grade for EE207
+
+MCK15EE013
+TBP* grade for EE205
+
+MCK15EE017
+TBP* grade for EE203
+TBP* grade for EE205
+
+MCK15EE018
+TBP* grade for EE205
+TBP* grade for EE207
+
+MCK15EE022
+TBP* grade for EE201
+
+MCK15EE023
+TBP* grade for EE207
+TBP* grade for EE203
+
+MCK15EE024
+TBP* grade for EE205
+
+MCK15EE028
+TBP* grade for MA201
+TBP* grade for EE205
+TBP* grade for EE201
+
+MCK15EE034
+TBP* grade for EE201
+
+MCK15EE036
+TBP* grade for EE207
+TBP* grade for EE205
+
+MCK15EE041
+TBP* grade for EE203
+TBP* grade for EE207
+TBP* grade for EE205
+
+MCK15EE043
+TBP* grade for EE205
+TBP* grade for MA201
+TBP* grade for EE207
+
+MCK15EE044
+TBP* grade for HS200
+
+MCK15EE051
+TBP* grade for EE207

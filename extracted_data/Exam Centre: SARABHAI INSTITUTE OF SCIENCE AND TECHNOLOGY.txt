@@ -1,0 +1,189 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: SARABHAI INSTITUTE OF SCIENCE AND TECHNOLOGY
+
+COMPUTER SCIENCE & ENGINEERING
+
+SIT15CS010
+B grade for HS210
+
+SIT15CS015
+B grade for HS210
+Nochange grade for MA201
+
+CIVIL ENGINEERING
+
+SIT15CE001
+B grade for HS210
+
+SIT15CE002
+Nochange grade for CE201
+Nochange grade for HS210
+
+SIT15CE003
+Nochange grade for CE205
+Nochange grade for CE201
+B grade for HS210
+
+SIT15CE004
+Nochange grade for CE205
+Nochange grade for HS210
+
+SIT15CE005
+B grade for HS210
+
+SIT15CE007
+B grade for HS210
+Nochange grade for CE201
+
+SIT15CE008
+Nochange grade for HS210
+
+SIT15CE010
+Nochange grade for CE207
+Nochange grade for CE205
+
+SIT15CE013
+B grade for HS210
+
+SIT15CE014
+Nochange grade for HS210
+
+SIT15CE016
+Nochange grade for CE205
+Nochange grade for HS210
+Nochange grade for CE207
+
+SIT15CE021
+B grade for HS210
+
+SIT15CE022
+C grade for CE203
+
+SIT15CE025
+Nochange grade for HS210
+
+SIT15CE026
+Nochange grade for HS210
+
+SIT15CE027
+Nochange grade for HS210
+Nochange grade for CE207
+
+SIT15CE028
+Nochange grade for HS210
+
+SIT15CE029
+Nochange grade for CE201
+Nochange grade for HS210
+
+SIT15CE030
+B grade for HS210
+
+SIT15CE033
+Nochange grade for CE205
+Nochange grade for CE203
+
+SIT15CE037
+Nochange grade for HS210
+
+SIT15CE040
+Nochange grade for CE203
+Nochange grade for HS210
+
+SIT15CE045
+Nochange grade for CE205
+Nochange grade for HS210
+
+MECHANICAL ENGINEERING
+
+SIT15ME023
+C grade for HS200
+
+SIT15ME026
+C grade for HS200
+Nochange grade for ME210
+
+SIT15ME030
+C grade for MA201
+Nochange grade for ME210
+Nochange grade for ME203
+
+SIT15ME037
+Nochange grade for HS200
+Nochange grade for ME205
+
+SIT15ME040
+Nochange grade for ME201
+
+SIT15ME045
+C grade for MA201
+
+SIT15ME049
+Nochange grade for ME201
+
+ELECTRONICS & COMMUNICATION ENGG
+
+SIT15EC001
+Nochange grade for EC207
+Nochange grade for EC205
+
+SIT15EC002
+Nochange grade for MA201
+
+SIT15EC004
+Nochange grade for MA201
+
+SIT15EC006
+Nochange grade for HS200
+
+SIT15EC007
+Nochange grade for EC203
+
+SIT15EC011
+Nochange grade for EC203
+Nochange grade for MA201
+
+SIT15EC015
+Nochange grade for EC201
+Nochange grade for MA201
+Nochange grade for EC207
+
+SIT15EC016
+Nochange grade for EC203
+
+SIT15EC023
+Nochange grade for MA201
+Nochange grade for EC203
+Nochange grade for EC207
+Nochange grade for EC201
+N grade for EC205
+
+SIT15EC026
+B grade for EC201
+
+LSIT15AE013
+Nochange grade for EC203
+
+LSIT15AE014
+Nochange grade for EC203
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+SIT15EE002
+C grade for EE207
+
+SIT15EE005
+C grade for EE201
+C grade for EE207
+Nochange grade for MA201
+Nochange grade for EE203
+Nochange grade for HS210
+
+SIT15EE013
+C grade for EE203
+Nochange grade for EE207
+
+SIT15EE021
+Nochange grade for EE203
+Nochange grade for EE207
+Nochange grade for EE201
+Nochange grade for EE205

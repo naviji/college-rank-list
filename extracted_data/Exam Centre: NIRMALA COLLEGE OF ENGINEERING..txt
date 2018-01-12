@@ -1,0 +1,88 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: NIRMALA COLLEGE OF ENGINEERING.
+
+MECHANICAL ENGINEERING
+
+NIE15ME001
+B grade for ME201
+
+NIE15ME011
+Nochange grade for ME203
+TBP* grade for ME210
+Nochange grade for ME201
+Nochange grade for ME205
+Nochange grade for HS210
+
+NIE15ME020
+C grade for ME201
+
+NIE15ME031
+Nochange grade for HS210
+
+NIE15ME032
+B grade for HS210
+B grade for ME201
+
+NIE15ME053
+B+ grade for HS210
+
+NIE15ME054
+Nochange grade for ME201
+
+CIVIL ENGINEERING
+
+NIE15CE005
+Nochange grade for CE203
+TBP* grade for MA201
+
+NIE15CE008
+C grade for CE205
+
+NIE15CE013
+TBP* grade for CE201
+
+NIE15CE015
+TBP* grade for MA201
+Nochange grade for CE205
+
+NIE15CE021
+Nochange grade for CE203
+TBP* grade for MA201
+
+NIE15CE030
+Nochange grade for CE203
+Nochange grade for HS210
+C grade for CE205
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+NIE15EE003
+TBP* grade for MA201
+
+NIE15EE006
+Nochange grade for EE205
+Nochange grade for EE207
+
+NIE15EE016
+Nochange grade for EE205
+Nochange grade for EE207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+NIE15EC008
+Nochange grade for HS200
+
+NIE15EC016
+C grade for EC201
+
+COMPUTER SCIENCE & ENGINEERING
+
+NIE15CS017
+Nochange grade for HS200
+Nochange grade for CS205
+
+NIE15CS021
+Nochange grade for HS200
+Nochange grade for CS203
+
+NIE15CS024
+Nochange grade for HS200

@@ -1,0 +1,315 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: MAR BASELIOS CHRISTIAN COLLEGE OF ENGINEERING & TECHNOLOGY
+
+MECHANICAL ENGINEERING
+
+MBC15ME001
+Nochange grade for ME201
+
+MBC15ME002
+C grade for ME201
+B+ grade for ME210
+
+MBC15ME003
+Nochange grade for ME201
+
+MBC15ME004
+Nochange grade for ME201
+Nochange grade for ME205
+
+MBC15ME005
+Nochange grade for MA201
+
+MBC15ME010
+C grade for ME210
+Nochange grade for ME201
+
+MBC15ME016
+P grade for ME201
+
+MBC15ME020
+Nochange grade for MA201
+
+MBC15ME021
+Nochange grade for MA201
+B grade for HS210
+B grade for ME210
+
+MBC15ME031
+C grade for ME201
+C grade for MA201
+
+MBC15ME038
+B grade for ME210
+
+MBC15ME039
+Nochange grade for MA201
+
+MBC15ME046
+C grade for ME210
+
+MBC15ME049
+Nochange grade for ME210
+
+MBC15ME053
+Nochange grade for MA201
+Nochange grade for ME205
+
+CIVIL ENGINEERING
+
+MBC15CE007
+Nochange grade for CE205
+
+MBC15CE008
+Nochange grade for HS200
+
+MBC15CE009
+C grade for CE207
+
+MBC15CE011
+Nochange grade for CE203
+
+MBC15CE012
+Nochange grade for HS200
+
+MBC15CE017
+P grade for MA201
+
+MBC15CE030
+Nochange grade for CE201
+
+MBC15CE033
+Nochange grade for HS200
+
+MBC15CE040
+C grade for CE207
+
+MBC15CE041
+Nochange grade for CE205
+
+MBC15CE042
+Nochange grade for CE205
+Nochange grade for MA201
+
+MBC15CE043
+C grade for CE207
+
+MBC15CE044
+Nochange grade for MA201
+C grade for CE207
+
+MBC15CE046
+Nochange grade for CE205
+Nochange grade for HS200
+
+MBC15CE051
+C grade for CE207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+LMBC15EE047
+Nochange grade for EE203
+
+LMBC15EE048
+Nochange grade for HS200
+Nochange grade for EE201
+
+MBC15EE002
+Nochange grade for HS200
+
+MBC15EE003
+Nochange grade for HS200
+Nochange grade for EE203
+
+MBC15EE006
+Nochange grade for EE207
+Nochange grade for EE205
+
+MBC15EE007
+Nochange grade for EE205
+
+MBC15EE009
+Nochange grade for EE203
+
+MBC15EE010
+Nochange grade for EE207
+
+MBC15EE013
+Nochange grade for HS200
+
+MBC15EE015
+Nochange grade for EE203
+
+MBC15EE016
+Nochange grade for EE203
+
+MBC15EE033
+Nochange grade for EE205
+
+MBC15EE035
+C grade for EE201
+Nochange grade for MA201
+Nochange grade for HS200
+
+MBC15EE036
+Nochange grade for MA201
+Nochange grade for EE205
+
+MBC15EE040
+Nochange grade for EE207
+
+MBC15EE042
+Nochange grade for HS200
+Nochange grade for EE203
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LMBC15EC049
+Nochange grade for EC205
+
+LMBC15EC050
+Nochange grade for MA201
+
+MBC15EC004
+Nochange grade for EC201
+Nochange grade for MA201
+
+MBC15EC005
+Nochange grade for EC205
+
+MBC15EC008
+C grade for MA201
+
+MBC15EC011
+C grade for MA201
+
+MBC15EC013
+Nochange grade for EC205
+
+MBC15EC016
+Nochange grade for EC201
+
+MBC15EC017
+C grade for EC201
+
+MBC15EC019
+Nochange grade for EC201
+
+MBC15EC020
+C grade for EC201
+Nochange grade for EC205
+
+MBC15EC021
+Nochange grade for EC205
+
+MBC15EC022
+Nochange grade for EC205
+
+MBC15EC024
+Nochange grade for EC207
+
+MBC15EC028
+P grade for EC201
+
+MBC15EC033
+Nochange grade for EC207
+Nochange grade for MA201
+P grade for HS210
+
+MBC15EC034
+Nochange grade for EC205
+
+MBC15EC035
+Nochange grade for EC203
+
+MBC15EC038
+Nochange grade for EC203
+Nochange grade for EC201
+Nochange grade for EC205
+
+MBC15EC044
+Nochange grade for EC201
+Nochange grade for EC205
+
+MBC15EC045
+B grade for HS210
+
+COMPUTER SCIENCE & ENGINEERING
+
+LMBC15CS049
+C grade for MA201
+Nochange grade for CS201
+
+LMBC15CS050
+Nochange grade for CS205
+
+MBC15CS002
+Nochange grade for CS205
+
+MBC15CS005
+Nochange grade for MA201
+
+MBC15CS006
+Nochange grade for CS205
+
+MBC15CS008
+Nochange grade for CS201
+
+MBC15CS012
+Nochange grade for CS205
+
+MBC15CS013
+Nochange grade for CS201
+Nochange grade for CS207
+C grade for CS205
+
+MBC15CS020
+Nochange grade for CS207
+
+MBC15CS021
+Nochange grade for CS205
+
+MBC15CS025
+C grade for CS205
+
+MBC15CS026
+Nochange grade for CS205
+Nochange grade for HS200
+
+MBC15CS028
+Nochange grade for HS200
+Nochange grade for CS203
+
+MBC15CS029
+Nochange grade for CS205
+
+MBC15CS033
+Nochange grade for CS201
+
+MBC15CS035
+Nochange grade for CS205
+Nochange grade for HS200
+
+MBC15CS036
+Nochange grade for CS201
+Nochange grade for HS200
+Nochange grade for CS205
+
+MBC15CS037
+C grade for CS205
+
+MBC15CS041
+P grade for CS205
+Nochange grade for HS200
+
+MBC15CS044
+Nochange grade for CS205
+Nochange grade for HS200
+
+MBC15CS045
+Nochange grade for CS205
+
+MBC15CS046
+C grade for CS207
+
+MBC15CS048
+Nochange grade for CS205

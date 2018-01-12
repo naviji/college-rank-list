@@ -1,0 +1,226 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: PROVIDENCE COLLEGE OF ENGINEERING
+
+MECHANICAL ENGINEERING
+
+ARC15ME045
+Nochange grade for MA201
+
+LPRC15ME047
+Nochange grade for ME203
+
+PRC15ME003
+Nochange grade for ME205
+
+PRC15ME004
+Nochange grade for ME203
+Nochange grade for HS200
+Nochange grade for ME205
+
+PRC15ME010
+Nochange grade for ME203
+
+PRC15ME011
+Nochange grade for ME205
+
+PRC15ME012
+Nochange grade for ME205
+
+PRC15ME014
+Nochange grade for HS200
+Nochange grade for MA201
+
+PRC15ME019
+Nochange grade for ME210
+Nochange grade for MA201
+
+PRC15ME020
+Nochange grade for ME201
+C grade for HS200
+Nochange grade for ME205
+
+PRC15ME023
+Nochange grade for ME210
+
+PRC15ME024
+Nochange grade for HS200
+Nochange grade for MA201
+
+PRC15ME026
+Nochange grade for ME205
+
+PRC15ME030
+Nochange grade for ME205
+
+PRC15ME033
+Nochange grade for MA201
+
+PRC15ME035
+Nochange grade for ME205
+
+PRC15ME036
+Nochange grade for MA201
+
+PRC15ME040
+Nochange grade for ME205
+
+PRC15ME041
+Nochange grade for ME210
+Nochange grade for ME201
+Nochange grade for HS200
+
+PRC15ME042
+Nochange grade for MA201
+
+PRC15ME043
+Nochange grade for ME201
+Nochange grade for ME210
+Nochange grade for ME205
+
+PRC15ME046
+Nochange grade for ME205
+
+CIVIL ENGINEERING
+
+LPRC15CE028
+C grade for CE203
+
+PRC15CE001
+Nochange grade for CE201
+Nochange grade for CE205
+
+PRC15CE004
+Nochange grade for CE205
+
+PRC15CE005
+Nochange grade for CE201
+C grade for CE205
+TBP* grade for CE203
+
+PRC15CE008
+Nochange grade for CE201
+Nochange grade for CE205
+Nochange grade for CE203
+
+PRC15CE009
+Nochange grade for MA201
+Nochange grade for CE205
+
+PRC15CE010
+C grade for CE203
+C grade for CE201
+C grade for CE205
+
+PRC15CE011
+Nochange grade for MA201
+
+PRC15CE012
+Nochange grade for CE201
+Nochange grade for CE207
+
+PRC15CE015
+B grade for CE203
+A grade for CE205
+
+PRC15CE016
+Nochange grade for CE205
+Nochange grade for CE201
+Nochange grade for CE207
+
+PRC15CE017
+Nochange grade for MA201
+Nochange grade for CE205
+Nochange grade for CE201
+
+PRC15CE018
+C grade for CE205
+
+PRC15CE019
+Nochange grade for CE203
+
+PRC15CE020
+C grade for CE205
+
+PRC15CE021
+Nochange grade for CE201
+
+PRC15CE025
+Nochange grade for CE205
+
+PRC15CE027
+Nochange grade for CE203
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+PRC15EE004
+Nochange grade for EE205
+
+PRC15EE007
+C grade for EE207
+Nochange grade for EE203
+
+PRC15EE009
+Nochange grade for EE205
+Nochange grade for EE201
+
+PRC15EE011
+B grade for EE207
+C grade for EE203
+
+ELECTRONICS & COMMUNICATION ENGG
+
+LPRC15EC011
+Nochange grade for EC205
+Nochange grade for EC203
+
+LPRC15EC012
+Nochange grade for EC205
+
+PRC15EC001
+Nochange grade for EC205
+
+PRC15EC004
+Nochange grade for EC205
+
+PRC15EC005
+Nochange grade for EC205
+
+PRC15EC006
+B grade for EC203
+Nochange grade for MA201
+Nochange grade for EC205
+
+PRC15EC007
+B grade for EC203
+Nochange grade for EC205
+
+PRC15EC008
+Nochange grade for EC205
+Nochange grade for EC203
+
+PRC15EC010
+Nochange grade for EC201
+Nochange grade for HS200
+Nochange grade for EC205
+
+COMPUTER SCIENCE & ENGINEERING
+
+PRC15CS003
+Nochange grade for CS207
+
+PRC15CS004
+C grade for CS201
+
+PRC15CS005
+Nochange grade for CS201
+
+PRC15CS010
+Nochange grade for CS201
+
+PRC15CS011
+B grade for CS201
+
+PRC15CS013
+Nochange grade for CS203
+
+PRC15CS014
+TBP* grade for CS201

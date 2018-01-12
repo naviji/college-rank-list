@@ -1,0 +1,446 @@
+Revaluation Result- B.Tech S3 Examination 2016-17 (S3 Result) for Exam Centre: JAWAHARLAL COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+AERONAUTICAL ENGINEERING
+
+JCE15AN001
+C grade for ME200
+
+JCE15AN005
+B grade for ME205
+
+JCE15AN014
+C grade for AO201
+
+JCE15AN015
+Nochange grade for AO201
+
+JCE15AN025
+B+ grade for AO201
+
+JCE15AN032
+Nochange grade for HS200
+
+JCE15AN035
+Nochange grade for MA201
+
+JCE15AN036
+Nochange grade for ME205
+
+JCE15AN040
+Nochange grade for AO201
+
+JCE15AN045
+C grade for AO201
+
+JCE15AN048
+Nochange grade for AO201
+
+JCE15AN050
+Nochange grade for ME205
+TBP* grade for ME211
+Nochange grade for AO201
+
+JCE15AN051
+P grade for ME205
+Nochange grade for AO201
+
+JCE15AN056
+Nochange grade for AO201
+
+JCE15AN059
+Nochange grade for AO201
+
+JCE15AN061
+A grade for ME200
+
+JCE15AN062
+C grade for ME205
+
+JCE15AN063
+C grade for AO201
+
+JCE15AN067
+Nochange grade for AO201
+
+JCE15AN069
+Nochange grade for ME205
+
+MECHANICAL ENGINEERING
+
+JCE15ME001
+Nochange grade for ME201
+
+JCE15ME002
+Nochange grade for ME203
+Nochange grade for ME210
+
+JCE15ME006
+Nochange grade for ME205
+Nochange grade for ME201
+
+JCE15ME007
+Nochange grade for ME203
+Nochange grade for ME210
+
+JCE15ME008
+Nochange grade for ME210
+
+JCE15ME009
+B grade for ME205
+Nochange grade for ME201
+
+JCE15ME011
+Nochange grade for ME203
+Nochange grade for ME210
+
+JCE15ME013
+Nochange grade for ME201
+
+JCE15ME014
+Nochange grade for ME201
+Nochange grade for ME205
+
+JCE15ME015
+Nochange grade for ME210
+
+JCE15ME016
+Nochange grade for ME210
+Nochange grade for ME205
+
+JCE15ME019
+C grade for ME201
+
+JCE15ME020
+Nochange grade for ME205
+
+JCE15ME022
+Nochange grade for ME210
+
+JCE15ME026
+Nochange grade for ME205
+
+JCE15ME027
+Nochange grade for ME203
+Nochange grade for ME210
+
+JCE15ME031
+Nochange grade for ME201
+C grade for ME205
+
+JCE15ME034
+Nochange grade for ME201
+
+JCE15ME036
+Nochange grade for ME201
+
+JCE15ME038
+Nochange grade for ME203
+Nochange grade for ME205
+
+JCE15ME040
+Nochange grade for ME205
+Nochange grade for ME210
+
+JCE15ME041
+Nochange grade for ME210
+
+JCE15ME044
+Nochange grade for ME203
+Nochange grade for ME210
+
+JCE15ME045
+Nochange grade for ME201
+
+JCE15ME047
+Nochange grade for ME205
+Nochange grade for ME210
+
+JCE15ME055
+Nochange grade for ME210
+
+JCE15ME056
+B grade for ME210
+Nochange grade for MA201
+Nochange grade for ME201
+
+JCE15ME059
+Nochange grade for ME201
+
+JCE15ME062
+B+ grade for ME210
+Nochange grade for ME203
+
+JCE15ME063
+C grade for ME205
+
+JCE15ME067
+Nochange grade for ME210
+Nochange grade for ME203
+
+JCE15ME070
+Nochange grade for ME205
+Nochange grade for ME203
+
+JCE15ME073
+Nochange grade for ME203
+Nochange grade for ME205
+
+JCE15ME074
+Nochange grade for ME201
+
+JCE15ME077
+Nochange grade for ME210
+
+JCE15ME087
+Nochange grade for ME205
+C grade for ME201
+
+JCE15ME097
+Nochange grade for ME201
+Nochange grade for ME210
+
+JCE15ME100
+Nochange grade for ME203
+Nochange grade for ME201
+
+JCE15ME102
+Nochange grade for ME201
+
+JCE15ME106
+Nochange grade for ME201
+
+JCE15ME107
+Nochange grade for ME210
+
+JCE15ME109
+Nochange grade for ME201
+Nochange grade for ME205
+
+JCE15ME111
+Nochange grade for ME201
+Nochange grade for ME205
+Nochange grade for ME203
+
+JCE15ME112
+Nochange grade for ME210
+
+LJCE15ME114
+Nochange grade for ME201
+Nochange grade for ME205
+Nochange grade for ME203
+
+JCE15CS012
+Nochange grade for CS203
+Nochange grade for CS207
+
+JCE15CS017
+Nochange grade for CS203
+
+JCE15CS033
+Nochange grade for CS203
+Nochange grade for CS207
+
+JCE15CS034
+Nochange grade for CS203
+
+JCE15CS038
+Nochange grade for CS205
+Nochange grade for CS207
+
+ELECTRONICS & COMMUNICATION ENGG
+
+JCE15EC005
+Nochange grade for EC201
+Nochange grade for EC207
+Nochange grade for EC205
+
+JCE15EC007
+C grade for EC201
+
+JCE15EC008
+Nochange grade for EC205
+Nochange grade for EC201
+Nochange grade for EC207
+
+JCE15EC010
+Nochange grade for EC205
+Nochange grade for EC201
+Nochange grade for HS210
+
+JCE15EC012
+Nochange grade for EC201
+
+JCE15EC013
+Nochange grade for EC207
+
+JCE15EC016
+Nochange grade for EC207
+
+JCE15EC017
+Nochange grade for EC207
+Nochange grade for MA201
+
+JCE15EC021
+Nochange grade for EC201
+Nochange grade for EC205
+
+LJCE15EC030
+Nochange grade for EC205
+
+CIVIL ENGINEERING
+
+JCE15CE001
+Nochange grade for CE201
+Nochange grade for CE203
+
+JCE15CE002
+TBP* grade for CE207
+Nochange grade for CE201
+
+JCE15CE003
+TBP* grade for CE207
+
+JCE15CE004
+Nochange grade for CE201
+TBP* grade for CE207
+
+JCE15CE005
+Nochange grade for CE201
+Nochange grade for CE203
+
+JCE15CE007
+TBP* grade for CE207
+Nochange grade for CE203
+
+JCE15CE011
+TBP* grade for CE207
+Nochange grade for CE205
+Nochange grade for CE201
+
+JCE15CE012
+Nochange grade for CE205
+Nochange grade for HS200
+Nochange grade for MA201
+Nochange grade for CE203
+TBP* grade for CE207
+C grade for CE201
+
+JCE15CE019
+Nochange grade for HS200
+Nochange grade for CE201
+
+JCE15CE023
+Nochange grade for CE201
+Nochange grade for CE203
+
+JCE15CE024
+C grade for CE201
+
+JCE15CE026
+Nochange grade for CE201
+
+JCE15CE031
+TBP* grade for CE207
+
+JCE15CE033
+Nochange grade for CE201
+TBP* grade for CE207
+
+JCE15CE037
+TBP* grade for CE207
+
+JCE15CE038
+TBP* grade for CE207
+
+JCE15CE040
+B grade for CE201
+Nochange grade for HS200
+
+JCE15CE041
+Nochange grade for CE207
+
+JCE15CE043
+Nochange grade for CE207
+
+JCE15CE044
+Nochange grade for CE207
+Nochange grade for CE205
+
+JCE15CE046
+Nochange grade for CE207
+
+JCE15CE047
+Nochange grade for HS200
+
+JCE15CE048
+Nochange grade for CE207
+
+JCE15CE050
+Nochange grade for CE203
+Nochange grade for CE207
+Nochange grade for CE205
+
+JCE15CE052
+Nochange grade for CE205
+Nochange grade for CE207
+
+JCE15CE054
+Nochange grade for CE207
+
+JCE15CE056
+Nochange grade for CE207
+
+JCE15CE059
+Nochange grade for CE205
+
+JCE15CE064
+Nochange grade for CE207
+
+JCE15CE071
+Nochange grade for CE207
+Nochange grade for CE201
+Nochange grade for HS200
+
+JCE15CE075
+Nochange grade for CE207
+
+JCE15CE078
+Nochange grade for CE205
+Nochange grade for MA201
+
+JCE15CE080
+Nochange grade for CE201
+Nochange grade for CE207
+
+JCE15CE083
+Nochange grade for CE207
+
+JCE15CE084
+Nochange grade for CE201
+Nochange grade for CE207
+
+JCE15CE089
+Nochange grade for CE207
+
+JCE15CE091
+Nochange grade for CE207
+
+JCE15CE095
+Nochange grade for CE207
+
+ELECTRICAL AND ELECTRONICS ENGINEERING
+
+JCE15EE005
+Nochange grade for EE201
+Nochange grade for EE203
+
+JCE15EE008
+A grade for EE203
+B+ grade for EE201
+
+JCE15EE011
+Nochange grade for EE205
+Nochange grade for EE201
+
+JCE15EE013
+A grade for EE201
