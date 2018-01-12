@@ -63,7 +63,7 @@ for link in soup.find_all('a'):
 
 print("Started downloading files...")
 print("Please wait!")
-<<<<<<< HEAD
+
 
 print("Download links is {}".format(len(download_links)))
 
