@@ -9,15 +9,16 @@ import os
 import sys
 
 
-def get_html( str ):
-	# returns html string from url
-	fp = urllib.request.urlopen(str)
+def get_html(url):
+	# returns html of the webpage from url
+	fp = urllib.request.urlopen(url)
 	mybytes = fp.read()
 	mystr = mybytes.decode("utf8")
 	fp.close()
 	return mystr
 
 def download_file(download_url,save_path):
+
 	#download binary files like pdf (not text)
 	try:
 		urllib.request.urlretrieve(download_url, save_path)
@@ -25,42 +26,44 @@ def download_file(download_url,save_path):
 		pass
 
 
-def convert_file(src,des):
-	# convert pdf in desc path to txt file and store in src path
-	raw_text = convert_pdf_to_txt(src)
-	text_file = open(des,"w")
+
+def convert_file(source,destination):
+	# convert pdf in desc path to txt file and store in source path
+	raw_text = convert_pdf_to_txt(source)
+	text_file = open(destination,"w")
 	text_file.write(raw_text)
 	text_file.close()
 
 
 
 download_links = [] # list to store the download urls
-count = 0 # initialize number of colleges to zero
+no_of_colleges = 0 # initialize number of colleges to zero
 
-#result_url = input("Enter the url of result page: ")
+
+result_url = input("Enter the url of result page: ")
 # format should be https://www.example.com
 
 
-#reevaluation
-result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=RoE%2F07yCsEFz0nJaidWuFNganRBI0TZM%2Fl3WT%2Fwo%2FkQ%3D&type=4kyXyfdHf%2FCaEPB6S7gFdjXZXxtVsY17K%2BOLu1n%2BiVQ%3D&publishId=JNnXauezrqAZMqkLExkGsYmPJl0c1VplqgEbuWZlmrg%3D"""
+
 
 html_doc = get_html(result_url)
 
-# creates a ordered grouping from raw html string
+# arrange html string using html parser
 soup = BeautifulSoup(html_doc, 'html.parser')
 
 
 for link in soup.find_all('a'):
-	temp = link.get('href')
-	if("attachment" in temp):
-		if("https://www.ktu.edu.in" not in temp):
-			download_links.append("https://www.ktu.edu.in"+temp)
+	link_url = link.get('href')
+	if("attachment" in link_url):
+		if("https://www.ktu.edu.in" not in link_url):
+			download_links.append("https://www.ktu.edu.in"+link_url)
 		else:
-			download_links.append(temp)
+			download_links.append(link_url)
 
 
 print("Started downloading files...")
 print("Please wait!")
+<<<<<<< HEAD
 
 print("Download links is {}".format(len(download_links)))
 
