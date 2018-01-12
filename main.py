@@ -1,9 +1,12 @@
 import urllib.request
+import pathlib
+from multiprocessing.dummy import Pool as ThreadPool
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from pdftotext import convert_pdf_to_txt
 from data_extract import extractor
-
+import os
+import sys
 
 
 def get_html(url):
@@ -15,11 +18,12 @@ def get_html(url):
 	return mystr
 
 def download_file(download_url,save_path):
-	#download binary files like pdf
-	response = urlopen(download_url)
-	file = open(save_path, 'wb+')
-	file.write(response.read())
-	file.close()
+
+	#download binary files like pdf (not text)
+	try:
+		urllib.request.urlretrieve(download_url, save_path)
+	except:
+		pass
 
 
 
@@ -41,7 +45,6 @@ result_url = input("Enter the url of result page: ")
 
 
 
-# result_url = """https://www.ktu.edu.in/eu/res/viewExamResults.htm?examDefIdEnr=PXWICZ57B6PcSF7NA%2FqyDlx%2FBbieI99UDGm0PtoFocg%3D&type=3IcV3MhL9p%2FDdB%2FcWAiPRLKlmX8r0%2B%2FsZFCVI%2Fx8bjI%3D&publishId=%2Bjvpw5b2g4cWkUV8essjUJZMB8vvszOylAB%2FPDL6%2BGs%3D"""
 
 html_doc = get_html(result_url)
 
@@ -60,17 +63,25 @@ for link in soup.find_all('a'):
 
 print("Started downloading files...")
 print("Please wait!")
-for url in download_links:
-	no_of_colleges = no_of_colleges + 1
-	download_file(url,"./pdf/{}.pdf".format(no_of_colleges))
-	print("Downloaded {}-".format(no_of_colleges))
-print("Download completed")
+<<<<<<< HEAD
+
+print("Download links is {}".format(len(download_links)))
+
+destination = ["{}/pdf/{}.pdf".format(".",i) for i in range(1,len(download_links)+1)]
+pool = ThreadPool(100)
+results = pool.starmap(download_file, zip(download_links, destination))
+
+
 
 
 print("Started conversion of files...")
 print("Please wait!")
-for i in range(1,no_of_colleges+1):
+for i in range(1,len(download_links)+1):
 	convert_file("./pdf/{}.pdf".format(i),"./text/{}.txt".format(i))
-	extractor("./text/{}.txt".format(i),"./extracted_data")
+	os.remove("./pdf/{}.pdf".format(i))
+	extractor("./text/{}.txt".format(i))
+	os.remove("./text/{}.txt".format(i))
 	print("Converted {}-".format(i))
 print("Conversion completed and data extracted")
+
+
