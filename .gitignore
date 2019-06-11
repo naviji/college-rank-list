@@ -2,3 +2,8 @@
 *.pyc
 __pycache__
 __pycache__/*
+
+*.csv
+*.pdf
+*.txt
+*.csv#
