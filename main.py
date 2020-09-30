@@ -9,8 +9,10 @@ import os
 import sys
 
 
+
+
 def get_html(url):
-	# returns html of the webpage from url
+	# returns html of the webpage from url 
 	fp = urllib.request.urlopen(url)
 	mybytes = fp.read()
 	mystr = mybytes.decode("utf8")
@@ -36,7 +38,7 @@ def convert_file(source,destination):
 
 
 
-download_links = [] # list to store the download urls
+download_links = [] # list to store the download url(s)
 no_of_colleges = 0 # initialize number of colleges to zero
 
 
